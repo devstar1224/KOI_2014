@@ -1,0 +1,42 @@
+=====================================================
+평균 s : 1.9609(sys) 0.2109(user)
+값 : a+b/2
+
+메모리 section : \BaseNameObjects\ciceroSharedMemDefaultS-1-5-21-861567501-1960408961-839522115-1004
+                  \BaseNameObjects\CTF\TimListCache.FMPDefaultS-1-5-21-861567501-1906408961-839522115-1004SFM. ""
+	\BaseNameObjects\ShimShareMemory
+	\BaseNameObjects\ImeKr61ImeData.SharedmEMemory
+	\BaseNameObjects\MSCTF.Shared.SFM.MNG
+	\BaseNameObjects\MSCTF.Shared.SFM.IEO
+	\BaseNameObjects\DFMap0-14753869
+	\BaseNameObjects\DfSharedHeapE12042
+======================================================
+주요 사용 DllPath
+-
+MSWINSCK - APP.PATH & MSWINSCK.OCX 
+WINHTTP - C:\WINDOWS\system32\WINHTTP.DLL
+LPK - C:\WINDOWS\system32\LPK.DLL
+Apphelp - c:\WINDOWS\system32\Apphelp.dll
+======================================================
+테스트 dll ver 
+-
+MSWINSCK - 6.00.8169
+WINHTTP - 5.1.2600.5512
+LPK - 5.1.2600.5512
+Apphelp - 5.1.2660.5512
+=======================================================
+sp
+-
+xpsp.080413-2105
+=======================================================
+os
+-
+WindowsXP HomeEdition K Version 2002 SP:3
+
+RAM : 2GB
+CPU : intel(r) Core(TM)2 CPU
+========================================================
+DATE
+-
+오후 6:55 2014-03-11
+========================================================

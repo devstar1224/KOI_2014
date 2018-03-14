@@ -1,0 +1,1826 @@
+ main
+
+ Timestamp is 5368bbde (Tue May 06 19:39:26 2014)
+
+ Preferred load address is 00400000
+
+ Start         Length     Name                   Class
+ 0001:00000000 000001dcH .idata$5                CODE
+ 0001:000001e0 00001a80H .rdata                  CODE
+ 0001:00001c60 0003cea8H .text                   CODE
+ 0001:0003eb10 00000004H .text$0                 CODE
+ 0001:0003eb20 0003bf30H .text$1                 CODE
+ 0001:0007aa50 00000004H .text$2                 CODE
+ 0001:0007aa54 00000014H .idata$2                CODE
+ 0001:0007aa68 00000014H .idata$3                CODE
+ 0001:0007aa7c 000001dcH .idata$4                CODE
+ 0001:0007ac58 00000608H .idata$6                CODE
+ 0001:0007b260 00000000H .edata                  CODE
+ 0002:00000000 00000004H .data                   DATA
+ 0002:00000008 0001b8dcH .bss                    DATA
+ 0003:00000000 00000118H .rsrc$01                DATA
+ 0003:00000120 000009d4H .rsrc$02                DATA
+
+  Address         Publics by Value              Rva+Base     Lib:Object
+
+ 0001:00000000       __imp____vbaVarSub         00401000     main1.OBJ
+ 0001:00000000       __imp_@__vbaVarSub         00401000     main1.OBJ
+ 0001:00000004       __imp_@__vbaStrI2          00401004     main1.OBJ
+ 0001:00000004       __imp____vbaStrI2          00401004     main1.OBJ
+ 0001:00000008       __imp____vba@0695363C      00401008     main1.OBJ
+ 0001:00000008       __imp_@__vba@0695363C      00401008     main1.OBJ
+ 0001:0000000c       __imp____vba@069529E0      0040100c     main1.OBJ
+ 0001:0000000c       __imp_@__vba@069529E0      0040100c     main1.OBJ
+ 0001:00000010       __imp___CIcos              00401010     main1.OBJ
+ 0001:00000014       __imp___adj_fptan          00401014     main1.OBJ
+ 0001:00000018       __imp_@__vbaStrI4          00401018     main1.OBJ
+ 0001:00000018       __imp____vbaStrI4          00401018     main1.OBJ
+ 0001:0000001c       __imp____vbaVarMove        0040101c     main1.OBJ
+ 0001:0000001c       __imp_@__vbaVarMove        0040101c     main1.OBJ
+ 0001:00000020       __imp_@__vbaFreeVar        00401020     main1.OBJ
+ 0001:00000020       __imp____vbaFreeVar        00401020     main1.OBJ
+ 0001:00000024       __imp____vbaLenBstr        00401024     main1.OBJ
+ 0001:00000024       __imp_@__vbaLenBstr        00401024     main1.OBJ
+ 0001:00000028       __imp_@__vbaStrVarMove     00401028     main1.OBJ
+ 0001:00000028       __imp____vbaStrVarMove     00401028     main1.OBJ
+ 0001:0000002c       __imp_@__vbaPut3           0040102c     main1.OBJ
+ 0001:0000002c       __imp____vbaPut3           0040102c     main1.OBJ
+ 0001:00000030       __imp____vbaEnd            00401030     main1.OBJ
+ 0001:00000030       __imp_@__vbaEnd            00401030     main1.OBJ
+ 0001:00000034       __imp_@__vbaFreeVarList    00401034     main1.OBJ
+ 0001:00000034       __imp____vbaFreeVarList    00401034     main1.OBJ
+ 0001:00000038       __imp___adj_fdiv_m64       00401038     main1.OBJ
+ 0001:0000003c       __imp_@__vbaFreeObjList    0040103c     main1.OBJ
+ 0001:0000003c       __imp____vbaFreeObjList    0040103c     main1.OBJ
+ 0001:00000040       __imp___adj_fprem1         00401040     main1.OBJ
+ 0001:00000044       __imp____vba@0634D598      00401044     main1.OBJ
+ 0001:00000044       __imp_@__vba@0634D598      00401044     main1.OBJ
+ 0001:00000048       __imp____vbaStrCat         00401048     main1.OBJ
+ 0001:00000048       __imp_@__vbaStrCat         00401048     main1.OBJ
+ 0001:0000004c       __imp_@__vba@0634C744      0040104c     main1.OBJ
+ 0001:0000004c       __imp____vba@0634C744      0040104c     main1.OBJ
+ 0001:00000050       __imp_@__vbaSetSystemError 00401050     main1.OBJ
+ 0001:00000050       __imp____vbaSetSystemError 00401050     main1.OBJ
+ 0001:00000054       __imp_@__vbaHresultCheckObj 00401054     main1.OBJ
+ 0001:00000054       __imp____vbaHresultCheckObj 00401054     main1.OBJ
+ 0001:00000058       __imp_@__vbaLenVar         00401058     main1.OBJ
+ 0001:00000058       __imp____vbaLenVar         00401058     main1.OBJ
+ 0001:0000005c       __imp___adj_fdiv_m32       0040105c     main1.OBJ
+ 0001:00000060       __imp_@__vbaAryVar         00401060     main1.OBJ
+ 0001:00000060       __imp____vbaAryVar         00401060     main1.OBJ
+ 0001:00000064       __imp____vbaVarTstLe       00401064     main1.OBJ
+ 0001:00000064       __imp_@__vbaVarTstLe       00401064     main1.OBJ
+ 0001:00000068       __imp_@__vbaAryDestruct    00401068     main1.OBJ
+ 0001:00000068       __imp____vbaAryDestruct    00401068     main1.OBJ
+ 0001:0000006c       __imp_@__vbaVarIndexLoadRefLock 0040106c     main1.OBJ
+ 0001:0000006c       __imp____vbaVarIndexLoadRefLock 0040106c     main1.OBJ
+ 0001:00000070       __imp_@__vbaLateMemSt      00401070     main1.OBJ
+ 0001:00000070       __imp____vbaLateMemSt      00401070     main1.OBJ
+ 0001:00000074       __imp____vba@0634DA1C      00401074     main1.OBJ
+ 0001:00000074       __imp_@__vba@0634DA1C      00401074     main1.OBJ
+ 0001:00000078       __imp_@__vbaExitProc       00401078     main1.OBJ
+ 0001:00000078       __imp____vbaExitProc       00401078     main1.OBJ
+ 0001:0000007c       __imp_@__vba@0634DA54      0040107c     main1.OBJ
+ 0001:0000007c       __imp____vba@0634DA54      0040107c     main1.OBJ
+ 0001:00000080       __imp____vbaOnError        00401080     main1.OBJ
+ 0001:00000080       __imp_@__vbaOnError        00401080     main1.OBJ
+ 0001:00000084       __imp____vbaObjSet         00401084     main1.OBJ
+ 0001:00000084       __imp_@__vbaObjSet         00401084     main1.OBJ
+ 0001:00000088       __imp____vba@06951690      00401088     main1.OBJ
+ 0001:00000088       __imp_@__vba@06951690      00401088     main1.OBJ
+ 0001:0000008c       __imp___adj_fdiv_m16i      0040108c     main1.OBJ
+ 0001:00000090       __imp____vbaObjSetAddref   00401090     main1.OBJ
+ 0001:00000090       __imp_@__vbaObjSetAddref   00401090     main1.OBJ
+ 0001:00000094       __imp___adj_fdivr_m16i     00401094     main1.OBJ
+ 0001:00000098       __imp_@__vbaVarIndexLoad   00401098     main1.OBJ
+ 0001:00000098       __imp____vbaVarIndexLoad   00401098     main1.OBJ
+ 0001:0000009c       __imp____vbaFpR4           0040109c     main1.OBJ
+ 0001:0000009c       __imp_@__vbaFpR4           0040109c     main1.OBJ
+ 0001:000000a0       __imp____vbaBoolVar        004010a0     main1.OBJ
+ 0001:000000a0       __imp_@__vbaBoolVar        004010a0     main1.OBJ
+ 0001:000000a4       __imp_@__vbaBoolVarNull    004010a4     main1.OBJ
+ 0001:000000a4       __imp____vbaBoolVarNull    004010a4     main1.OBJ
+ 0001:000000a8       __imp_@__vbaFpR8           004010a8     main1.OBJ
+ 0001:000000a8       __imp____vbaFpR8           004010a8     main1.OBJ
+ 0001:000000ac       __imp___CIsin              004010ac     main1.OBJ
+ 0001:000000b0       __imp_@__vba@0634D964      004010b0     main1.OBJ
+ 0001:000000b0       __imp____vba@0634D964      004010b0     main1.OBJ
+ 0001:000000b4       __imp____vba@0634D43C      004010b4     main1.OBJ
+ 0001:000000b4       __imp_@__vba@0634D43C      004010b4     main1.OBJ
+ 0001:000000b8       __imp____vbaChkstk         004010b8     main1.OBJ
+ 0001:000000bc       __imp_@__vba@0634D134      004010bc     main1.OBJ
+ 0001:000000bc       __imp____vba@0634D134      004010bc     main1.OBJ
+ 0001:000000c0       __imp____vbaFileClose      004010c0     main1.OBJ
+ 0001:000000c0       __imp_@__vbaFileClose      004010c0     main1.OBJ
+ 0001:000000c8       __imp_@__vbaGenerateBoundsError 004010c8     main1.OBJ
+ 0001:000000c8       __imp____vbaGenerateBoundsError 004010c8     main1.OBJ
+ 0001:000000cc       __imp____vbaGet3           004010cc     main1.OBJ
+ 0001:000000cc       __imp_@__vbaGet3           004010cc     main1.OBJ
+ 0001:000000d0       __imp_@__vbaStrCmp         004010d0     main1.OBJ
+ 0001:000000d0       __imp____vbaStrCmp         004010d0     main1.OBJ
+ 0001:000000d4       __imp____vbaAryConstruct2  004010d4     main1.OBJ
+ 0001:000000d4       __imp_@__vbaAryConstruct2  004010d4     main1.OBJ
+ 0001:000000d8       __imp_@__vbaI2I4           004010d8     main1.OBJ
+ 0001:000000d8       __imp____vbaI2I4           004010d8     main1.OBJ
+ 0001:000000e0       __imp____vbaCastObjVar     004010e0     main1.OBJ
+ 0001:000000e0       __imp_@__vbaCastObjVar     004010e0     main1.OBJ
+ 0001:000000e4       __imp___adj_fpatan         004010e4     main1.OBJ
+ 0001:000000e8       __imp____vbaR4Var          004010e8     main1.OBJ
+ 0001:000000e8       __imp_@__vbaR4Var          004010e8     main1.OBJ
+ 0001:000000ec       __imp____vbaLateIdCallLd   004010ec     main1.OBJ
+ 0001:000000ec       __imp_@__vbaLateIdCallLd   004010ec     main1.OBJ
+ 0001:000000f0       __imp____vbaRedim          004010f0     main1.OBJ
+ 0001:000000f0       __imp_@__vbaRedim          004010f0     main1.OBJ
+ 0001:000000f8       __imp____vba@06345350      004010f8     main1.OBJ
+ 0001:000000f8       __imp_@__vba@06345350      004010f8     main1.OBJ
+ 0001:000000fc       __imp_@__vbaUI1I2          004010fc     main1.OBJ
+ 0001:000000fc       __imp____vbaUI1I2          004010fc     main1.OBJ
+ 0001:00000100       __imp___CIsqrt             00401100     main1.OBJ
+ 0001:00000104       __imp_@__vbaVarAnd         00401104     main1.OBJ
+ 0001:00000104       __imp____vbaVarAnd         00401104     main1.OBJ
+ 0001:0000010c       __imp____vbaExceptHandler  0040110c     main1.OBJ
+ 0001:00000110       __imp_@__vba@0634D324      00401110     main1.OBJ
+ 0001:00000110       __imp____vba@0634D324      00401110     main1.OBJ
+ 0001:00000114       __imp____vba@0634D5DC      00401114     main1.OBJ
+ 0001:00000114       __imp_@__vba@0634D5DC      00401114     main1.OBJ
+ 0001:00000118       __imp_@__vbaPrintFile      00401118     main1.OBJ
+ 0001:00000118       __imp____vbaPrintFile      00401118     main1.OBJ
+ 0001:0000011c       __imp_@__vbaStrToUnicode   0040111c     main1.OBJ
+ 0001:0000011c       __imp____vbaStrToUnicode   0040111c     main1.OBJ
+ 0001:00000120       __imp_@__vba@0634D8DC      00401120     main1.OBJ
+ 0001:00000120       __imp____vba@0634D8DC      00401120     main1.OBJ
+ 0001:00000124       __imp___adj_fprem          00401124     main1.OBJ
+ 0001:00000128       __imp___adj_fdivr_m64      00401128     main1.OBJ
+ 0001:0000012c       __imp____vba@0634D99C      0040112c     main1.OBJ
+ 0001:0000012c       __imp_@__vba@0634D99C      0040112c     main1.OBJ
+ 0001:00000130       __imp_@__vbaVarDiv         00401130     main1.OBJ
+ 0001:00000130       __imp____vbaVarDiv         00401130     main1.OBJ
+ 0001:00000134       __imp____vba@06950F38      00401134     main1.OBJ
+ 0001:00000134       __imp_@__vba@06950F38      00401134     main1.OBJ
+ 0001:00000138       __imp_@__vbaVarCmpLe       00401138     main1.OBJ
+ 0001:00000138       __imp____vbaVarCmpLe       00401138     main1.OBJ
+ 0001:0000013c       __imp____vbaFPException    0040113c     main1.OBJ
+ 0001:00000140       __imp____vba@06954158      00401140     main1.OBJ
+ 0001:00000140       __imp_@__vba@06954158      00401140     main1.OBJ
+ 0001:00000144       __imp____vbaUbound         00401144     main1.OBJ
+ 0001:00000144       __imp_@__vbaUbound         00401144     main1.OBJ
+ 0001:00000148       __imp_@__vbaStrVarVal      00401148     main1.OBJ
+ 0001:00000148       __imp____vbaStrVarVal      00401148     main1.OBJ
+ 0001:0000014c       __imp_@__vbaVarCat         0040114c     main1.OBJ
+ 0001:0000014c       __imp____vbaVarCat         0040114c     main1.OBJ
+ 0001:00000150       __imp_@__vba@0634CEF8      00401150     main1.OBJ
+ 0001:00000150       __imp____vba@0634CEF8      00401150     main1.OBJ
+ 0001:00000154       __imp___CIlog              00401154     main1.OBJ
+ 0001:00000158       __imp____vbaErrorOverflow  00401158     main1.OBJ
+ 0001:00000158       __imp_@__vbaErrorOverflow  00401158     main1.OBJ
+ 0001:0000015c       __imp_@__vbaFileOpen       0040115c     main1.OBJ
+ 0001:0000015c       __imp____vbaFileOpen       0040115c     main1.OBJ
+ 0001:00000160       __imp____vba@0634D1B8      00401160     main1.OBJ
+ 0001:00000160       __imp_@__vba@0634D1B8      00401160     main1.OBJ
+ 0001:00000164       __imp_@__vba@0634D0FC      00401164     main1.OBJ
+ 0001:00000164       __imp____vba@0634D0FC      00401164     main1.OBJ
+ 0001:00000168       __imp_@__vbaNew2           00401168     main1.OBJ
+ 0001:00000168       __imp____vbaNew2           00401168     main1.OBJ
+ 0001:0000016c       __imp_@__vbaInStr          0040116c     main1.OBJ
+ 0001:0000016c       __imp____vbaInStr          0040116c     main1.OBJ
+ 0001:00000170       __imp___adj_fdiv_m32i      00401170     main1.OBJ
+ 0001:00000174       __imp___adj_fdivr_m32i     00401174     main1.OBJ
+ 0001:00000178       __imp____vbaStrCopy        00401178     main1.OBJ
+ 0001:00000178       __imp_@__vbaStrCopy        00401178     main1.OBJ
+ 0001:0000017c       __imp____vbaVarCmpLt       0040117c     main1.OBJ
+ 0001:0000017c       __imp_@__vbaVarCmpLt       0040117c     main1.OBJ
+ 0001:00000180       __imp_@__vbaFreeStrList    00401180     main1.OBJ
+ 0001:00000180       __imp____vbaFreeStrList    00401180     main1.OBJ
+ 0001:00000184       __imp___adj_fdivr_m32      00401184     main1.OBJ
+ 0001:00000188       __imp___adj_fdiv_r         00401188     main1.OBJ
+ 0001:00000190       __imp____vbaI4Var          00401190     main1.OBJ
+ 0001:00000190       __imp_@__vbaI4Var          00401190     main1.OBJ
+ 0001:00000194       __imp____vba@06951564      00401194     main1.OBJ
+ 0001:00000194       __imp_@__vba@06951564      00401194     main1.OBJ
+ 0001:00000198       __imp____vba@0634D284      00401198     main1.OBJ
+ 0001:00000198       __imp_@__vba@0634D284      00401198     main1.OBJ
+ 0001:0000019c       __imp____vba@0634C77C      0040119c     main1.OBJ
+ 0001:0000019c       __imp_@__vba@0634C77C      0040119c     main1.OBJ
+ 0001:000001a0       __imp_@__vbaStrToAnsi      004011a0     main1.OBJ
+ 0001:000001a0       __imp____vbaStrToAnsi      004011a0     main1.OBJ
+ 0001:000001a4       __imp____vbaVarDup         004011a4     main1.OBJ
+ 0001:000001a4       __imp_@__vbaVarDup         004011a4     main1.OBJ
+ 0001:000001a8       __imp____vbaFpI4           004011a8     main1.OBJ
+ 0001:000001a8       __imp_@__vbaFpI4           004011a8     main1.OBJ
+ 0001:000001ac       __imp_@__vbaLateMemCallLd  004011ac     main1.OBJ
+ 0001:000001ac       __imp____vbaLateMemCallLd  004011ac     main1.OBJ
+ 0001:000001b0       __imp___CIatan             004011b0     main1.OBJ
+ 0001:000001b4       __imp____vbaAryCopy        004011b4     main1.OBJ
+ 0001:000001b4       __imp_@__vbaAryCopy        004011b4     main1.OBJ
+ 0001:000001b8       __imp____vbaStrMove        004011b8     main1.OBJ
+ 0001:000001b8       __imp_@__vbaStrMove        004011b8     main1.OBJ
+ 0001:000001bc       __imp___allmul             004011bc     main1.OBJ
+ 0001:000001c0       __imp_@__vbaLenVarB        004011c0     main1.OBJ
+ 0001:000001c0       __imp____vbaLenVarB        004011c0     main1.OBJ
+ 0001:000001c4       __imp___CItan              004011c4     main1.OBJ
+ 0001:000001c8       __imp_@__vbaAryUnlock      004011c8     main1.OBJ
+ 0001:000001c8       __imp____vbaAryUnlock      004011c8     main1.OBJ
+ 0001:000001cc       __imp___CIexp              004011cc     main1.OBJ
+ 0001:000001d0       __imp_@__vbaFreeStr        004011d0     main1.OBJ
+ 0001:000001d0       __imp____vbaFreeStr        004011d0     main1.OBJ
+ 0001:000001d4       __imp____vbaFreeObj        004011d4     main1.OBJ
+ 0001:000001d4       __imp_@__vbaFreeObj        004011d4     main1.OBJ
+ 0001:000002c4       __real@4@4003d000000000000000 004012c4     VSKIN.OBJ
+ 0001:000002c8       __real@4@40039000000000000000 004012c8     VSKIN.OBJ
+ 0001:000002cc       __real@4@4002a000000000000000 004012cc     VSKIN.OBJ
+ 0001:000002d0       __real@4@4002f000000000000000 004012d0     VSKIN.OBJ
+ 0001:000002d4       __real@4@4003a000000000000000 004012d4     VSKIN.OBJ
+ 0001:00000300       __real@4@4003f000000000000000 00401300     VSKIN.OBJ
+ 0001:00000308       __real@8@4000c000000000000000 00401308     VSKIN.OBJ
+ 0001:000003b8       __real@4@00000000000000000000 004013b8     VSKIN.OBJ
+ 0001:000003bc       __real@4@40038000000000000000 004013bc     VSKIN.OBJ
+ 0001:00001bc0       __real@8@40008000000000000000 00402bc0     addwordtest.OBJ
+ 0001:00001c60       VB@TEXT                    00402c60     main1.OBJ
+ 0001:00001c60       ___vbaChkstk               00402c60     main1.OBJ
+ 0001:00001c66       ___vbaExceptHandler        00402c66     main1.OBJ
+ 0001:00001c6c       ___vbaFPException          00402c6c     main1.OBJ
+ 0001:00001c72       __adj_fdiv_m16i            00402c72     main1.OBJ
+ 0001:00001c78       __adj_fdiv_m32             00402c78     main1.OBJ
+ 0001:00001c7e       __adj_fdiv_m32i            00402c7e     main1.OBJ
+ 0001:00001c84       __adj_fdiv_m64             00402c84     main1.OBJ
+ 0001:00001c8a       __adj_fdiv_r               00402c8a     main1.OBJ
+ 0001:00001c90       __adj_fdivr_m16i           00402c90     main1.OBJ
+ 0001:00001c96       __adj_fdivr_m32            00402c96     main1.OBJ
+ 0001:00001c9c       __adj_fdivr_m32i           00402c9c     main1.OBJ
+ 0001:00001ca2       __adj_fdivr_m64            00402ca2     main1.OBJ
+ 0001:00001ca8       __adj_fpatan               00402ca8     main1.OBJ
+ 0001:00001cae       __adj_fprem                00402cae     main1.OBJ
+ 0001:00001cb4       __adj_fprem1               00402cb4     main1.OBJ
+ 0001:00001cba       __adj_fptan                00402cba     main1.OBJ
+ 0001:00001cc0       __CIatan                   00402cc0     main1.OBJ
+ 0001:00001cc6       __CIcos                    00402cc6     main1.OBJ
+ 0001:00001ccc       __CIexp                    00402ccc     main1.OBJ
+ 0001:00001cd2       __CIlog                    00402cd2     main1.OBJ
+ 0001:00001cd8       __CIsin                    00402cd8     main1.OBJ
+ 0001:00001cde       __CIsqrt                   00402cde     main1.OBJ
+ 0001:00001ce4       __CItan                    00402ce4     main1.OBJ
+ 0001:00001cea       __allmul                   00402cea     main1.OBJ
+ 0001:00001cf6       ___vbaStrCmp               00402cf6     main1.OBJ
+ 0001:00001cf6       @__vbaStrCmp               00402cf6     main1.OBJ
+ 0001:00001cfc       @__vba@06951564            00402cfc     main1.OBJ
+ 0001:00001cfc       ___vba@06951564            00402cfc     main1.OBJ
+ 0001:00001d02       @__vbaObjSetAddref         00402d02     main1.OBJ
+ 0001:00001d02       ___vbaObjSetAddref         00402d02     main1.OBJ
+ 0001:00001d08       ___vbaFreeVarList          00402d08     main1.OBJ
+ 0001:00001d08       @__vbaFreeVarList          00402d08     main1.OBJ
+ 0001:00001d0e       @__vbaVarDup               00402d0e     main1.OBJ
+ 0001:00001d0e       ___vbaVarDup               00402d0e     main1.OBJ
+ 0001:00001d14       @__vba@06951690            00402d14     main1.OBJ
+ 0001:00001d14       ___vba@06951690            00402d14     main1.OBJ
+ 0001:00001d1a       @__vbaInStr                00402d1a     main1.OBJ
+ 0001:00001d1a       ___vbaInStr                00402d1a     main1.OBJ
+ 0001:00001d20       @__vbaFreeObjList          00402d20     main1.OBJ
+ 0001:00001d20       ___vbaFreeObjList          00402d20     main1.OBJ
+ 0001:00001d26       ___vbaFreeStrList          00402d26     main1.OBJ
+ 0001:00001d26       @__vbaFreeStrList          00402d26     main1.OBJ
+ 0001:00001d2c       ___vbaStrCat               00402d2c     main1.OBJ
+ 0001:00001d2c       @__vbaStrCat               00402d2c     main1.OBJ
+ 0001:00001d32       @__vbaStrMove              00402d32     main1.OBJ
+ 0001:00001d32       ___vbaStrMove              00402d32     main1.OBJ
+ 0001:00001d38       @__vbaNew2                 00402d38     main1.OBJ
+ 0001:00001d38       ___vbaNew2                 00402d38     main1.OBJ
+ 0001:00001d3e       ___vba@069529E0            00402d3e     main1.OBJ
+ 0001:00001d3e       @__vba@069529E0            00402d3e     main1.OBJ
+ 0001:00001d44       @__vbaFreeObj              00402d44     main1.OBJ
+ 0001:00001d44       ___vbaFreeObj              00402d44     main1.OBJ
+ 0001:00001d4a       @__vbaFreeStr              00402d4a     main1.OBJ
+ 0001:00001d4a       ___vbaFreeStr              00402d4a     main1.OBJ
+ 0001:00001d50       @__vbaHresultCheckObj      00402d50     main1.OBJ
+ 0001:00001d50       ___vbaHresultCheckObj      00402d50     main1.OBJ
+ 0001:00001d56       ___vbaObjSet               00402d56     main1.OBJ
+ 0001:00001d56       @__vbaObjSet               00402d56     main1.OBJ
+ 0001:00001d5c       ___vba@0695363C            00402d5c     main1.OBJ
+ 0001:00001d5c       @__vba@0695363C            00402d5c     main1.OBJ
+ 0001:00001d62       ___vbaBoolVar              00402d62     main1.OBJ
+ 0001:00001d62       @__vbaBoolVar              00402d62     main1.OBJ
+ 0001:00001d68       ___vbaStrVarMove           00402d68     main1.OBJ
+ 0001:00001d68       @__vbaStrVarMove           00402d68     main1.OBJ
+ 0001:00001d6e       @__vbaStrCopy              00402d6e     main1.OBJ
+ 0001:00001d6e       ___vbaStrCopy              00402d6e     main1.OBJ
+ 0001:00001d74       ___vbaVarDiv               00402d74     main1.OBJ
+ 0001:00001d74       @__vbaVarDiv               00402d74     main1.OBJ
+ 0001:00001d7a       ___vbaVarCmpLe             00402d7a     main1.OBJ
+ 0001:00001d7a       @__vbaVarCmpLe             00402d7a     main1.OBJ
+ 0001:00001d80       @__vbaFpR4                 00402d80     main1.OBJ
+ 0001:00001d80       ___vbaFpR4                 00402d80     main1.OBJ
+ 0001:00001d86       ___vbaI2I4                 00402d86     main1.OBJ
+ 0001:00001d86       @__vbaI2I4                 00402d86     main1.OBJ
+ 0001:00001d8c       @__vbaFpR8                 00402d8c     main1.OBJ
+ 0001:00001d8c       ___vbaFpR8                 00402d8c     main1.OBJ
+ 0001:00001d92       @__vbaVarSub               00402d92     main1.OBJ
+ 0001:00001d92       ___vbaVarSub               00402d92     main1.OBJ
+ 0001:00001d98       @__vbaVarTstLe             00402d98     main1.OBJ
+ 0001:00001d98       ___vbaVarTstLe             00402d98     main1.OBJ
+ 0001:00001d9e       @__vbaVarCmpLt             00402d9e     main1.OBJ
+ 0001:00001d9e       ___vbaVarCmpLt             00402d9e     main1.OBJ
+ 0001:00001da4       @__vbaVarAnd               00402da4     main1.OBJ
+ 0001:00001da4       ___vbaVarAnd               00402da4     main1.OBJ
+ 0001:00001daa       @__vbaBoolVarNull          00402daa     main1.OBJ
+ 0001:00001daa       ___vbaBoolVarNull          00402daa     main1.OBJ
+ 0001:00001db0       @__vbaVarMove              00402db0     main1.OBJ
+ 0001:00001db0       ___vbaVarMove              00402db0     main1.OBJ
+ 0001:00001db6       @__vbaErrorOverflow        00402db6     main1.OBJ
+ 0001:00001db6       ___vbaErrorOverflow        00402db6     main1.OBJ
+ 0001:00001dbc       @__vbaR4Var                00402dbc     main1.OBJ
+ 0001:00001dbc       ___vbaR4Var                00402dbc     main1.OBJ
+ 0001:00001dc2       ___vbaLateMemSt            00402dc2     main1.OBJ
+ 0001:00001dc2       @__vbaLateMemSt            00402dc2     main1.OBJ
+ 0001:00001dc8       ___vbaLateMemCallLd        00402dc8     main1.OBJ
+ 0001:00001dc8       @__vbaLateMemCallLd        00402dc8     main1.OBJ
+ 0001:00001dce       ___vbaFreeVar              00402dce     main1.OBJ
+ 0001:00001dce       @__vbaFreeVar              00402dce     main1.OBJ
+ 0001:00001dd4       ___vbaStrToUnicode         00402dd4     main1.OBJ
+ 0001:00001dd4       @__vbaStrToUnicode         00402dd4     main1.OBJ
+ 0001:00001dda       ___vbaStrToAnsi            00402dda     main1.OBJ
+ 0001:00001dda       @__vbaStrToAnsi            00402dda     main1.OBJ
+ 0001:00001de0       @__vba@06954158            00402de0     main1.OBJ
+ 0001:00001de0       ___vba@06954158            00402de0     main1.OBJ
+ 0001:00001de6       @__vbaLenVarB              00402de6     main1.OBJ
+ 0001:00001de6       ___vbaLenVarB              00402de6     main1.OBJ
+ 0001:00001dec       @__vbaI4Var                00402dec     main1.OBJ
+ 0001:00001dec       ___vbaI4Var                00402dec     main1.OBJ
+ 0001:00001df2       ___vbaFpI4                 00402df2     main1.OBJ
+ 0001:00001df2       @__vbaFpI4                 00402df2     main1.OBJ
+ 0001:00001df8       @__vbaSetSystemError       00402df8     main1.OBJ
+ 0001:00001df8       ___vbaSetSystemError       00402df8     main1.OBJ
+ 0001:00001dfe       ___vbaOnError              00402dfe     main1.OBJ
+ 0001:00001dfe       @__vbaOnError              00402dfe     main1.OBJ
+ 0001:00001e04       @__vbaEnd                  00402e04     main1.OBJ
+ 0001:00001e04       ___vbaEnd                  00402e04     main1.OBJ
+ 0001:00001e0a       ___vba@06345350            00402e0a     main1.OBJ
+ 0001:00001e0a       @__vba@06345350            00402e0a     main1.OBJ
+ 0001:00001e10       @__vbaStrVarVal            00402e10     main1.OBJ
+ 0001:00001e10       ___vbaStrVarVal            00402e10     main1.OBJ
+ 0001:00001e16       ___vba@0634C744            00402e16     main1.OBJ
+ 0001:00001e16       @__vba@0634C744            00402e16     main1.OBJ
+ 0001:00001e1c       ___vba@0634C77C            00402e1c     main1.OBJ
+ 0001:00001e1c       @__vba@0634C77C            00402e1c     main1.OBJ
+ 0001:00001e22       @__vbaStrI4                00402e22     main1.OBJ
+ 0001:00001e22       ___vbaStrI4                00402e22     main1.OBJ
+ 0001:00001e28       ___vba@0634CEF8            00402e28     main1.OBJ
+ 0001:00001e28       @__vba@0634CEF8            00402e28     main1.OBJ
+ 0001:00001e2e       ___vbaAryDestruct          00402e2e     main1.OBJ
+ 0001:00001e2e       @__vbaAryDestruct          00402e2e     main1.OBJ
+ 0001:00001e34       @__vbaPrintFile            00402e34     main1.OBJ
+ 0001:00001e34       ___vbaPrintFile            00402e34     main1.OBJ
+ 0001:00001e3a       ___vba@06950F38            00402e3a     main1.OBJ
+ 0001:00001e3a       @__vba@06950F38            00402e3a     main1.OBJ
+ 0001:00001e40       ___vbaVarIndexLoad         00402e40     main1.OBJ
+ 0001:00001e40       @__vbaVarIndexLoad         00402e40     main1.OBJ
+ 0001:00001e46       @__vbaAryUnlock            00402e46     main1.OBJ
+ 0001:00001e46       ___vbaAryUnlock            00402e46     main1.OBJ
+ 0001:00001e4c       @__vbaGenerateBoundsError  00402e4c     main1.OBJ
+ 0001:00001e4c       ___vbaGenerateBoundsError  00402e4c     main1.OBJ
+ 0001:00001e52       ___vbaVarIndexLoadRefLock  00402e52     main1.OBJ
+ 0001:00001e52       @__vbaVarIndexLoadRefLock  00402e52     main1.OBJ
+ 0001:00001e58       @__vbaUbound               00402e58     main1.OBJ
+ 0001:00001e58       ___vbaUbound               00402e58     main1.OBJ
+ 0001:00001e5e       @__vba@0634D324            00402e5e     main1.OBJ
+ 0001:00001e5e       ___vba@0634D324            00402e5e     main1.OBJ
+ 0001:00001e64       @__vbaAryVar               00402e64     main1.OBJ
+ 0001:00001e64       ___vbaAryVar               00402e64     main1.OBJ
+ 0001:00001e6a       ___vbaAryCopy              00402e6a     main1.OBJ
+ 0001:00001e6a       @__vbaAryCopy              00402e6a     main1.OBJ
+ 0001:00001e70       ___vbaLenBstr              00402e70     main1.OBJ
+ 0001:00001e70       @__vbaLenBstr              00402e70     main1.OBJ
+ 0001:00001e76       ___vba@0634D43C            00402e76     main1.OBJ
+ 0001:00001e76       @__vba@0634D43C            00402e76     main1.OBJ
+ 0001:00001e7c       ___vbaFileClose            00402e7c     main1.OBJ
+ 0001:00001e7c       @__vbaFileClose            00402e7c     main1.OBJ
+ 0001:00001e82       ___vbaGet3                 00402e82     main1.OBJ
+ 0001:00001e82       @__vbaGet3                 00402e82     main1.OBJ
+ 0001:00001e88       ___vba@0634D0FC            00402e88     main1.OBJ
+ 0001:00001e88       @__vba@0634D0FC            00402e88     main1.OBJ
+ 0001:00001e8e       ___vba@0634D134            00402e8e     main1.OBJ
+ 0001:00001e8e       @__vba@0634D134            00402e8e     main1.OBJ
+ 0001:00001e94       @__vbaFileOpen             00402e94     main1.OBJ
+ 0001:00001e94       ___vbaFileOpen             00402e94     main1.OBJ
+ 0001:00001e9a       ___vba@0634D1B8            00402e9a     main1.OBJ
+ 0001:00001e9a       @__vba@0634D1B8            00402e9a     main1.OBJ
+ 0001:00001ea0       ___vbaUI1I2                00402ea0     main1.OBJ
+ 0001:00001ea0       @__vbaUI1I2                00402ea0     main1.OBJ
+ 0001:00001ea6       @__vbaExitProc             00402ea6     main1.OBJ
+ 0001:00001ea6       ___vbaExitProc             00402ea6     main1.OBJ
+ 0001:00001eac       ___vba@0634D284            00402eac     main1.OBJ
+ 0001:00001eac       @__vba@0634D284            00402eac     main1.OBJ
+ 0001:00001eb2       ___vbaLateIdCallLd         00402eb2     main1.OBJ
+ 0001:00001eb2       @__vbaLateIdCallLd         00402eb2     main1.OBJ
+ 0001:00001eb8       ___vbaCastObjVar           00402eb8     main1.OBJ
+ 0001:00001eb8       @__vbaCastObjVar           00402eb8     main1.OBJ
+ 0001:00001ebe       @__vba@0634D598            00402ebe     main1.OBJ
+ 0001:00001ebe       ___vba@0634D598            00402ebe     main1.OBJ
+ 0001:00001ec4       @__vba@0634D5DC            00402ec4     main1.OBJ
+ 0001:00001ec4       ___vba@0634D5DC            00402ec4     main1.OBJ
+ 0001:00001eca       ___vbaPut3                 00402eca     main1.OBJ
+ 0001:00001eca       @__vbaPut3                 00402eca     main1.OBJ
+ 0001:00001ed0       ___vbaLenVar               00402ed0     main1.OBJ
+ 0001:00001ed0       @__vbaLenVar               00402ed0     main1.OBJ
+ 0001:00001ed6       ___vba@0634D8DC            00402ed6     main1.OBJ
+ 0001:00001ed6       @__vba@0634D8DC            00402ed6     main1.OBJ
+ 0001:00001edc       @__vba@0634D964            00402edc     main1.OBJ
+ 0001:00001edc       ___vba@0634D964            00402edc     main1.OBJ
+ 0001:00001ee2       @__vba@0634D99C            00402ee2     main1.OBJ
+ 0001:00001ee2       ___vba@0634D99C            00402ee2     main1.OBJ
+ 0001:00001ee8       @__vbaVarCat               00402ee8     main1.OBJ
+ 0001:00001ee8       ___vbaVarCat               00402ee8     main1.OBJ
+ 0001:00001eee       @__vba@0634DA1C            00402eee     main1.OBJ
+ 0001:00001eee       ___vba@0634DA1C            00402eee     main1.OBJ
+ 0001:00001ef4       @__vba@0634DA54            00402ef4     main1.OBJ
+ 0001:00001ef4       ___vba@0634DA54            00402ef4     main1.OBJ
+ 0001:00001efa       ___vbaStrI2                00402efa     main1.OBJ
+ 0001:00001efa       @__vbaStrI2                00402efa     main1.OBJ
+ 0001:00001f00       ___vbaAryConstruct2        00402f00     main1.OBJ
+ 0001:00001f00       @__vbaAryConstruct2        00402f00     main1.OBJ
+ 0001:00001f06       ___vbaRedim                00402f06     main1.OBJ
+ 0001:00001f06       @__vbaRedim                00402f06     main1.OBJ
+ 0001:00001f24       ___vbaS                    00402f24     main1.OBJ
+ 0001:00005c00       ___vba@0634CA4C            00406c00     main1.OBJ
+ 0001:00005f74       ___vba@06343CE4            00406f74     main1.OBJ
+ 0001:000061e8       ___vba@06344BFC            004071e8     main1.OBJ
+ 0001:00006770       ___vba@0635C7F4            00407770     main1.OBJ
+ 0001:00006a54       ___vba@069A4FBC            00407a54     main1.OBJ
+ 0001:00006d38       ___vba@0635DFAC            00407d38     main1.OBJ
+ 0001:000070a0       ___vba@0635B264            004080a0     main1.OBJ
+ 0001:00007408       ___vba@06344134            00408408     main1.OBJ
+ 0001:00007784       ___vba@0635C17C            00408784     main1.OBJ
+ 0001:00007b74       ___vba@06344584            00408b74     main1.OBJ
+ 0001:00007fdc       ___vba@0634C1AC            00408fdc     main1.OBJ
+ 0001:00008454       ___vba@06952254            00409454     main1.OBJ
+ 0001:000088d4       ___vba@06933FCC            004098d4     main1.OBJ
+ 0001:00008e78       ___vba@0635DB5C            00409e78     main1.OBJ
+ 0001:00009438       ___vba@0635CE6C            0040a438     main1.OBJ
+ 0001:00009a50       ___vba@0693219C            0040aa50     main1.OBJ
+ 0001:0000a088       ___vba@00738E9C            0040b088     main1.OBJ
+ 0001:0000a6c0       ___vba@06933B7C            0040b6c0     main1.OBJ
+ 0001:0000acf8       ___vba@007367CC            0040bcf8     main1.OBJ
+ 0001:0000b330       ___vba@069332DC            0040c330     main1.OBJ
+ 0001:0000b968       ___vba@0693486C            0040c968     main1.OBJ
+ 0001:0000bfa0       ___vba@00739514            0040cfa0     main1.OBJ
+ 0001:0000c5d8       ___vba@069A42CC            0040d5d8     main1.OBJ
+ 0001:0000cc10       ___vba@0693441C            0040dc10     main1.OBJ
+ 0001:0000d248       ___vba@0635BF54            0040e248     main1.OBJ
+ 0001:0000d880       ___vba@007369F4            0040e880     main1.OBJ
+ 0001:0000deb8       ___vba@007381AC            0040eeb8     main1.OBJ
+ 0001:0000e4f0       ___vba@007390C4            0040f4f0     main1.OBJ
+ 0001:0000eb28       ___vba@00739DB4            0040fb28     main1.OBJ
+ 0001:0000f160       ___vba@0635D70C            00410160     main1.OBJ
+ 0001:0000f798       ___vba@069318FC            00410798     main1.OBJ
+ 0001:0000fdd0       ___vba@0635BB04            00410dd0     main1.OBJ
+ 0001:00010408       ___vba@00737294            00411408     main1.OBJ
+ 0001:00010a40       ___vba@0635DD84            00411a40     main1.OBJ
+ 0001:00011078       ___vba@069A2274            00412078     main1.OBJ
+ 0001:000116b0       ___vba@0635CC44            004126b0     main1.OBJ
+ 0001:00011ce8       ___vba@069A3E7C            00412ce8     main1.OBJ
+ 0001:00012320       ___vba@06931B24            00413320     main1.OBJ
+ 0001:00012958       ___vba@069A1BFC            00413958     main1.OBJ
+ 0001:00012f90       ___vba@06932814            00413f90     main1.OBJ
+ 0001:000135c8       ___vba@00737F84            004145c8     main1.OBJ
+ 0001:00013c00       ___vba@06931284            00414c00     main1.OBJ
+ 0001:00014238       ___vba@069A471C            00415238     main1.OBJ
+ 0001:00014870       ___vba@06932A3C            00415870     main1.OBJ
+ 0001:00014ea8       ___vba@06932C64            00415ea8     main1.OBJ
+ 0001:000154e0       ___vba@00738A4C            004164e0     main1.OBJ
+ 0001:00015b18       ___vba@00739B8C            00416b18     main1.OBJ
+ 0001:00016150       ___vba@0073706C            00417150     main1.OBJ
+ 0001:00016788       ___vba@0073790C            00417788     main1.OBJ
+ 0001:00016dc0       ___vba@069A2F64            00417dc0     main1.OBJ
+ 0001:000173f8       ___vba@007392EC            004183f8     main1.OBJ
+ 0001:00017a30       ___vba@069314AC            00418a30     main1.OBJ
+ 0001:00018068       ___vba@06934CBC            00419068     main1.OBJ
+ 0001:000186a0       ___vba@069A540C            004196a0     main1.OBJ
+ 0001:00018d00       ___vba@069A33B4            00419d00     main1.OBJ
+ 0001:000193a4       ___vba@069A3C54            0041a3a4     main1.OBJ
+ 0001:00019afc       ___vba@069A35DC            0041aafc     main1.OBJ
+ 0001:0001a440       ___vba@0635D4E4            0041b440     main1.OBJ
+ 0001:0001c4d8       ___vba@0635EEC4            0041d4d8     main1.OBJ
+ 0001:0001de50       ___vba@069526A4            0041ee50     main1.OBJ
+ 0001:0001f16c       ___vba@069526FC            0042016c     main1.OBJ
+ 0001:0001f174       ___vba@06952708            00420174     main1.OBJ
+ 0001:0001f17c       ___vba@06952714            0042017c     main1.OBJ
+ 0001:0001f184       ___vba@06952720            00420184     main1.OBJ
+ 0001:0001f18c       ___vba@0695272C            0042018c     main1.OBJ
+ 0001:0001f194       ___vba@06952738            00420194     main1.OBJ
+ 0001:0001f1a0       ___vba@06952748            004201a0     main1.OBJ
+ 0001:0001f1ac       ___vba@06952758            004201ac     main1.OBJ
+ 0001:0001f1b8       ___vba@06952768            004201b8     main1.OBJ
+ 0001:0001f1c4       ___vba@06952778            004201c4     main1.OBJ
+ 0001:0001f1d0       ___vba@06952788            004201d0     main1.OBJ
+ 0001:0001f1dc       ___vba@06952798            004201dc     main1.OBJ
+ 0001:0001f1e8       ___vba@069527A8            004201e8     main1.OBJ
+ 0001:0001f1f8       ___vba@069527BC            004201f8     main1.OBJ
+ 0001:0001f208       ___vba@069527D0            00420208     main1.OBJ
+ 0001:0001f218       ___vba@069527E4            00420218     main1.OBJ
+ 0001:0001f228       ___vba@069527F8            00420228     main1.OBJ
+ 0001:0001f238       ___vba@0695280C            00420238     main1.OBJ
+ 0001:0001f248       ___vba@06952820            00420248     main1.OBJ
+ 0001:0001f254       ___vba@06952830            00420254     main1.OBJ
+ 0001:0001f260       ___vba@06952840            00420260     main1.OBJ
+ 0001:0001f26c       ___vba@06952850            0042026c     main1.OBJ
+ 0001:0001f278       ___vba@06952860            00420278     main1.OBJ
+ 0001:0001f288       ___vba@06952874            00420288     main1.OBJ
+ 0001:0001f298       ___vba@06952888            00420298     main1.OBJ
+ 0001:0001f2a8       ___vba@069D06F4            004202a8     main1.OBJ
+ 0001:0001f2b8       ___vba@069D0708            004202b8     main1.OBJ
+ 0001:0001f2c8       ___vba@069D071C            004202c8     main1.OBJ
+ 0001:0001f2d8       ___vba@069D0730            004202d8     main1.OBJ
+ 0001:0001f2e8       ___vba@069D0744            004202e8     main1.OBJ
+ 0001:0001f2f8       ___vba@069D0758            004202f8     main1.OBJ
+ 0001:0001f308       ___vba@069D076C            00420308     main1.OBJ
+ 0001:0001f318       ___vba@069D0780            00420318     main1.OBJ
+ 0001:0001f328       ___vba@069D0794            00420328     main1.OBJ
+ 0001:0001f338       ___vba@069D07A8            00420338     main1.OBJ
+ 0001:0001f348       ___vba@069D07BC            00420348     main1.OBJ
+ 0001:0001f358       ___vba@069D07D0            00420358     main1.OBJ
+ 0001:0001f368       ___vba@069D07E4            00420368     main1.OBJ
+ 0001:0001f378       ___vba@069D07F8            00420378     main1.OBJ
+ 0001:0001f388       ___vba@069D080C            00420388     main1.OBJ
+ 0001:0001f398       ___vba@069D0820            00420398     main1.OBJ
+ 0001:0001f3a8       ___vba@069D0834            004203a8     main1.OBJ
+ 0001:0001f3b8       ___vba@069D0848            004203b8     main1.OBJ
+ 0001:0001f3c8       ___vba@069D085C            004203c8     main1.OBJ
+ 0001:0001f3d8       ___vba@069D0870            004203d8     main1.OBJ
+ 0001:0001f3e8       ___vba@069D0884            004203e8     main1.OBJ
+ 0001:0001f3f8       ___vba@069D0898            004203f8     main1.OBJ
+ 0001:0001f408       ___vba@069D08AC            00420408     main1.OBJ
+ 0001:0001f410       ___vba@069D08B8            00420410     main1.OBJ
+ 0001:0001f418       ___vba@069D08C4            00420418     main1.OBJ
+ 0001:0001f420       ___vba@069D08D0            00420420     main1.OBJ
+ 0001:0001f428       ___vba@069D08DC            00420428     main1.OBJ
+ 0001:0001f434       ___vba@069D08EC            00420434     main1.OBJ
+ 0001:0001f438       ___vba@069D0B44            00420438     main1.OBJ
+ 0001:0001f448       ___vba@069D0B58            00420448     main1.OBJ
+ 0001:0001f450       ___vba@069D0B64            00420450     main1.OBJ
+ 0001:0001f45c       ___vba@069D0B74            0042045c     main1.OBJ
+ 0001:0001f464       ___vba@069D0B80            00420464     main1.OBJ
+ 0001:0001f46c       ___vba@069D0B8C            0042046c     main1.OBJ
+ 0001:0001f474       ___vba@069D0B98            00420474     main1.OBJ
+ 0001:0001f480       ___vba@069D0BA8            00420480     main1.OBJ
+ 0001:0001f48c       ___vba@069D0BB8            0042048c     main1.OBJ
+ 0001:0001f49c       ___vba@069D0BCC            0042049c     main1.OBJ
+ 0001:0001f4ac       ___vba@069D0BE0            004204ac     main1.OBJ
+ 0001:0001f4bc       ___vba@069D0BF4            004204bc     main1.OBJ
+ 0001:0001f4cc       ___vba@069D0C08            004204cc     main1.OBJ
+ 0001:0001f4dc       ___vba@069D0C1C            004204dc     main1.OBJ
+ 0001:0001f4e8       ___vba@069D0C2C            004204e8     main1.OBJ
+ 0001:0001f4f8       ___vba@069D0C40            004204f8     main1.OBJ
+ 0001:0001f534       ___vba@069D0C80            00420534     main1.OBJ
+ 0001:0001f55c       ___vba@069D0CAC            0042055c     main1.OBJ
+ 0001:0001f56c       ___vba@069D0CC0            0042056c     main1.OBJ
+ 0001:0001f574       ___vba@069D0CCC            00420574     main1.OBJ
+ 0001:0001f584       ___vba@069D0CE0            00420584     main1.OBJ
+ 0001:0001f58c       ___vba@069D0CEC            0042058c     main1.OBJ
+ 0001:0001f594       ___vba@069D0CF8            00420594     main1.OBJ
+ 0001:0001f5a4       ___vba@069D0D0C            004205a4     main1.OBJ
+ 0001:0001f5ac       ___vba@069D0D18            004205ac     main1.OBJ
+ 0001:0001f5bc       ___vba@069D0D2C            004205bc     main1.OBJ
+ 0001:0001f5c4       ___vba@069D0D38            004205c4     main1.OBJ
+ 0001:0001f5cc       ___vba@069CFC2C            004205cc     main1.OBJ
+ 0001:0001f5d4       ___vba@069CFC38            004205d4     main1.OBJ
+ 0001:0001f5e4       ___vba@069CFC4C            004205e4     main1.OBJ
+ 0001:0001f5ec       ___vba@069CFC58            004205ec     main1.OBJ
+ 0001:0001f5f8       ___vba@069CFC68            004205f8     main1.OBJ
+ 0001:0001f600       ___vba@069CFC74            00420600     main1.OBJ
+ 0001:0001f60c       ___vba@069CFC84            0042060c     main1.OBJ
+ 0001:0001f61c       ___vba@069CFC94            0042061c     main1.OBJ
+ 0001:0001f628       ___vba@069CFCA4            00420628     main1.OBJ
+ 0001:0001f630       ___vba@069CFCB0            00420630     main1.OBJ
+ 0001:0001f634       ___vba@069CFCBC            00420634     main1.OBJ
+ 0001:0001f644       ___vba@069CFCD0            00420644     main1.OBJ
+ 0001:0001f658       ___vba@069CFCE4            00420658     main1.OBJ
+ 0001:0001f664       ___vba@069CFCF4            00420664     main1.OBJ
+ 0001:0001f670       ___vba@069CFD04            00420670     main1.OBJ
+ 0001:0001f6d4       ___vba@069CFD6C            004206d4     main1.OBJ
+ 0001:0001f6e0       ___vba@069CFD80            004206e0     main1.OBJ
+ 0001:0001f6f0       ___vba@069CFD94            004206f0     main1.OBJ
+ 0001:0001f700       ___vba@069CFDA8            00420700     main1.OBJ
+ 0001:0001f714       ___vba@069CFDBC            00420714     main1.OBJ
+ 0001:0001f71c       ___vba@069CFDC8            0042071c     main1.OBJ
+ 0001:0001f730       ___vba@069CFDE0            00420730     main1.OBJ
+ 0001:0001f738       ___vba@069CFDF0            00420738     main1.OBJ
+ 0001:0001f748       ___vba@069CFE04            00420748     main1.OBJ
+ 0001:0001f758       ___vba@069CFE18            00420758     main1.OBJ
+ 0001:0001f768       ___vba@0695133C            00420768     main1.OBJ
+ 0001:0001f778       ___vba@06951350            00420778     main1.OBJ
+ 0001:0001f784       ___vba@06951360            00420784     main1.OBJ
+ 0001:0001f794       ___vba@06951374            00420794     main1.OBJ
+ 0001:0001f79c       ___vba@06951380            0042079c     main1.OBJ
+ 0001:0001f7a8       ___vba@06951390            004207a8     main1.OBJ
+ 0001:0001f7b0       ___vba@0695139C            004207b0     main1.OBJ
+ 0001:0001f7bc       ___vba@069513AC            004207bc     main1.OBJ
+ 0001:0001f7c4       ___vba@069513B8            004207c4     main1.OBJ
+ 0001:0001f7d0       ___vba@069513C8            004207d0     main1.OBJ
+ 0001:0001f7d8       ___vba@069513D4            004207d8     main1.OBJ
+ 0001:0001f7e0       ___vba@069513E0            004207e0     main1.OBJ
+ 0001:0001f7e8       ___vba@069513EC            004207e8     main1.OBJ
+ 0001:0001f7f4       ___vba@069513FC            004207f4     main1.OBJ
+ 0001:0001f7fc       ___vba@06951408            004207fc     main1.OBJ
+ 0001:0001f804       ___vba@06951414            00420804     main1.OBJ
+ 0001:0001f810       ___vba@06951424            00420810     main1.OBJ
+ 0001:0001f81c       ___vba@06951434            0042081c     main1.OBJ
+ 0001:0001f828       ___vba@06951444            00420828     main1.OBJ
+ 0001:0001f838       ___vba@06951454            00420838     main1.OBJ
+ 0001:0001f848       ___vba@06951468            00420848     main1.OBJ
+ 0001:0001f86c       ___vba@0695147C            0042086c     main1.OBJ
+ 0001:0001f88c       ___vba@069514B4            0042088c     main1.OBJ
+ 0001:0001f8b4       ___vba@069514CC            004208b4     main1.OBJ
+ 0001:0001f8d0       ___vba@06951504            004208d0     main1.OBJ
+ 0001:0001f8dc       ___vba@06951514            004208dc     main1.OBJ
+ 0001:0001f8f0       ___vba@0695152C            004208f0     main1.OBJ
+ 0001:0001f900       ___vba@0695202C            00420900     main1.OBJ
+ 0001:0001f930       ___vba@06952060            00420930     main1.OBJ
+ 0001:0001f938       ___vba@06952070            00420938     main1.OBJ
+ 0001:0001f948       ___vba@06952084            00420948     main1.OBJ
+ 0001:0001f958       ___vba@06952098            00420958     main1.OBJ
+ 0001:0001f968       ___vba@069520AC            00420968     main1.OBJ
+ 0001:0001f978       ___vba@069520C0            00420978     main1.OBJ
+ 0001:0001f980       ___vba@069520CC            00420980     main1.OBJ
+ 0001:0001f990       ___vba@069520E0            00420990     main1.OBJ
+ 0001:0001f9a0       ___vba@069520F4            004209a0     main1.OBJ
+ 0001:0001f9b0       ___vba@06952108            004209b0     main1.OBJ
+ 0001:0001f9c4       ___vba@0695211C            004209c4     main1.OBJ
+ 0001:0001f9cc       ___vba@0695212C            004209cc     main1.OBJ
+ 0001:0001f9dc       ___vba@06952140            004209dc     main1.OBJ
+ 0001:0001f9ec       ___vba@06952154            004209ec     main1.OBJ
+ 0001:0001f9fc       ___vba@06952168            004209fc     main1.OBJ
+ 0001:0001fa0c       ___vba@0695217C            00420a0c     main1.OBJ
+ 0001:0001fa1c       ___vba@06952190            00420a1c     main1.OBJ
+ 0001:0001fa2c       ___vba@069521A4            00420a2c     main1.OBJ
+ 0001:0001fa40       ___vba@069521B8            00420a40     main1.OBJ
+ 0001:0001fa44       ___vba@069521C4            00420a44     main1.OBJ
+ 0001:0001fa50       ___vba@069521D4            00420a50     main1.OBJ
+ 0001:0001fa5c       ___vba@0695159C            00420a5c     main1.OBJ
+ 0001:0001fa78       ___vba@069515F8            00420a78     main1.OBJ
+ 0001:0001fa8c       ___vba@06951648            00420a8c     main1.OBJ
+ 0001:0001fa98       ___vba@069516C8            00420a98     main1.OBJ
+ 0001:0001faa4       ___vba@06951710            00420aa4     main1.OBJ
+ 0001:0001fab8       ___vba@06952904            00420ab8     main1.OBJ
+ 0001:0001fac4       ___vba@0695294C            00420ac4     main1.OBJ
+ 0001:0001fad4       ___vba@06952998            00420ad4     main1.OBJ
+ 0001:0001fae0       ___vba@06952A18            00420ae0     main1.OBJ
+ 0001:0001faf0       ___vba@06952A64            00420af0     main1.OBJ
+ 0001:0001fb00       ___vba@06952AB0            00420b00     main1.OBJ
+ 0001:0001fb18       ___vba@069535F4            00420b18     main1.OBJ
+ 0001:0001fb24       ___vba@06953674            00420b24     main1.OBJ
+ 0001:0001fb34       ___vba@06953688            00420b34     main1.OBJ
+ 0001:0001fb44       ___vba@0695369C            00420b44     main1.OBJ
+ 0001:0001fb54       ___vba@069536B0            00420b54     main1.OBJ
+ 0001:0001fb64       ___vba@069536C4            00420b64     main1.OBJ
+ 0001:0001fb74       ___vba@069536D8            00420b74     main1.OBJ
+ 0001:0001fb84       ___vba@069536EC            00420b84     main1.OBJ
+ 0001:0001fb90       ___vba@069536FC            00420b90     main1.OBJ
+ 0001:0001fba0       ___vba@06953710            00420ba0     main1.OBJ
+ 0001:0001fbac       ___vba@06953720            00420bac     main1.OBJ
+ 0001:0001fbb8       ___vba@06953730            00420bb8     main1.OBJ
+ 0001:0001fbc4       ___vba@06953740            00420bc4     main1.OBJ
+ 0001:0001fbd4       ___vba@06953750            00420bd4     main1.OBJ
+ 0001:0001fbe4       ___vba@06953764            00420be4     main1.OBJ
+ 0001:0001fc0c       ___vba@0695377C            00420c0c     main1.OBJ
+ 0001:0001fc2c       ___vba@069537E4            00420c2c     main1.OBJ
+ 0001:0001fc54       ___vba@069537FC            00420c54     main1.OBJ
+ 0001:0001fc74       ___vba@06953834            00420c74     main1.OBJ
+ 0001:0001fc80       ___vba@06953844            00420c80     main1.OBJ
+ 0001:0001fcb0       ___vba@06953864            00420cb0     main1.OBJ
+ 0001:0001fcd0       ___vba@0695389C            00420cd0     main1.OBJ
+ 0001:0001fce0       ___vba@069538B0            00420ce0     main1.OBJ
+ 0001:0001fd04       ___vba@069538C4            00420d04     main1.OBJ
+ 0001:0001fd24       ___vba@069538FC            00420d24     main1.OBJ
+ 0001:0001fd48       ___vba@06953910            00420d48     main1.OBJ
+ 0001:0001fd68       ___vba@06953948            00420d68     main1.OBJ
+ 0001:0001fd88       ___vba@06953958            00420d88     main1.OBJ
+ 0001:0001fda8       ___vba@06953990            00420da8     main1.OBJ
+ 0001:0001fdd0       ___vba@069539A8            00420dd0     main1.OBJ
+ 0001:0001fdf4       ___vba@06953A0C            00420df4     main1.OBJ
+ 0001:0001fe18       ___vba@06953A20            00420e18     main1.OBJ
+ 0001:0001fe38       ___vba@06953A58            00420e38     main1.OBJ
+ 0001:0001fe5c       ___vba@06953A6C            00420e5c     main1.OBJ
+ 0001:0001fe7c       ___vba@06953AA4            00420e7c     main1.OBJ
+ 0001:0001fea4       ___vba@06953ABC            00420ea4     main1.OBJ
+ 0001:0001fec4       ___vba@06953AF4            00420ec4     main1.OBJ
+ 0001:0001feec       ___vba@06953B0C            00420eec     main1.OBJ
+ 0001:0001ff08       ___vba@06953B44            00420f08     main1.OBJ
+ 0001:0001ff14       ___vba@06953B54            00420f14     main1.OBJ
+ 0001:0001ff20       ___vba@06953B64            00420f20     main1.OBJ
+ 0001:0001ff28       ___vba@06953B70            00420f28     main1.OBJ
+ 0001:0001ff30       ___vba@06953B7C            00420f30     main1.OBJ
+ 0001:0001ff40       ___vba@06953B90            00420f40     main1.OBJ
+ 0001:0001ff50       ___vba@06953BA4            00420f50     main1.OBJ
+ 0001:0001ff5c       ___vba@06953BB4            00420f5c     main1.OBJ
+ 0001:0001ff68       ___vba@06953BC4            00420f68     main1.OBJ
+ 0001:0001ff70       ___vba@06953BD0            00420f70     main1.OBJ
+ 0001:0001ff80       ___vba@06953BE4            00420f80     main1.OBJ
+ 0001:0001ff8c       ___vba@06953BF4            00420f8c     main1.OBJ
+ 0001:0001ffa0       ___vba@069544D4            00420fa0     main1.OBJ
+ 0001:0001ffbc       ___vba@069544F0            00420fbc     main1.OBJ
+ 0001:0001ffcc       ___vba@06954508            00420fcc     main1.OBJ
+ 0001:0001ffe0       ___vba@0695451C            00420fe0     main1.OBJ
+ 0001:0001fff0       ___vba@06954534            00420ff0     main1.OBJ
+ 0001:00020000       ___vba@06954580            00421000     main1.OBJ
+ 0001:00020010       ___vba@069545CC            00421010     main1.OBJ
+ 0001:00020020       ___vba@06954618            00421020     main1.OBJ
+ 0001:0002002c       ___vba@06954660            0042102c     main1.OBJ
+ 0001:0002003c       ___vba@069546AC            0042103c     main1.OBJ
+ 0001:00020048       ___vba@069546BC            00421048     main1.OBJ
+ 0001:0002005c       ___vba@06954734            0042105c     main1.OBJ
+ 0001:00020068       ___vba@0695477C            00421068     main1.OBJ
+ 0001:00020074       ___vba@069547C4            00421074     main1.OBJ
+ 0001:00020080       ___vba@0695480C            00421080     main1.OBJ
+ 0001:00020090       ___vba@06954858            00421090     main1.OBJ
+ 0001:000200a0       ___vba@069548A4            004210a0     main1.OBJ
+ 0001:000200ac       ___vba@069548EC            004210ac     main1.OBJ
+ 0001:000200b8       ___vba@0695495C            004210b8     main1.OBJ
+ 0001:000200c8       ___vba@069549A8            004210c8     main1.OBJ
+ 0001:000200dc       ___vba@069549F8            004210dc     main1.OBJ
+ 0001:000200e8       ___vba@06954A40            004210e8     main1.OBJ
+ 0001:000200f8       ___vba@06954A8C            004210f8     main1.OBJ
+ 0001:0002010c       ___vba@06954ADC            0042110c     main1.OBJ
+ 0001:00020120       ___vba@06954AF0            00421120     main1.OBJ
+ 0001:00020140       ___vba@069540BC            00421140     main1.OBJ
+ 0001:00020154       ___vba@0695410C            00421154     main1.OBJ
+ 0001:00020164       ___vba@06954190            00421164     main1.OBJ
+ 0001:00020174       ___vba@069541DC            00421174     main1.OBJ
+ 0001:00020180       ___vba@06954224            00421180     main1.OBJ
+ 0001:0002018c       ___vba@0695426C            0042118c     main1.OBJ
+ 0001:000201a0       ___vba@06343254            004211a0     main1.OBJ
+ 0001:000201b4       ___vba@063432A0            004211b4     main1.OBJ
+ 0001:000201d0       ___vba@063432C0            004211d0     main1.OBJ
+ 0001:00020238       ___vba@0634332C            00421238     main1.OBJ
+ 0001:00020248       ___vba@06343340            00421248     main1.OBJ
+ 0001:00020270       ___vba@0634336C            00421270     main1.OBJ
+ 0001:00020290       ___vba@06343394            00421290     main1.OBJ
+ 0001:000202a0       ___vba@063433A8            004212a0     main1.OBJ
+ 0001:000202b0       ___vba@063433BC            004212b0     main1.OBJ
+ 0001:000202c0       ___vba@063433D0            004212c0     main1.OBJ
+ 0001:000202d0       ___vba@063433E4            004212d0     main1.OBJ
+ 0001:000202dc       ___vba@063433F4            004212dc     main1.OBJ
+ 0001:000202f0       ___vba@06343408            004212f0     main1.OBJ
+ 0001:000202f4       ___vba@06343414            004212f4     main1.OBJ
+ 0001:000202fc       ___vba@06343444            004212fc     main1.OBJ
+ 0001:00020314       ___vba@06343460            00421314     main1.OBJ
+ 0001:0002031c       ___vba@06343470            0042131c     main1.OBJ
+ 0001:0002032c       ___vba@06343484            0042132c     main1.OBJ
+ 0001:0002033c       ___vba@06343498            0042133c     main1.OBJ
+ 0001:0002034c       ___vba@063434AC            0042134c     main1.OBJ
+ 0001:0002035c       ___vba@063434C0            0042135c     main1.OBJ
+ 0001:0002036c       ___vba@063434D4            0042136c     main1.OBJ
+ 0001:00020374       ___vba@063434E0            00421374     main1.OBJ
+ 0001:0002037c       ___vba@063434EC            0042137c     main1.OBJ
+ 0001:00020388       ___vba@063434FC            00421388     main1.OBJ
+ 0001:00020394       ___vba@0634350C            00421394     main1.OBJ
+ 0001:000203a4       ___vba@06343520            004213a4     main1.OBJ
+ 0001:000203ac       ___vba@0634352C            004213ac     main1.OBJ
+ 0001:000203b4       ___vba@06343538            004213b4     main1.OBJ
+ 0001:000203bc       ___vba@06343544            004213bc     main1.OBJ
+ 0001:000203c4       ___vba@06343550            004213c4     main1.OBJ
+ 0001:000203e8       ___vba@06343574            004213e8     main1.OBJ
+ 0001:00020408       ___vba@06343598            00421408     main1.OBJ
+ 0001:0002041c       ___vba@063435B4            0042141c     main1.OBJ
+ 0001:0002042c       ___vba@063435C8            0042142c     main1.OBJ
+ 0001:0002043c       ___vba@063435DC            0042143c     main1.OBJ
+ 0001:0002044c       ___vba@063435F0            0042144c     main1.OBJ
+ 0001:0002045c       ___vba@06343604            0042145c     main1.OBJ
+ 0001:00020464       ___vba@06343610            00421464     main1.OBJ
+ 0001:0002046c       ___vba@0634361C            0042146c     main1.OBJ
+ 0001:00020474       ___vba@06343628            00421474     main1.OBJ
+ 0001:0002047c       ___vba@06343634            0042147c     main1.OBJ
+ 0001:00020488       ___vba@06343ABC            00421488     main1.OBJ
+ 0001:00020498       ___vba@06343AD0            00421498     main1.OBJ
+ 0001:000204bc       ___vba@06343AF8            004214bc     main1.OBJ
+ 0001:000204c8       ___vba@06343B08            004214c8     main1.OBJ
+ 0001:000204f0       ___vba@06343B34            004214f0     main1.OBJ
+ 0001:00020500       ___vba@06343B44            00421500     main1.OBJ
+ 0001:00020518       ___vba@06343B60            00421518     main1.OBJ
+ 0001:00020524       ___vba@06343B74            00421524     main1.OBJ
+ 0001:00020534       ___vba@06343B88            00421534     main1.OBJ
+ 0001:00020544       ___vba@06343B9C            00421544     main1.OBJ
+ 0001:00020554       ___vba@06343BB0            00421554     main1.OBJ
+ 0001:00020564       ___vba@06343BC4            00421564     main1.OBJ
+ 0001:00020574       ___vba@06343BD4            00421574     main1.OBJ
+ 0001:00020590       ___vba@06343BF4            00421590     main1.OBJ
+ 0001:0002059c       ___vba@06343C08            0042159c     main1.OBJ
+ 0001:000205ac       ___vba@06343C1C            004215ac     main1.OBJ
+ 0001:000205bc       ___vba@06343C30            004215bc     main1.OBJ
+ 0001:000205cc       ___vba@06343C44            004215cc     main1.OBJ
+ 0001:000205dc       ___vba@06343C58            004215dc     main1.OBJ
+ 0001:000205ec       ___vba@06343C68            004215ec     main1.OBJ
+ 0001:000205fc       ___vba@06343C7C            004215fc     main1.OBJ
+ 0001:00020604       ___vba@06343C8C            00421604     main1.OBJ
+ 0001:00020614       ___vba@06343CA0            00421614     main1.OBJ
+ 0001:00020624       ___vba@069A26C4            00421624     main1.OBJ
+ 0001:00020634       ___vba@069A26D8            00421634     main1.OBJ
+ 0001:00020648       ___vba@069A26EC            00421648     main1.OBJ
+ 0001:00020660       ___vba@069A2708            00421660     main1.OBJ
+ 0001:00020670       ___vba@069A2720            00421670     main1.OBJ
+ 0001:00020680       ___vba@069A2734            00421680     main1.OBJ
+ 0001:00020690       ___vba@069A2748            00421690     main1.OBJ
+ 0001:000206a0       ___vba@069A275C            004216a0     main1.OBJ
+ 0001:000206b4       ___vba@069A2770            004216b4     main1.OBJ
+ 0001:000206d4       ___vba@069A2794            004216d4     main1.OBJ
+ 0001:000206e4       ___vba@069A27AC            004216e4     main1.OBJ
+ 0001:000206f4       ___vba@069A27C0            004216f4     main1.OBJ
+ 0001:00020704       ___vba@069A27D4            00421704     main1.OBJ
+ 0001:00020714       ___vba@069A27E8            00421714     main1.OBJ
+ 0001:00020724       ___vba@069A27FC            00421724     main1.OBJ
+ 0001:00020730       ___vba@069A2808            00421730     main1.OBJ
+ 0001:00020744       ___vba@069A2820            00421744     main1.OBJ
+ 0001:0002074c       ___vba@069A2830            0042174c     main1.OBJ
+ 0001:0002075c       ___vba@069A2844            0042175c     main1.OBJ
+ 0001:0002076c       ___vba@069A2858            0042176c     main1.OBJ
+ 0001:0002077c       ___vba@069A286C            0042177c     main1.OBJ
+ 0001:0002078c       ___vba@069A2880            0042178c     main1.OBJ
+ 0001:000207a0       ___vba@069A2894            004217a0     main1.OBJ
+ 0001:000207c0       ___vba@063449D4            004217c0     main1.OBJ
+ 0001:000207d0       ___vba@063449EC            004217d0     main1.OBJ
+ 0001:000207e0       ___vba@06344A00            004217e0     main1.OBJ
+ 0001:000207f0       ___vba@06344A14            004217f0     main1.OBJ
+ 0001:00020800       ___vba@06344A28            00421800     main1.OBJ
+ 0001:00020814       ___vba@06344A3C            00421814     main1.OBJ
+ 0001:00020824       ___vba@06344A50            00421824     main1.OBJ
+ 0001:00020830       ___vba@06344A60            00421830     main1.OBJ
+ 0001:00020850       ___vba@06344A84            00421850     main1.OBJ
+ 0001:0002085c       ___vba@06344A98            0042185c     main1.OBJ
+ 0001:0002086c       ___vba@06344AAC            0042186c     main1.OBJ
+ 0001:0002087c       ___vba@06344AC0            0042187c     main1.OBJ
+ 0001:0002088c       ___vba@06344AD4            0042188c     main1.OBJ
+ 0001:0002089c       ___vba@06344AE8            0042189c     main1.OBJ
+ 0001:000208a4       ___vba@06344AF4            004218a4     main1.OBJ
+ 0001:000208ac       ___vba@06344B00            004218ac     main1.OBJ
+ 0001:000208b4       ___vba@06344B0C            004218b4     main1.OBJ
+ 0001:000208c4       ___vba@06344B20            004218c4     main1.OBJ
+ 0001:000208cc       ___vba@06344B2C            004218cc     main1.OBJ
+ 0001:000208dc       ___vba@06344B40            004218dc     main1.OBJ
+ 0001:000208fc       ___vba@06344B60            004218fc     main1.OBJ
+ 0001:00020914       ___vba@06344B7C            00421914     main1.OBJ
+ 0001:00020924       ___vba@06344B90            00421924     main1.OBJ
+ 0001:00020944       ___vba@06344BB4            00421944     main1.OBJ
+ 0001:0002095c       ___vba@06345274            0042195c     main1.OBJ
+ 0001:0002096c       ___vba@06345288            0042196c     main1.OBJ
+ 0001:0002097c       ___vba@0634529C            0042197c     main1.OBJ
+ 0001:0002098c       ___vba@063452B0            0042198c     main1.OBJ
+ 0001:0002099c       ___vba@063452C4            0042199c     main1.OBJ
+ 0001:000209ac       ___vba@063452D4            004219ac     main1.OBJ
+ 0001:000209c0       ___vba@063452EC            004219c0     main1.OBJ
+ 0001:000209d4       ___vba@06345308            004219d4     main1.OBJ
+ 0001:000209e4       ___vba@06345388            004219e4     main1.OBJ
+ 0001:000209fc       ___vba@063453A4            004219fc     main1.OBJ
+ 0001:00020a14       ___vba@063453C0            00421a14     main1.OBJ
+ 0001:00020a2c       ___vba@063453E0            00421a2c     main1.OBJ
+ 0001:00020a3c       ___vba@063453F4            00421a3c     main1.OBJ
+ 0001:00020a4c       ___vba@06345408            00421a4c     main1.OBJ
+ 0001:00020a5c       ___vba@0634541C            00421a5c     main1.OBJ
+ 0001:00020a70       ___vba@06345430            00421a70     main1.OBJ
+ 0001:00020a90       ___vba@06345458            00421a90     main1.OBJ
+ 0001:00020aa0       ___vba@063456C4            00421aa0     main1.OBJ
+ 0001:00020ab0       ___vba@063456D8            00421ab0     main1.OBJ
+ 0001:00020ac0       ___vba@063456EC            00421ac0     main1.OBJ
+ 0001:00020ad0       ___vba@06345700            00421ad0     main1.OBJ
+ 0001:00020adc       ___vba@06345710            00421adc     main1.OBJ
+ 0001:00020ae8       ___vba@06345720            00421ae8     main1.OBJ
+ 0001:00020af4       ___vba@06345730            00421af4     main1.OBJ
+ 0001:00020b00       ___vba@06345740            00421b00     main1.OBJ
+ 0001:00020b0c       ___vba@06345750            00421b0c     main1.OBJ
+ 0001:00020b18       ___vba@06345760            00421b18     main1.OBJ
+ 0001:00020b24       ___vba@06345770            00421b24     main1.OBJ
+ 0001:00020b30       ___vba@06345780            00421b30     main1.OBJ
+ 0001:00020b3c       ___vba@06345790            00421b3c     main1.OBJ
+ 0001:00020b48       ___vba@063457A0            00421b48     main1.OBJ
+ 0001:00020b54       ___vba@063457B0            00421b54     main1.OBJ
+ 0001:00020b60       ___vba@063457C0            00421b60     main1.OBJ
+ 0001:00020b6c       ___vba@063457D0            00421b6c     main1.OBJ
+ 0001:00020b78       ___vba@063457E0            00421b78     main1.OBJ
+ 0001:00020b84       ___vba@063457F0            00421b84     main1.OBJ
+ 0001:00020b90       ___vba@06345800            00421b90     main1.OBJ
+ 0001:00020b9c       ___vba@06345810            00421b9c     main1.OBJ
+ 0001:00020ba8       ___vba@06345820            00421ba8     main1.OBJ
+ 0001:00020bb4       ___vba@06345830            00421bb4     main1.OBJ
+ 0001:00020bc0       ___vba@06345840            00421bc0     main1.OBJ
+ 0001:00020bcc       ___vba@06345850            00421bcc     main1.OBJ
+ 0001:00020bd8       ___vba@06345860            00421bd8     main1.OBJ
+ 0001:00020be4       ___vba@06345870            00421be4     main1.OBJ
+ 0001:00020bf0       ___vba@06345880            00421bf0     main1.OBJ
+ 0001:00020bfc       ___vba@06345890            00421bfc     main1.OBJ
+ 0001:00020c08       ___vba@063458A0            00421c08     main1.OBJ
+ 0001:00020c14       ___vba@063458B0            00421c14     main1.OBJ
+ 0001:00020c24       ___vba@06345F64            00421c24     main1.OBJ
+ 0001:00020c34       ___vba@06345F78            00421c34     main1.OBJ
+ 0001:00020c44       ___vba@06345F8C            00421c44     main1.OBJ
+ 0001:00020c54       ___vba@06345FA0            00421c54     main1.OBJ
+ 0001:00020c68       ___vba@06345FB4            00421c68     main1.OBJ
+ 0001:00020c90       ___vba@06345FE4            00421c90     main1.OBJ
+ 0001:00020ca0       ___vba@06345FF8            00421ca0     main1.OBJ
+ 0001:00020cb0       ___vba@0634600C            00421cb0     main1.OBJ
+ 0001:00020cc0       ___vba@06346020            00421cc0     main1.OBJ
+ 0001:00020cd4       ___vba@06346034            00421cd4     main1.OBJ
+ 0001:00020cfc       ___vba@06346064            00421cfc     main1.OBJ
+ 0001:00020d0c       ___vba@06346078            00421d0c     main1.OBJ
+ 0001:00020d1c       ___vba@0634608C            00421d1c     main1.OBJ
+ 0001:00020d2c       ___vba@063460A0            00421d2c     main1.OBJ
+ 0001:00020d3c       ___vba@063460B4            00421d3c     main1.OBJ
+ 0001:00020d4c       ___vba@063460C8            00421d4c     main1.OBJ
+ 0001:00020d5c       ___vba@063460DC            00421d5c     main1.OBJ
+ 0001:00020d6c       ___vba@063460F0            00421d6c     main1.OBJ
+ 0001:00020d7c       ___vba@06346104            00421d7c     main1.OBJ
+ 0001:00020d8c       ___vba@06346118            00421d8c     main1.OBJ
+ 0001:00020d9c       ___vba@0634612C            00421d9c     main1.OBJ
+ 0001:00020dac       ___vba@06346140            00421dac     main1.OBJ
+ 0001:00020dbc       ___vba@06346804            00421dbc     main1.OBJ
+ 0001:00020dcc       ___vba@06346818            00421dcc     main1.OBJ
+ 0001:00020ddc       ___vba@0634682C            00421ddc     main1.OBJ
+ 0001:00020dec       ___vba@06346840            00421dec     main1.OBJ
+ 0001:00020dfc       ___vba@06346854            00421dfc     main1.OBJ
+ 0001:00020e0c       ___vba@06346868            00421e0c     main1.OBJ
+ 0001:00020e1c       ___vba@0634687C            00421e1c     main1.OBJ
+ 0001:00020e2c       ___vba@06346890            00421e2c     main1.OBJ
+ 0001:00020e3c       ___vba@063468A4            00421e3c     main1.OBJ
+ 0001:00020e4c       ___vba@063468B8            00421e4c     main1.OBJ
+ 0001:00020e5c       ___vba@063468CC            00421e5c     main1.OBJ
+ 0001:00020e6c       ___vba@063468E0            00421e6c     main1.OBJ
+ 0001:00020e7c       ___vba@063468F4            00421e7c     main1.OBJ
+ 0001:00020e8c       ___vba@06346908            00421e8c     main1.OBJ
+ 0001:00020e9c       ___vba@0634691C            00421e9c     main1.OBJ
+ 0001:00020eac       ___vba@06346930            00421eac     main1.OBJ
+ 0001:00020ebc       ___vba@06346944            00421ebc     main1.OBJ
+ 0001:00020ecc       ___vba@06346958            00421ecc     main1.OBJ
+ 0001:00020edc       ___vba@0634696C            00421edc     main1.OBJ
+ 0001:00020eec       ___vba@06346980            00421eec     main1.OBJ
+ 0001:00020efc       ___vba@06346994            00421efc     main1.OBJ
+ 0001:00020f0c       ___vba@063469A8            00421f0c     main1.OBJ
+ 0001:00020f1c       ___vba@063469BC            00421f1c     main1.OBJ
+ 0001:00020f2c       ___vba@063469D0            00421f2c     main1.OBJ
+ 0001:00020f3c       ___vba@063469E4            00421f3c     main1.OBJ
+ 0001:00020f4c       ___vba@063534CC            00421f4c     main1.OBJ
+ 0001:00020f5c       ___vba@063534E0            00421f5c     main1.OBJ
+ 0001:00020f6c       ___vba@063534F4            00421f6c     main1.OBJ
+ 0001:00020f7c       ___vba@06353508            00421f7c     main1.OBJ
+ 0001:00020f8c       ___vba@0635351C            00421f8c     main1.OBJ
+ 0001:00020f9c       ___vba@06353530            00421f9c     main1.OBJ
+ 0001:00020fac       ___vba@06353544            00421fac     main1.OBJ
+ 0001:00020fbc       ___vba@06353558            00421fbc     main1.OBJ
+ 0001:00020fcc       ___vba@0635356C            00421fcc     main1.OBJ
+ 0001:00020fdc       ___vba@06353580            00421fdc     main1.OBJ
+ 0001:00020fec       ___vba@06353594            00421fec     main1.OBJ
+ 0001:00020ffc       ___vba@063535A8            00421ffc     main1.OBJ
+ 0001:0002100c       ___vba@063535BC            0042200c     main1.OBJ
+ 0001:0002101c       ___vba@063535D0            0042201c     main1.OBJ
+ 0001:0002102c       ___vba@063535E4            0042202c     main1.OBJ
+ 0001:0002103c       ___vba@063535F8            0042203c     main1.OBJ
+ 0001:0002104c       ___vba@0635360C            0042204c     main1.OBJ
+ 0001:0002105c       ___vba@06353620            0042205c     main1.OBJ
+ 0001:0002106c       ___vba@06353634            0042206c     main1.OBJ
+ 0001:0002107c       ___vba@06353648            0042207c     main1.OBJ
+ 0001:0002108c       ___vba@0635365C            0042208c     main1.OBJ
+ 0001:0002109c       ___vba@06353670            0042209c     main1.OBJ
+ 0001:000210ac       ___vba@06353684            004220ac     main1.OBJ
+ 0001:000210bc       ___vba@06353698            004220bc     main1.OBJ
+ 0001:000210cc       ___vba@063536AC            004220cc     main1.OBJ
+ 0001:000210dc       ___vba@063543E4            004220dc     main1.OBJ
+ 0001:000210ec       ___vba@063543F8            004220ec     main1.OBJ
+ 0001:000210fc       ___vba@0635440C            004220fc     main1.OBJ
+ 0001:0002110c       ___vba@06354420            0042210c     main1.OBJ
+ 0001:0002111c       ___vba@06354434            0042211c     main1.OBJ
+ 0001:0002112c       ___vba@06354448            0042212c     main1.OBJ
+ 0001:0002113c       ___vba@0635445C            0042213c     main1.OBJ
+ 0001:0002114c       ___vba@06354470            0042214c     main1.OBJ
+ 0001:0002115c       ___vba@06354484            0042215c     main1.OBJ
+ 0001:0002116c       ___vba@06354498            0042216c     main1.OBJ
+ 0001:0002117c       ___vba@063544AC            0042217c     main1.OBJ
+ 0001:0002118c       ___vba@063544C0            0042218c     main1.OBJ
+ 0001:0002119c       ___vba@063544D4            0042219c     main1.OBJ
+ 0001:000211ac       ___vba@063544E8            004221ac     main1.OBJ
+ 0001:000211bc       ___vba@063544FC            004221bc     main1.OBJ
+ 0001:000211cc       ___vba@06354510            004221cc     main1.OBJ
+ 0001:000211dc       ___vba@06354524            004221dc     main1.OBJ
+ 0001:000211ec       ___vba@06354538            004221ec     main1.OBJ
+ 0001:000211fc       ___vba@0635454C            004221fc     main1.OBJ
+ 0001:0002120c       ___vba@06354560            0042220c     main1.OBJ
+ 0001:0002121c       ___vba@06354574            0042221c     main1.OBJ
+ 0001:0002122c       ___vba@06354588            0042222c     main1.OBJ
+ 0001:0002123c       ___vba@0635459C            0042223c     main1.OBJ
+ 0001:0002124c       ___vba@063545B0            0042224c     main1.OBJ
+ 0001:0002125c       ___vba@063545C4            0042225c     main1.OBJ
+ 0001:0002126c       ___vba@063552FC            0042226c     main1.OBJ
+ 0001:0002127c       ___vba@06355310            0042227c     main1.OBJ
+ 0001:0002128c       ___vba@06355324            0042228c     main1.OBJ
+ 0001:0002129c       ___vba@06355338            0042229c     main1.OBJ
+ 0001:000212ac       ___vba@0635534C            004222ac     main1.OBJ
+ 0001:000212bc       ___vba@06355360            004222bc     main1.OBJ
+ 0001:000212cc       ___vba@06355374            004222cc     main1.OBJ
+ 0001:000212dc       ___vba@06355388            004222dc     main1.OBJ
+ 0001:000212ec       ___vba@0635539C            004222ec     main1.OBJ
+ 0001:000212fc       ___vba@063553B0            004222fc     main1.OBJ
+ 0001:0002130c       ___vba@063553C4            0042230c     main1.OBJ
+ 0001:0002131c       ___vba@063553D8            0042231c     main1.OBJ
+ 0001:0002132c       ___vba@063553EC            0042232c     main1.OBJ
+ 0001:0002133c       ___vba@06355400            0042233c     main1.OBJ
+ 0001:0002134c       ___vba@06355414            0042234c     main1.OBJ
+ 0001:0002135c       ___vba@06355428            0042235c     main1.OBJ
+ 0001:0002136c       ___vba@0635543C            0042236c     main1.OBJ
+ 0001:0002137c       ___vba@06355450            0042237c     main1.OBJ
+ 0001:0002138c       ___vba@06355464            0042238c     main1.OBJ
+ 0001:0002139c       ___vba@06355478            0042239c     main1.OBJ
+ 0001:000213ac       ___vba@0635548C            004223ac     main1.OBJ
+ 0001:000213bc       ___vba@063554A0            004223bc     main1.OBJ
+ 0001:000213cc       ___vba@063554B4            004223cc     main1.OBJ
+ 0001:000213dc       ___vba@063554C8            004223dc     main1.OBJ
+ 0001:000213ec       ___vba@063554DC            004223ec     main1.OBJ
+ 0001:000213fc       ___vba@06356214            004223fc     main1.OBJ
+ 0001:0002140c       ___vba@06356228            0042240c     main1.OBJ
+ 0001:0002141c       ___vba@0635623C            0042241c     main1.OBJ
+ 0001:0002142c       ___vba@06356250            0042242c     main1.OBJ
+ 0001:0002143c       ___vba@06356264            0042243c     main1.OBJ
+ 0001:0002144c       ___vba@06356278            0042244c     main1.OBJ
+ 0001:0002145c       ___vba@0635628C            0042245c     main1.OBJ
+ 0001:0002146c       ___vba@063562A0            0042246c     main1.OBJ
+ 0001:0002147c       ___vba@063562B4            0042247c     main1.OBJ
+ 0001:0002148c       ___vba@063562C8            0042248c     main1.OBJ
+ 0001:0002149c       ___vba@063562DC            0042249c     main1.OBJ
+ 0001:000214ac       ___vba@063562F0            004224ac     main1.OBJ
+ 0001:000214bc       ___vba@06356304            004224bc     main1.OBJ
+ 0001:000214c8       ___vba@06356314            004224c8     main1.OBJ
+ 0001:000214d8       ___vba@06356328            004224d8     main1.OBJ
+ 0001:000214e8       ___vba@0635633C            004224e8     main1.OBJ
+ 0001:000214f8       ___vba@06356350            004224f8     main1.OBJ
+ 0001:00021508       ___vba@06356364            00422508     main1.OBJ
+ 0001:00021518       ___vba@06356378            00422518     main1.OBJ
+ 0001:00021528       ___vba@0635638C            00422528     main1.OBJ
+ 0001:00021538       ___vba@063563A0            00422538     main1.OBJ
+ 0001:00021548       ___vba@063563B4            00422548     main1.OBJ
+ 0001:00021558       ___vba@063563C8            00422558     main1.OBJ
+ 0001:00021568       ___vba@063563DC            00422568     main1.OBJ
+ 0001:00021578       ___vba@063563F0            00422578     main1.OBJ
+ 0001:00021588       ___vba@0634B06C            00422588     main1.OBJ
+ 0001:00021598       ___vba@0634B080            00422598     main1.OBJ
+ 0001:000215a8       ___vba@0634B094            004225a8     main1.OBJ
+ 0001:000215b8       ___vba@0634B0A8            004225b8     main1.OBJ
+ 0001:000215c8       ___vba@0634B0BC            004225c8     main1.OBJ
+ 0001:000215d8       ___vba@0634B0D0            004225d8     main1.OBJ
+ 0001:000215e8       ___vba@0634B0E4            004225e8     main1.OBJ
+ 0001:000215f8       ___vba@0634B0F8            004225f8     main1.OBJ
+ 0001:0002160c       ___vba@0634B10C            0042260c     main1.OBJ
+ 0001:00021634       ___vba@0634B138            00422634     main1.OBJ
+ 0001:00021664       ___vba@0634B16C            00422664     main1.OBJ
+ 0001:0002168c       ___vba@0634B198            0042268c     main1.OBJ
+ 0001:000216b4       ___vba@0634B1C4            004226b4     main1.OBJ
+ 0001:000216e0       ___vba@0634B1F4            004226e0     main1.OBJ
+ 0001:00021708       ___vba@0634B220            00422708     main1.OBJ
+ 0001:00021730       ___vba@0634B24C            00422730     main1.OBJ
+ 0001:0002174c       ___vba@069D0F94            0042274c     main1.OBJ
+ 0001:00021780       ___vba@069D0FCC            00422780     main1.OBJ
+ 0001:000217ac       ___vba@069D0FFC            004227ac     main1.OBJ
+ 0001:000217d8       ___vba@069D102C            004227d8     main1.OBJ
+ 0001:0002180c       ___vba@069D1064            0042280c     main1.OBJ
+ 0001:00021838       ___vba@069D1094            00422838     main1.OBJ
+ 0001:00021860       ___vba@069D10C0            00422860     main1.OBJ
+ 0001:00021888       ___vba@069D10EC            00422888     main1.OBJ
+ 0001:000218b0       ___vba@069D1118            004228b0     main1.OBJ
+ 0001:000218d8       ___vba@069D1144            004228d8     main1.OBJ
+ 0001:00021908       ___vba@069D1178            00422908     main1.OBJ
+ 0001:00021914       ___vba@0634B6E4            00422914     main1.OBJ
+ 0001:0002193c       ___vba@0634B710            0042293c     main1.OBJ
+ 0001:00021964       ___vba@0634B73C            00422964     main1.OBJ
+ 0001:0002198c       ___vba@0634B768            0042298c     main1.OBJ
+ 0001:000219b4       ___vba@0634B794            004229b4     main1.OBJ
+ 0001:000219e0       ___vba@0634B7C4            004229e0     main1.OBJ
+ 0001:00021a0c       ___vba@0634B7F4            00422a0c     main1.OBJ
+ 0001:00021a38       ___vba@0634B824            00422a38     main1.OBJ
+ 0001:00021a64       ___vba@0634B854            00422a64     main1.OBJ
+ 0001:00021a90       ___vba@0634B884            00422a90     main1.OBJ
+ 0001:00021abc       ___vba@0634B8B4            00422abc     main1.OBJ
+ 0001:00021ae8       ___vba@0634B90C            00422ae8     main1.OBJ
+ 0001:00021b10       ___vba@0634B938            00422b10     main1.OBJ
+ 0001:00021b3c       ___vba@0634B968            00422b3c     main1.OBJ
+ 0001:00021b64       ___vba@0634B994            00422b64     main1.OBJ
+ 0001:00021b8c       ___vba@0634B9C0            00422b8c     main1.OBJ
+ 0001:00021bbc       ___vba@0634B9F4            00422bbc     main1.OBJ
+ 0001:00021be8       ___vba@0634BA24            00422be8     main1.OBJ
+ 0001:00021c14       ___vba@0634BA54            00422c14     main1.OBJ
+ 0001:00021c44       ___vba@0634BA88            00422c44     main1.OBJ
+ 0001:00021c68       ___vba@0634BAB4            00422c68     main1.OBJ
+ 0001:00021c7c       ___vba@0634BB34            00422c7c     main1.OBJ
+ 0001:00021cf4       ___vba@0634BBB0            00422cf4     main1.OBJ
+ 0001:00021d04       ___vba@0634BBC4            00422d04     main1.OBJ
+ 0001:00021d54       ___vba@0634BC18            00422d54     main1.OBJ
+ 0001:00021db8       ___vba@0634BC80            00422db8     main1.OBJ
+ 0001:00021ddc       ___vba@0634BCA8            00422ddc     main1.OBJ
+ 0001:00021de4       ___vba@0634BCB4            00422de4     main1.OBJ
+ 0001:00021e60       ___vba@0634BF84            00422e60     main1.OBJ
+ 0001:00021e7c       ___vba@0634BFA4            00422e7c     main1.OBJ
+ 0001:00021e9c       ___vba@0634BFC8            00422e9c     main1.OBJ
+ 0001:00021eb4       ___vba@0634BFE4            00422eb4     main1.OBJ
+ 0001:00021ecc       ___vba@0634C000            00422ecc     main1.OBJ
+ 0001:00021ee4       ___vba@0634C020            00422ee4     main1.OBJ
+ 0001:00021ef4       ___vba@0634C034            00422ef4     main1.OBJ
+ 0001:00021f04       ___vba@0634C048            00422f04     main1.OBJ
+ 0001:00021f14       ___vba@0634C05C            00422f14     main1.OBJ
+ 0001:00021f24       ___vba@0634C070            00422f24     main1.OBJ
+ 0001:00021f34       ___vba@0634C080            00422f34     main1.OBJ
+ 0001:00021f3c       ___vba@0634C08C            00422f3c     main1.OBJ
+ 0001:00021f48       ___vba@0634C0A0            00422f48     main1.OBJ
+ 0001:00021f5c       ___vba@0634C0B4            00422f5c     main1.OBJ
+ 0001:00021f6c       ___vba@0634C0C8            00422f6c     main1.OBJ
+ 0001:00021f80       ___vba@0634C0E0            00422f80     main1.OBJ
+ 0001:00021f94       ___vba@0634C0F8            00422f94     main1.OBJ
+ 0001:00021fa8       ___vba@0634C110            00422fa8     main1.OBJ
+ 0001:00021fb8       ___vba@0634C124            00422fb8     main1.OBJ
+ 0001:00021fc4       ___vba@0634C134            00422fc4     main1.OBJ
+ 0001:00021fd8       ___vba@0634C14C            00422fd8     main1.OBJ
+ 0001:00021fe8       ___vba@0634C160            00422fe8     main1.OBJ
+ 0001:00021ff4       ___vba@0634C174            00422ff4     main1.OBJ
+ 0001:00022004       ___vba@0634C3D4            00423004     main1.OBJ
+ 0001:00022014       ___vba@0634C3E8            00423014     main1.OBJ
+ 0001:00022024       ___vba@0634C3FC            00423024     main1.OBJ
+ 0001:00022030       ___vba@0634C40C            00423030     main1.OBJ
+ 0001:0002203c       ___vba@0634C41C            0042303c     main1.OBJ
+ 0001:0002204c       ___vba@0634C430            0042304c     main1.OBJ
+ 0001:00022060       ___vba@0634C448            00423060     main1.OBJ
+ 0001:00022070       ___vba@0634C45C            00423070     main1.OBJ
+ 0001:00022080       ___vba@0634C470            00423080     main1.OBJ
+ 0001:00022090       ___vba@0634C484            00423090     main1.OBJ
+ 0001:000220a8       ___vba@0634C4A0            004230a8     main1.OBJ
+ 0001:000220b8       ___vba@0634C4B4            004230b8     main1.OBJ
+ 0001:000220cc       ___vba@0634C4CC            004230cc     main1.OBJ
+ 0001:000220e0       ___vba@0634C4E4            004230e0     main1.OBJ
+ 0001:000220f0       ___vba@0634C4F8            004230f0     main1.OBJ
+ 0001:00022104       ___vba@0634C510            00423104     main1.OBJ
+ 0001:00022110       ___vba@0634C520            00423110     main1.OBJ
+ 0001:00022120       ___vba@0634C534            00423120     main1.OBJ
+ 0001:00022130       ___vba@0634C548            00423130     main1.OBJ
+ 0001:00022140       ___vba@0634C55C            00423140     main1.OBJ
+ 0001:00022150       ___vba@0634C570            00423150     main1.OBJ
+ 0001:00022160       ___vba@0634C584            00423160     main1.OBJ
+ 0001:00022170       ___vba@0634C598            00423170     main1.OBJ
+ 0001:00022180       ___vba@0634C5AC            00423180     main1.OBJ
+ 0001:00022190       ___vba@0634C5C0            00423190     main1.OBJ
+ 0001:000221a0       ___vba@0634C5FC            004231a0     main1.OBJ
+ 0001:000221b4       ___vba@0634C614            004231b4     main1.OBJ
+ 0001:000221c8       ___vba@0634C62C            004231c8     main1.OBJ
+ 0001:000221d8       ___vba@0634C640            004231d8     main1.OBJ
+ 0001:000221ec       ___vba@0634C658            004231ec     main1.OBJ
+ 0001:000221f8       ___vba@0634C66C            004231f8     main1.OBJ
+ 0001:0002220c       ___vba@0634C680            0042320c     main1.OBJ
+ 0001:00022214       ___vba@0634C68C            00423214     main1.OBJ
+ 0001:0002221c       ___vba@0634C698            0042321c     main1.OBJ
+ 0001:00022228       ___vba@0634C6A8            00423228     main1.OBJ
+ 0001:00022270       ___vba@0634C6F4            00423270     main1.OBJ
+ 0001:000222ac       ___vba@0634C734            004232ac     main1.OBJ
+ 0001:000222b4       ___vba@0634C7B4            004232b4     main1.OBJ
+ 0001:000222c4       ___vba@0634CE9C            004232c4     main1.OBJ
+ 0001:000222ec       ___vba@0634CEC8            004232ec     main1.OBJ
+ 0001:00022318       ___vba@0634CF30            00423318     main1.OBJ
+ 0001:00022334       ___vba@0634CF54            00423334     main1.OBJ
+ 0001:00022344       ___vba@0634CF68            00423344     main1.OBJ
+ 0001:00022358       ___vba@0634CF7C            00423358     main1.OBJ
+ 0001:00022380       ___vba@0634CFA8            00423380     main1.OBJ
+ 0001:00022390       ___vba@0634CFBC            00423390     main1.OBJ
+ 0001:000223a0       ___vba@0634CFD0            004233a0     main1.OBJ
+ 0001:000223b0       ___vba@0634CFE4            004233b0     main1.OBJ
+ 0001:000223bc       ___vba@0634CFF4            004233bc     main1.OBJ
+ 0001:000223c0       ___vba@0634D000            004233c0     main1.OBJ
+ 0001:000223d0       ___vba@0634D014            004233d0     main1.OBJ
+ 0001:000223e4       ___vba@0634D028            004233e4     main1.OBJ
+ 0001:000223f4       ___vba@0634D03C            004233f4     main1.OBJ
+ 0001:000223f8       ___vba@0634D048            004233f8     main1.OBJ
+ 0001:0002240c       ___vba@06950EEC            0042340c     main1.OBJ
+ 0001:0002241c       ___vba@06950F70            0042341c     main1.OBJ
+ 0001:00022430       ___vba@06950FC0            00423430     main1.OBJ
+ 0001:00022440       ___vba@0695100C            00423440     main1.OBJ
+ 0001:0002245c       ___vba@06951064            0042345c     main1.OBJ
+ 0001:00022478       ___vba@069510BC            00423478     main1.OBJ
+ 0001:00022488       ___vba@069510CC            00423488     main1.OBJ
+ 0001:00022498       ___vba@0634D35C            00423498     main1.OBJ
+ 0001:000224a4       ___vba@0634D3A4            004234a4     main1.OBJ
+ 0001:000224b4       ___vba@0634D3F0            004234b4     main1.OBJ
+ 0001:000224c4       ___vba@0634D474            004234c4     main1.OBJ
+ 0001:000224d4       ___vba@0634D4C0            004234d4     main1.OBJ
+ 0001:000224e0       ___vba@0634D4D0            004234e0     main1.OBJ
+ 0001:000224f8       ___vba@0634D16C            004234f8     main1.OBJ
+ 0001:00022508       ___vba@0634D1F0            00423508     main1.OBJ
+ 0001:00022514       ___vba@0634D238            00423514     main1.OBJ
+ 0001:00022524       ___vba@0634D54C            00423524     main1.OBJ
+ 0001:00022538       ___vba@0634D5D0            00423538     main1.OBJ
+ 0001:00022540       ___vba@0634D614            00423540     main1.OBJ
+ 0001:00022554       ___vba@0634D62C            00423554     main1.OBJ
+ 0001:00022568       ___vba@0634D644            00423568     main1.OBJ
+ 0001:00022588       ___vba@0634D668            00423588     main1.OBJ
+ 0001:000225a4       ___vba@0634D688            004235a4     main1.OBJ
+ 0001:000225b0       ___vba@0634D698            004235b0     main1.OBJ
+ 0001:000225b8       ___vba@0634D6A4            004235b8     main1.OBJ
+ 0001:000225c8       ___vba@0634D6B8            004235c8     main1.OBJ
+ 0001:000225d8       ___vba@0634D6CC            004235d8     main1.OBJ
+ 0001:000225f0       ___vba@0634D6EC            004235f0     main1.OBJ
+ 0001:00022604       ___vba@0634D73C            00423604     main1.OBJ
+ 0001:00022618       ___vba@0634D754            00423618     main1.OBJ
+ 0001:0002262c       ___vba@0634D76C            0042362c     main1.OBJ
+ 0001:00022650       ___vba@0634D794            00423650     main1.OBJ
+ 0001:00022674       ___vba@0634D7BC            00423674     main1.OBJ
+ 0001:00022690       ___vba@0634D7DC            00423690     main1.OBJ
+ 0001:000226a8       ___vba@0634D7F8            004236a8     main1.OBJ
+ 0001:000226c8       ___vba@0634D81C            004236c8     main1.OBJ
+ 0001:000226dc       ___vba@0634D834            004236dc     main1.OBJ
+ 0001:000226e4       ___vba@0634D840            004236e4     main1.OBJ
+ 0001:000226e8       ___vba@0634D84C            004236e8     main1.OBJ
+ 0001:000226f4       ___vba@0634D894            004236f4     main1.OBJ
+ 0001:00022700       ___vba@0634D9D4            00423700     main1.OBJ
+ 0001:0002270c       ___vba@0634DA8C            0042370c     main1.OBJ
+ 0001:00022718       ___vba@0634DAD4            00423718     main1.OBJ
+ 0001:0002272c       ___vba@0634DB24            0042372c     main1.OBJ
+ 0001:0003d884       ___vba@0693105C            0043e884     main1.OBJ
+ 0001:0003d8c4       ___vba@069A318C            0043e8c4     main1.OBJ
+ 0001:0003d904       ___vba@0073973C            0043e904     main1.OBJ
+ 0001:0003d944       ___vba@00738C74            0043e944     main1.OBJ
+ 0001:0003d984       ___vba@069A204C            0043e984     main1.OBJ
+ 0001:0003d9c4       ___vba@0634BD5C            0043e9c4     main1.OBJ
+ 0001:0003da04       ___vba@06933504            0043ea04     main1.OBJ
+ 0001:0003da44       ___vba@069330B4            0043ea44     main1.OBJ
+ 0001:0003da84       ___vba@0635B48C            0043ea84     main1.OBJ
+ 0001:0003dac4       ___vba@069316D4            0043eac4     main1.OBJ
+ 0001:0003db04       ___vba@0635BD2C            0043eb04     main1.OBJ
+ 0001:0003db44       ___vba@069323C4            0043eb44     main1.OBJ
+ 0001:0003db84       ___vba@06933DA4            0043eb84     main1.OBJ
+ 0001:0003dbc4       ___vba@06931D4C            0043ebc4     main1.OBJ
+ 0001:0003dc04       ___vba@069A4944            0043ec04     main1.OBJ
+ 0001:0003dc44       ___vba@06934A94            0043ec44     main1.OBJ
+ 0001:0003dc84       ___vba@069A44F4            0043ec84     main1.OBJ
+ 0001:0003dcc4       ___vba@06934644            0043ecc4     main1.OBJ
+ 0001:0003dd04       ___vba@00737D5C            0043ed04     main1.OBJ
+ 0001:0003dd44       ___vba@007374BC            0043ed44     main1.OBJ
+ 0001:0003dd84       ___vba@00736C1C            0043ed84     main1.OBJ
+ 0001:0003ddc4       ___vba@069A2D3C            0043edc4     main1.OBJ
+ 0001:0003de04       ___vba@069A2B14            0043ee04     main1.OBJ
+ 0001:0003de44       ___vba@069A19D4            0043ee44     main1.OBJ
+ 0001:0003de84       ___vba@007376E4            0043ee84     main1.OBJ
+ 0001:0003dec4       ___vba@0693372C            0043eec4     main1.OBJ
+ 0001:0003df04       ___vba@069A40A4            0043ef04     main1.OBJ
+ 0001:0003df44       ___vba@0635E3FC            0043ef44     main1.OBJ
+ 0001:0003df84       ___vba@00739FDC            0043ef84     main1.OBJ
+ 0001:0003dfc4       ___vba@007385FC            0043efc4     main1.OBJ
+ 0001:0003e004       ___vba@007383D4            0043f004     main1.OBJ
+ 0001:0003e044       ___vba@0695247C            0043f044     main1.OBJ
+ 0001:0003e084       ___vba@0635D934            0043f084     main1.OBJ
+ 0001:0003e0c4       ___vba@0635C3A4            0043f0c4     main1.OBJ
+ 0001:0003e104       ___vba@00739964            0043f104     main1.OBJ
+ 0001:0003e144       ___vba@007365A4            0043f144     main1.OBJ
+ 0001:0003e184       ___vba@00738824            0043f184     main1.OBJ
+ 0001:0003e1c4       ___vba@00737B34            0043f1c4     main1.OBJ
+ 0001:0003e204       ___vba@00736E44            0043f204     main1.OBJ
+ 0001:0003e244       ___vba@06933954            0043f244     main1.OBJ
+ 0001:0003e284       ___vba@06932E8C            0043f284     main1.OBJ
+ 0001:0003e2c4       ___vba@069325EC            0043f2c4     main1.OBJ
+ 0001:0003e304       ___vba@0635C5CC            0043f304     main1.OBJ
+ 0001:0003e344       ___vba@0635E1D4            0043f344     main1.OBJ
+ 0001:0003e384       ___vba@0635B8DC            0043f384     main1.OBJ
+ 0001:0003e3c4       ___vba@069A4B6C            0043f3c4     main1.OBJ
+ 0001:0003e404       ___vba@0635D2BC            0043f404     main1.OBJ
+ 0001:0003e444       ___vba@069A51E4            0043f444     main1.OBJ
+ 0001:0003e484       ___vba@06344E24            0043f484     main1.OBJ
+ 0001:0003e4c4       ___vba@063447AC            0043f4c4     main1.OBJ
+ 0001:0003e504       ___vba@0634435C            0043f504     main1.OBJ
+ 0001:0003e544       ___vba@069A5634            0043f544     main1.OBJ
+ 0001:0003e584       ___vba@0635B6B4            0043f584     main1.OBJ
+ 0001:0003e5c4       ___vba@06343F0C            0043f5c4     main1.OBJ
+ 0001:0003e604       ___vba@069A4D94            0043f604     main1.OBJ
+ 0001:0003e644       ___vba@069A3804            0043f644     main1.OBJ
+ 0001:0003e684       ___vba@0635CA1C            0043f684     main1.OBJ
+ 0001:0003e6c4       ___vba@0635D094            0043f6c4     main1.OBJ
+ 0001:0003e940       ___vba@069D091C            0043f940     main1.OBJ
+ 0001:0003e968       ___vba@069D0948            0043f968     main1.OBJ
+ 0001:0003e974       ___vba@069D0958            0043f974     main1.OBJ
+ 0001:0003e980       ___vba@069D0968            0043f980     main1.OBJ
+ 0001:0003e98c       ___vba@069D0978            0043f98c     main1.OBJ
+ 0001:0003e998       ___vba@069D0988            0043f998     main1.OBJ
+ 0001:0003e9a4       ___vba@069D0998            0043f9a4     main1.OBJ
+ 0001:0003e9b0       ___vba@069D09A8            0043f9b0     main1.OBJ
+ 0001:0003e9bc       ___vba@069D09B8            0043f9bc     main1.OBJ
+ 0001:0003e9c8       ___vba@069D09C8            0043f9c8     main1.OBJ
+ 0001:0003e9d4       ___vba@069D09D8            0043f9d4     main1.OBJ
+ 0001:0003e9d8       ___vba@069D09E0            0043f9d8     main1.OBJ
+ 0001:0003e9e0       ___vba@069D09EC            0043f9e0     main1.OBJ
+ 0001:0003e9ec       ___vba@069D09FC            0043f9ec     main1.OBJ
+ 0001:0003e9f8       ___vba@069D0A0C            0043f9f8     main1.OBJ
+ 0001:0003ea04       ___vba@069D0A1C            0043fa04     main1.OBJ
+ 0001:0003ea10       ___vba@069D0A2C            0043fa10     main1.OBJ
+ 0001:0003eb10       VB@BTXT                    0043fb10     main1.OBJ
+ 0001:0003eb20       ?Command1_Click@Login@@AAGXXZ 0043fb20 f   Login.OBJ
+ 0001:0003f330       ?Command2_Click@Login@@AAGXXZ 00440330 f   Login.OBJ
+ 0001:0003f480       ?Command3_Click@Login@@AAGXXZ 00440480 f   Login.OBJ
+ 0001:0003f6c0       ?Form_Load@Login@@AAGXXZ   004406c0 f   Login.OBJ
+ 0001:0003f9f0       ?drawForm@VSKIN@@AAGXXZ    004409f0 f   VSKIN.OBJ
+ 0001:00041950       ?UserControl_DblClick@VSKIN@@AAGXXZ 00442950 f   VSKIN.OBJ
+ 0001:00042100       ?drawButtons@VSKIN@@AAGXXZ 00443100 f   VSKIN.OBJ
+ 0001:00043d30       ?UserControl_Initialize@VSKIN@@AAGXXZ 00444d30 f   VSKIN.OBJ
+ 0001:00043dc0       ?UserControl_MouseDown@VSKIN@@AAGXXZ 00444dc0 f   VSKIN.OBJ
+ 0001:00044330       ?UserControl_MouseMove@VSKIN@@AAGXXZ 00445330 f   VSKIN.OBJ
+ 0001:00044f80       ?UserControl_MouseUp@VSKIN@@AAGXXZ 00445f80 f   VSKIN.OBJ
+ 0001:000457d0       ?UserControl_Paint@VSKIN@@AAGXXZ 004467d0 f   VSKIN.OBJ
+ 0001:00045860       ?UserControl_Resize@VSKIN@@AAGXXZ 00446860 f   VSKIN.OBJ
+ 0001:000458f0       ?UserControl_ReadProperties@VSKIN@@AAGXXZ 004468f0 f   VSKIN.OBJ
+ 0001:00045aa0       ?UserControl_WriteProperties@VSKIN@@AAGXXZ 00446aa0 f   VSKIN.OBJ
+ 0001:00045be0       ?Caption__Get@VSKIN@@AAGXXZ 00446be0 f   VSKIN.OBJ
+ 0001:00045c70       ?Caption__Let@VSKIN@@AAGXXZ 00446c70 f   VSKIN.OBJ
+ 0001:00045d00       ?Resize__Get@VSKIN@@AAGXXZ 00446d00 f   VSKIN.OBJ
+ 0001:00045d70       ?Resize__Let@VSKIN@@AAGXXZ 00446d70 f   VSKIN.OBJ
+ 0001:00045e40       ?Command1_Click@Join@@AAGXXZ 00446e40 f   Join.OBJ
+ 0001:00046360       ?Form_Unload@Join@@AAGXXZ  00447360 f   Join.OBJ
+ 0001:00046450       ?Command1_Click@Main@@AAGXXZ 00447450 f   Main.OBJ
+ 0001:00046650       ?Command1_GotFocus@Main@@AAGXXZ 00447650 f   Main.OBJ
+ 0001:00046710       ?Command1_LostFocus@Main@@AAGXXZ 00447710 f   Main.OBJ
+ 0001:000467d0       ?Command10_Click@Main@@AAGXXZ 004477d0 f   Main.OBJ
+ 0001:00046a10       ?Command10_GotFocus@Main@@AAGXXZ 00447a10 f   Main.OBJ
+ 0001:00046ad0       ?Command10_LostFocus@Main@@AAGXXZ 00447ad0 f   Main.OBJ
+ 0001:00046b90       ?Command11_Click@Main@@AAGXXZ 00447b90 f   Main.OBJ
+ 0001:00046d80       ?Command11_GotFocus@Main@@AAGXXZ 00447d80 f   Main.OBJ
+ 0001:00046e40       ?Command11_LostFocus@Main@@AAGXXZ 00447e40 f   Main.OBJ
+ 0001:00046f00       ?Command13_Click@Main@@AAGXXZ 00447f00 f   Main.OBJ
+ 0001:000470f0       ?Command13_GotFocus@Main@@AAGXXZ 004480f0 f   Main.OBJ
+ 0001:000471b0       ?Command13_LostFocus@Main@@AAGXXZ 004481b0 f   Main.OBJ
+ 0001:00047270       ?Command2_Click@Main@@AAGXXZ 00448270 f   Main.OBJ
+ 0001:00047470       ?Command2_GotFocus@Main@@AAGXXZ 00448470 f   Main.OBJ
+ 0001:00047530       ?Command2_LostFocus@Main@@AAGXXZ 00448530 f   Main.OBJ
+ 0001:000475f0       ?Command3_Click@Main@@AAGXXZ 004485f0 f   Main.OBJ
+ 0001:000477e0       ?Command3_GotFocus@Main@@AAGXXZ 004487e0 f   Main.OBJ
+ 0001:000478a0       ?Command3_LostFocus@Main@@AAGXXZ 004488a0 f   Main.OBJ
+ 0001:00047960       ?Command4_Click@Main@@AAGXXZ 00448960 f   Main.OBJ
+ 0001:00047b50       ?Command4_GotFocus@Main@@AAGXXZ 00448b50 f   Main.OBJ
+ 0001:00047c10       ?Command4_LostFocus@Main@@AAGXXZ 00448c10 f   Main.OBJ
+ 0001:00047cd0       ?Command5_Click@Main@@AAGXXZ 00448cd0 f   Main.OBJ
+ 0001:00047ec0       ?Command5_GotFocus@Main@@AAGXXZ 00448ec0 f   Main.OBJ
+ 0001:00047f80       ?Command5_LostFocus@Main@@AAGXXZ 00448f80 f   Main.OBJ
+ 0001:00048040       ?Command6_Click@Main@@AAGXXZ 00449040 f   Main.OBJ
+ 0001:00048230       ?Command6_GotFocus@Main@@AAGXXZ 00449230 f   Main.OBJ
+ 0001:000482f0       ?Command6_LostFocus@Main@@AAGXXZ 004492f0 f   Main.OBJ
+ 0001:000483b0       ?Command7_Click@Main@@AAGXXZ 004493b0 f   Main.OBJ
+ 0001:000485a0       ?Command7_GotFocus@Main@@AAGXXZ 004495a0 f   Main.OBJ
+ 0001:00048660       ?Command7_LostFocus@Main@@AAGXXZ 00449660 f   Main.OBJ
+ 0001:00048720       ?Command8_Click@Main@@AAGXXZ 00449720 f   Main.OBJ
+ 0001:00048910       ?Command8_GotFocus@Main@@AAGXXZ 00449910 f   Main.OBJ
+ 0001:000489d0       ?Command8_LostFocus@Main@@AAGXXZ 004499d0 f   Main.OBJ
+ 0001:00048a90       ?Command9_Click@Main@@AAGXXZ 00449a90 f   Main.OBJ
+ 0001:00048cc0       ?Command9_GotFocus@Main@@AAGXXZ 00449cc0 f   Main.OBJ
+ 0001:00048d80       ?Command9_LostFocus@Main@@AAGXXZ 00449d80 f   Main.OBJ
+ 0001:00048e40       ?Form_Load@Main@@AAGXXZ    00449e40 f   Main.OBJ
+ 0001:00049170       ?Command1_Click@Word@@AAGXXZ 0044a170 f   Word.OBJ
+ 0001:00049420       ?Command2_Click@Word@@AAGXXZ 0044a420 f   Word.OBJ
+ 0001:00049660       ?Command3_Click@Word@@AAGXXZ 0044a660 f   Word.OBJ
+ 0001:000498a0       ?Command1_Click@sentence@@AAGXXZ 0044a8a0 f   sentence.OBJ
+ 0001:00049ae0       ?Command2_Click@sentence@@AAGXXZ 0044aae0 f   sentence.OBJ
+ 0001:00049d20       ?Command3_Click@sentence@@AAGXXZ 0044ad20 f   sentence.OBJ
+ 0001:00049f40       ?Command1_Click@elementary1@@AAGXXZ 0044af40 f   elementary1.OBJ
+ 0001:0004a130       ?Command2_Click@elementary1@@AAGXXZ 0044b130 f   elementary1.OBJ
+ 0001:0004a370       ?Command3_Click@elementary1@@AAGXXZ 0044b370 f   elementary1.OBJ
+ 0001:0004a5b0       ?Command4_Click@elementary1@@AAGXXZ 0044b5b0 f   elementary1.OBJ
+ 0001:0004a720       ?Command6_Click@elementary1@@AAGXXZ 0044b720 f   elementary1.OBJ
+ 0001:0004a960       ?Command1_Click@elementary2@@AAGXXZ 0044b960 f   elementary2.OBJ
+ 0001:0004ab50       ?Command2_Click@elementary2@@AAGXXZ 0044bb50 f   elementary2.OBJ
+ 0001:0004ad90       ?Command3_Click@elementary2@@AAGXXZ 0044bd90 f   elementary2.OBJ
+ 0001:0004afd0       ?Command4_Click@elementary2@@AAGXXZ 0044bfd0 f   elementary2.OBJ
+ 0001:0004b140       ?Command5_Click@elementary2@@AAGXXZ 0044c140 f   elementary2.OBJ
+ 0001:0004b380       ?Command6_Click@elementary2@@AAGXXZ 0044c380 f   elementary2.OBJ
+ 0001:0004b5c0       ?Command1_Click@Elementary3@@AAGXXZ 0044c5c0 f   elementary3.OBJ
+ 0001:0004b7b0       ?Command2_Click@Elementary3@@AAGXXZ 0044c7b0 f   elementary3.OBJ
+ 0001:0004b9f0       ?Command3_Click@Elementary3@@AAGXXZ 0044c9f0 f   elementary3.OBJ
+ 0001:0004bb60       ?Command4_Click@Elementary3@@AAGXXZ 0044cb60 f   elementary3.OBJ
+ 0001:0004bcd0       ?Command5_Click@Elementary3@@AAGXXZ 0044ccd0 f   elementary3.OBJ
+ 0001:0004bf10       ?Command6_Click@Elementary3@@AAGXXZ 0044cf10 f   elementary3.OBJ
+ 0001:0004c150       ?Command1_Click@elementaryQ@@AAGXXZ 0044d150 f   elementaryQ.OBJ
+ 0001:0004c390       ?Command10_Click@elementaryQ@@AAGXXZ 0044d390 f   elementaryQ.OBJ
+ 0001:0004c5d0       ?Command11_Click@elementaryQ@@AAGXXZ 0044d5d0 f   elementaryQ.OBJ
+ 0001:0004c810       ?Command12_Click@elementaryQ@@AAGXXZ 0044d810 f   elementaryQ.OBJ
+ 0001:0004ca50       ?Command13_Click@elementaryQ@@AAGXXZ 0044da50 f   elementaryQ.OBJ
+ 0001:0004cc90       ?Command14_Click@elementaryQ@@AAGXXZ 0044dc90 f   elementaryQ.OBJ
+ 0001:0004ced0       ?Command15_Click@elementaryQ@@AAGXXZ 0044ded0 f   elementaryQ.OBJ
+ 0001:0004d110       ?Command16_Click@elementaryQ@@AAGXXZ 0044e110 f   elementaryQ.OBJ
+ 0001:0004d350       ?Command17_Click@elementaryQ@@AAGXXZ 0044e350 f   elementaryQ.OBJ
+ 0001:0004d590       ?Command18_Click@elementaryQ@@AAGXXZ 0044e590 f   elementaryQ.OBJ
+ 0001:0004d7d0       ?Command19_Click@elementaryQ@@AAGXXZ 0044e7d0 f   elementaryQ.OBJ
+ 0001:0004da10       ?Command2_Click@elementaryQ@@AAGXXZ 0044ea10 f   elementaryQ.OBJ
+ 0001:0004dc50       ?Command20_Click@elementaryQ@@AAGXXZ 0044ec50 f   elementaryQ.OBJ
+ 0001:0004de90       ?Command21_Click@elementaryQ@@AAGXXZ 0044ee90 f   elementaryQ.OBJ
+ 0001:0004e0d0       ?Command22_Click@elementaryQ@@AAGXXZ 0044f0d0 f   elementaryQ.OBJ
+ 0001:0004e310       ?Command23_Click@elementaryQ@@AAGXXZ 0044f310 f   elementaryQ.OBJ
+ 0001:0004e550       ?Command24_Click@elementaryQ@@AAGXXZ 0044f550 f   elementaryQ.OBJ
+ 0001:0004e790       ?Command25_Click@elementaryQ@@AAGXXZ 0044f790 f   elementaryQ.OBJ
+ 0001:0004e9d0       ?Command26_Click@elementaryQ@@AAGXXZ 0044f9d0 f   elementaryQ.OBJ
+ 0001:0004ec10       ?Command27_Click@elementaryQ@@AAGXXZ 0044fc10 f   elementaryQ.OBJ
+ 0001:0004ee50       ?Command28_Click@elementaryQ@@AAGXXZ 0044fe50 f   elementaryQ.OBJ
+ 0001:0004f090       ?Command29_Click@elementaryQ@@AAGXXZ 00450090 f   elementaryQ.OBJ
+ 0001:0004f2d0       ?Command3_Click@elementaryQ@@AAGXXZ 004502d0 f   elementaryQ.OBJ
+ 0001:0004f510       ?Command30_Click@elementaryQ@@AAGXXZ 00450510 f   elementaryQ.OBJ
+ 0001:0004f750       ?Command31_Click@elementaryQ@@AAGXXZ 00450750 f   elementaryQ.OBJ
+ 0001:0004f990       ?Command32_Click@elementaryQ@@AAGXXZ 00450990 f   elementaryQ.OBJ
+ 0001:0004fbd0       ?Command33_Click@elementaryQ@@AAGXXZ 00450bd0 f   elementaryQ.OBJ
+ 0001:0004fe10       ?Command34_Click@elementaryQ@@AAGXXZ 00450e10 f   elementaryQ.OBJ
+ 0001:00050050       ?Command35_Click@elementaryQ@@AAGXXZ 00451050 f   elementaryQ.OBJ
+ 0001:00050290       ?Command36_Click@elementaryQ@@AAGXXZ 00451290 f   elementaryQ.OBJ
+ 0001:000504d0       ?Command37_Click@elementaryQ@@AAGXXZ 004514d0 f   elementaryQ.OBJ
+ 0001:00050710       ?Command38_Click@elementaryQ@@AAGXXZ 00451710 f   elementaryQ.OBJ
+ 0001:00050950       ?Command39_Click@elementaryQ@@AAGXXZ 00451950 f   elementaryQ.OBJ
+ 0001:00050b90       ?Command4_Click@elementaryQ@@AAGXXZ 00451b90 f   elementaryQ.OBJ
+ 0001:00050dd0       ?Command40_Click@elementaryQ@@AAGXXZ 00451dd0 f   elementaryQ.OBJ
+ 0001:00051010       ?Command5_Click@elementaryQ@@AAGXXZ 00452010 f   elementaryQ.OBJ
+ 0001:00051250       ?Command6_Click@elementaryQ@@AAGXXZ 00452250 f   elementaryQ.OBJ
+ 0001:00051490       ?Command7_Click@elementaryQ@@AAGXXZ 00452490 f   elementaryQ.OBJ
+ 0001:000516d0       ?Command8_Click@elementaryQ@@AAGXXZ 004526d0 f   elementaryQ.OBJ
+ 0001:00051910       ?Command9_Click@elementaryQ@@AAGXXZ 00452910 f   elementaryQ.OBJ
+ 0001:00051b50       ?Command1_Click@elementary4@@AAGXXZ 00452b50 f   elementary4.OBJ
+ 0001:00051d40       ?Command2_Click@elementary4@@AAGXXZ 00452d40 f   elementary4.OBJ
+ 0001:00051f80       ?Command3_Click@elementary4@@AAGXXZ 00452f80 f   elementary4.OBJ
+ 0001:000521c0       ?Command4_Click@elementary4@@AAGXXZ 004531c0 f   elementary4.OBJ
+ 0001:00052330       ?Command5_Click@elementary4@@AAGXXZ 00453330 f   elementary4.OBJ
+ 0001:00052570       ?Command6_Click@elementary4@@AAGXXZ 00453570 f   elementary4.OBJ
+ 0001:000527b0       ?Command1_Click@elementary5@@AAGXXZ 004537b0 f   elementary5.OBJ
+ 0001:000529a0       ?Command2_Click@elementary5@@AAGXXZ 004539a0 f   elementary5.OBJ
+ 0001:00052be0       ?Command3_Click@elementary5@@AAGXXZ 00453be0 f   elementary5.OBJ
+ 0001:00052e20       ?Command4_Click@elementary5@@AAGXXZ 00453e20 f   elementary5.OBJ
+ 0001:00052f90       ?Command5_Click@elementary5@@AAGXXZ 00453f90 f   elementary5.OBJ
+ 0001:000531d0       ?Command6_Click@elementary5@@AAGXXZ 004541d0 f   elementary5.OBJ
+ 0001:00053410       ?Command1_Click@elementary24@@AAGXXZ 00454410 f   elementary24.OBJ
+ 0001:00053600       ?Command2_Click@elementary24@@AAGXXZ 00454600 f   elementary24.OBJ
+ 0001:00053840       ?Command3_Click@elementary24@@AAGXXZ 00454840 f   elementary24.OBJ
+ 0001:00053a80       ?Command4_Click@elementary24@@AAGXXZ 00454a80 f   elementary24.OBJ
+ 0001:00053bf0       ?Command5_Click@elementary24@@AAGXXZ 00454bf0 f   elementary24.OBJ
+ 0001:00053e30       ?Command6_Click@elementary24@@AAGXXZ 00454e30 f   elementary24.OBJ
+ 0001:00054070       ?Command1_Click@elementary34@@AAGXXZ 00455070 f   elementary34.OBJ
+ 0001:00054260       ?Command2_Click@elementary34@@AAGXXZ 00455260 f   elementary34.OBJ
+ 0001:000544a0       ?Command3_Click@elementary34@@AAGXXZ 004554a0 f   elementary34.OBJ
+ 0001:000546e0       ?Command4_Click@elementary34@@AAGXXZ 004556e0 f   elementary34.OBJ
+ 0001:00054850       ?Command5_Click@elementary34@@AAGXXZ 00455850 f   elementary34.OBJ
+ 0001:00054a90       ?Command6_Click@elementary34@@AAGXXZ 00455a90 f   elementary34.OBJ
+ 0001:00054cd0       ?Command1_Click@elementary40@@AAGXXZ 00455cd0 f   elementary40.OBJ
+ 0001:00054ec0       ?Command3_Click@elementary40@@AAGXXZ 00455ec0 f   elementary40.OBJ
+ 0001:00055100       ?Command4_Click@elementary40@@AAGXXZ 00456100 f   elementary40.OBJ
+ 0001:00055270       ?Command5_Click@elementary40@@AAGXXZ 00456270 f   elementary40.OBJ
+ 0001:000554b0       ?Command6_Click@elementary40@@AAGXXZ 004564b0 f   elementary40.OBJ
+ 0001:000556f0       ?Command1_Click@elementary36@@AAGXXZ 004566f0 f   elementary36.OBJ
+ 0001:000558e0       ?Command2_Click@elementary36@@AAGXXZ 004568e0 f   elementary36.OBJ
+ 0001:00055b20       ?Command3_Click@elementary36@@AAGXXZ 00456b20 f   elementary36.OBJ
+ 0001:00055d60       ?Command4_Click@elementary36@@AAGXXZ 00456d60 f   elementary36.OBJ
+ 0001:00055ed0       ?Command5_Click@elementary36@@AAGXXZ 00456ed0 f   elementary36.OBJ
+ 0001:00056110       ?Command6_Click@elementary36@@AAGXXZ 00457110 f   elementary36.OBJ
+ 0001:00056350       ?Command1_Click@elementary38@@AAGXXZ 00457350 f   elementary.OBJ
+ 0001:00056540       ?Command2_Click@elementary38@@AAGXXZ 00457540 f   elementary.OBJ
+ 0001:00056780       ?Command3_Click@elementary38@@AAGXXZ 00457780 f   elementary.OBJ
+ 0001:000569c0       ?Command4_Click@elementary38@@AAGXXZ 004579c0 f   elementary.OBJ
+ 0001:00056b30       ?Command5_Click@elementary38@@AAGXXZ 00457b30 f   elementary.OBJ
+ 0001:00056d70       ?Command6_Click@elementary38@@AAGXXZ 00457d70 f   elementary.OBJ
+ 0001:00056fb0       ?Command1_Click@elementary39@@AAGXXZ 00457fb0 f   elementary39.OBJ
+ 0001:000571a0       ?Command2_Click@elementary39@@AAGXXZ 004581a0 f   elementary39.OBJ
+ 0001:000573e0       ?Command3_Click@elementary39@@AAGXXZ 004583e0 f   elementary39.OBJ
+ 0001:00057620       ?Command4_Click@elementary39@@AAGXXZ 00458620 f   elementary39.OBJ
+ 0001:00057790       ?Command5_Click@elementary39@@AAGXXZ 00458790 f   elementary39.OBJ
+ 0001:000579d0       ?Command6_Click@elementary39@@AAGXXZ 004589d0 f   elementary39.OBJ
+ 0001:00057c10       ?Command1_Click@elementary6@@AAGXXZ 00458c10 f   elementary6.OBJ
+ 0001:00057e00       ?Command2_Click@elementary6@@AAGXXZ 00458e00 f   elementary6.OBJ
+ 0001:00058040       ?Command3_Click@elementary6@@AAGXXZ 00459040 f   elementary6.OBJ
+ 0001:00058280       ?Command4_Click@elementary6@@AAGXXZ 00459280 f   elementary6.OBJ
+ 0001:000583f0       ?Command5_Click@elementary6@@AAGXXZ 004593f0 f   elementary6.OBJ
+ 0001:00058630       ?Command6_Click@elementary6@@AAGXXZ 00459630 f   elementary6.OBJ
+ 0001:00058870       ?Command1_Click@elementary7@@AAGXXZ 00459870 f   elementary7.OBJ
+ 0001:00058a60       ?Command2_Click@elementary7@@AAGXXZ 00459a60 f   elementary7.OBJ
+ 0001:00058ca0       ?Command3_Click@elementary7@@AAGXXZ 00459ca0 f   elementary7.OBJ
+ 0001:00058ee0       ?Command4_Click@elementary7@@AAGXXZ 00459ee0 f   elementary7.OBJ
+ 0001:00059050       ?Command5_Click@elementary7@@AAGXXZ 0045a050 f   elementary7.OBJ
+ 0001:00059290       ?Command6_Click@elementary7@@AAGXXZ 0045a290 f   elementary7.OBJ
+ 0001:000594d0       ?Command1_Click@elementary8@@AAGXXZ 0045a4d0 f   elementary8.OBJ
+ 0001:000596c0       ?Command2_Click@elementary8@@AAGXXZ 0045a6c0 f   elementary8.OBJ
+ 0001:00059900       ?Command3_Click@elementary8@@AAGXXZ 0045a900 f   elementary8.OBJ
+ 0001:00059b40       ?Command4_Click@elementary8@@AAGXXZ 0045ab40 f   elementary8.OBJ
+ 0001:00059cb0       ?Command5_Click@elementary8@@AAGXXZ 0045acb0 f   elementary8.OBJ
+ 0001:00059ef0       ?Command6_Click@elementary8@@AAGXXZ 0045aef0 f   elementary8.OBJ
+ 0001:0005a130       ?Command1_Click@elementary9@@AAGXXZ 0045b130 f   elementary9.OBJ
+ 0001:0005a320       ?Command2_Click@elementary9@@AAGXXZ 0045b320 f   elementary9.OBJ
+ 0001:0005a560       ?Command3_Click@elementary9@@AAGXXZ 0045b560 f   elementary9.OBJ
+ 0001:0005a7a0       ?Command4_Click@elementary9@@AAGXXZ 0045b7a0 f   elementary9.OBJ
+ 0001:0005a910       ?Command5_Click@elementary9@@AAGXXZ 0045b910 f   elementary9.OBJ
+ 0001:0005ab50       ?Command6_Click@elementary9@@AAGXXZ 0045bb50 f   elementary9.OBJ
+ 0001:0005ad90       ?Command1_Click@elementary10@@AAGXXZ 0045bd90 f   elementary10.OBJ
+ 0001:0005af80       ?Command2_Click@elementary10@@AAGXXZ 0045bf80 f   elementary10.OBJ
+ 0001:0005b1c0       ?Command3_Click@elementary10@@AAGXXZ 0045c1c0 f   elementary10.OBJ
+ 0001:0005b400       ?Command4_Click@elementary10@@AAGXXZ 0045c400 f   elementary10.OBJ
+ 0001:0005b570       ?Command5_Click@elementary10@@AAGXXZ 0045c570 f   elementary10.OBJ
+ 0001:0005b7b0       ?Command6_Click@elementary10@@AAGXXZ 0045c7b0 f   elementary10.OBJ
+ 0001:0005b9f0       ?Command1_Click@elementary11@@AAGXXZ 0045c9f0 f   elementary11.OBJ
+ 0001:0005bbe0       ?Command2_Click@elementary11@@AAGXXZ 0045cbe0 f   elementary11.OBJ
+ 0001:0005be20       ?Command3_Click@elementary11@@AAGXXZ 0045ce20 f   elementary11.OBJ
+ 0001:0005c060       ?Command4_Click@elementary11@@AAGXXZ 0045d060 f   elementary11.OBJ
+ 0001:0005c1d0       ?Command5_Click@elementary11@@AAGXXZ 0045d1d0 f   elementary11.OBJ
+ 0001:0005c410       ?Command6_Click@elementary11@@AAGXXZ 0045d410 f   elementary11.OBJ
+ 0001:0005c650       ?Command1_Click@elementary12@@AAGXXZ 0045d650 f   elementary12.OBJ
+ 0001:0005c840       ?Command2_Click@elementary12@@AAGXXZ 0045d840 f   elementary12.OBJ
+ 0001:0005ca80       ?Command3_Click@elementary12@@AAGXXZ 0045da80 f   elementary12.OBJ
+ 0001:0005ccc0       ?Command4_Click@elementary12@@AAGXXZ 0045dcc0 f   elementary12.OBJ
+ 0001:0005ce30       ?Command5_Click@elementary12@@AAGXXZ 0045de30 f   elementary12.OBJ
+ 0001:0005d070       ?Command6_Click@elementary12@@AAGXXZ 0045e070 f   elementary12.OBJ
+ 0001:0005d2b0       ?Command1_Click@elementary26@@AAGXXZ 0045e2b0 f   elementary26.OBJ
+ 0001:0005d4a0       ?Command2_Click@elementary26@@AAGXXZ 0045e4a0 f   elementary26.OBJ
+ 0001:0005d6e0       ?Command3_Click@elementary26@@AAGXXZ 0045e6e0 f   elementary26.OBJ
+ 0001:0005d920       ?Command4_Click@elementary26@@AAGXXZ 0045e920 f   elementary26.OBJ
+ 0001:0005da90       ?Command5_Click@elementary26@@AAGXXZ 0045ea90 f   elementary26.OBJ
+ 0001:0005dcd0       ?Command6_Click@elementary26@@AAGXXZ 0045ecd0 f   elementary26.OBJ
+ 0001:0005df10       ?Command1_Click@elementary13@@AAGXXZ 0045ef10 f   elementary13.OBJ
+ 0001:0005e100       ?Command2_Click@elementary13@@AAGXXZ 0045f100 f   elementary13.OBJ
+ 0001:0005e340       ?Command3_Click@elementary13@@AAGXXZ 0045f340 f   elementary13.OBJ
+ 0001:0005e580       ?Command4_Click@elementary13@@AAGXXZ 0045f580 f   elementary13.OBJ
+ 0001:0005e6f0       ?Command5_Click@elementary13@@AAGXXZ 0045f6f0 f   elementary13.OBJ
+ 0001:0005e930       ?Command6_Click@elementary13@@AAGXXZ 0045f930 f   elementary13.OBJ
+ 0001:0005eb70       ?Command1_Click@elementary20@@AAGXXZ 0045fb70 f   elementary20.OBJ
+ 0001:0005ed60       ?Command2_Click@elementary20@@AAGXXZ 0045fd60 f   elementary20.OBJ
+ 0001:0005efa0       ?Command3_Click@elementary20@@AAGXXZ 0045ffa0 f   elementary20.OBJ
+ 0001:0005f1e0       ?Command4_Click@elementary20@@AAGXXZ 004601e0 f   elementary20.OBJ
+ 0001:0005f350       ?Command5_Click@elementary20@@AAGXXZ 00460350 f   elementary20.OBJ
+ 0001:0005f590       ?Command6_Click@elementary20@@AAGXXZ 00460590 f   elementary20.OBJ
+ 0001:0005f7d0       ?Command1_Click@elementary17@@AAGXXZ 004607d0 f   elementary17.OBJ
+ 0001:0005f9c0       ?Command2_Click@elementary17@@AAGXXZ 004609c0 f   elementary17.OBJ
+ 0001:0005fc00       ?Command3_Click@elementary17@@AAGXXZ 00460c00 f   elementary17.OBJ
+ 0001:0005fe40       ?Command4_Click@elementary17@@AAGXXZ 00460e40 f   elementary17.OBJ
+ 0001:0005ffb0       ?Command5_Click@elementary17@@AAGXXZ 00460fb0 f   elementary17.OBJ
+ 0001:000601f0       ?Command6_Click@elementary17@@AAGXXZ 004611f0 f   elementary17.OBJ
+ 0001:00060430       ?Command1_Click@elementary15@@AAGXXZ 00461430 f   elementary15.OBJ
+ 0001:00060620       ?Command2_Click@elementary15@@AAGXXZ 00461620 f   elementary15.OBJ
+ 0001:00060860       ?Command3_Click@elementary15@@AAGXXZ 00461860 f   elementary15.OBJ
+ 0001:00060aa0       ?Command4_Click@elementary15@@AAGXXZ 00461aa0 f   elementary15.OBJ
+ 0001:00060c10       ?Command5_Click@elementary15@@AAGXXZ 00461c10 f   elementary15.OBJ
+ 0001:00060e50       ?Command6_Click@elementary15@@AAGXXZ 00461e50 f   elementary15.OBJ
+ 0001:00061090       ?Command1_Click@elementary18@@AAGXXZ 00462090 f   elementary18.OBJ
+ 0001:00061280       ?Command2_Click@elementary18@@AAGXXZ 00462280 f   elementary18.OBJ
+ 0001:000614c0       ?Command3_Click@elementary18@@AAGXXZ 004624c0 f   elementary18.OBJ
+ 0001:00061700       ?Command4_Click@elementary18@@AAGXXZ 00462700 f   elementary18.OBJ
+ 0001:00061870       ?Command5_Click@elementary18@@AAGXXZ 00462870 f   elementary18.OBJ
+ 0001:00061ab0       ?Command6_Click@elementary18@@AAGXXZ 00462ab0 f   elementary18.OBJ
+ 0001:00061cf0       ?Command1_Click@elementary21@@AAGXXZ 00462cf0 f   elementary21.OBJ
+ 0001:00061ee0       ?Command2_Click@elementary21@@AAGXXZ 00462ee0 f   elementary21.OBJ
+ 0001:00062120       ?Command3_Click@elementary21@@AAGXXZ 00463120 f   elementary21.OBJ
+ 0001:00062360       ?Command4_Click@elementary21@@AAGXXZ 00463360 f   elementary21.OBJ
+ 0001:000624d0       ?Command5_Click@elementary21@@AAGXXZ 004634d0 f   elementary21.OBJ
+ 0001:00062710       ?Command6_Click@elementary21@@AAGXXZ 00463710 f   elementary21.OBJ
+ 0001:00062950       ?Command1_Click@elementary14@@AAGXXZ 00463950 f   elementary14.OBJ
+ 0001:00062b40       ?Command2_Click@elementary14@@AAGXXZ 00463b40 f   elementary14.OBJ
+ 0001:00062d80       ?Command3_Click@elementary14@@AAGXXZ 00463d80 f   elementary14.OBJ
+ 0001:00062fc0       ?Command4_Click@elementary14@@AAGXXZ 00463fc0 f   elementary14.OBJ
+ 0001:00063130       ?Command5_Click@elementary14@@AAGXXZ 00464130 f   elementary14.OBJ
+ 0001:00063370       ?Command6_Click@elementary14@@AAGXXZ 00464370 f   elementary14.OBJ
+ 0001:000635b0       ?Command1_Click@elementary22@@AAGXXZ 004645b0 f   elementary22.OBJ
+ 0001:000637a0       ?Command2_Click@elementary22@@AAGXXZ 004647a0 f   elementary22.OBJ
+ 0001:000639e0       ?Command3_Click@elementary22@@AAGXXZ 004649e0 f   elementary22.OBJ
+ 0001:00063c20       ?Command4_Click@elementary22@@AAGXXZ 00464c20 f   elementary22.OBJ
+ 0001:00063d90       ?Command5_Click@elementary22@@AAGXXZ 00464d90 f   elementary22.OBJ
+ 0001:00063fd0       ?Command6_Click@elementary22@@AAGXXZ 00464fd0 f   elementary22.OBJ
+ 0001:00064210       ?Command1_Click@elementary33@@AAGXXZ 00465210 f   elementary33.OBJ
+ 0001:00064400       ?Command2_Click@elementary33@@AAGXXZ 00465400 f   elementary33.OBJ
+ 0001:00064640       ?Command3_Click@elementary33@@AAGXXZ 00465640 f   elementary33.OBJ
+ 0001:00064880       ?Command4_Click@elementary33@@AAGXXZ 00465880 f   elementary33.OBJ
+ 0001:000649f0       ?Command5_Click@elementary33@@AAGXXZ 004659f0 f   elementary33.OBJ
+ 0001:00064c30       ?Command6_Click@elementary33@@AAGXXZ 00465c30 f   elementary33.OBJ
+ 0001:00064e70       ?Command1_Click@elementary23@@AAGXXZ 00465e70 f   elementary23.OBJ
+ 0001:00065060       ?Command2_Click@elementary23@@AAGXXZ 00466060 f   elementary23.OBJ
+ 0001:000652a0       ?Command3_Click@elementary23@@AAGXXZ 004662a0 f   elementary23.OBJ
+ 0001:000654e0       ?Command4_Click@elementary23@@AAGXXZ 004664e0 f   elementary23.OBJ
+ 0001:00065650       ?Command5_Click@elementary23@@AAGXXZ 00466650 f   elementary23.OBJ
+ 0001:00065890       ?Command6_Click@elementary23@@AAGXXZ 00466890 f   elementary23.OBJ
+ 0001:00065ad0       ?Command1_Click@elementary32@@AAGXXZ 00466ad0 f   elementary32.OBJ
+ 0001:00065cc0       ?Command2_Click@elementary32@@AAGXXZ 00466cc0 f   elementary32.OBJ
+ 0001:00065f00       ?Command3_Click@elementary32@@AAGXXZ 00466f00 f   elementary32.OBJ
+ 0001:00066140       ?Command4_Click@elementary32@@AAGXXZ 00467140 f   elementary32.OBJ
+ 0001:000662b0       ?Command5_Click@elementary32@@AAGXXZ 004672b0 f   elementary32.OBJ
+ 0001:000664f0       ?Command6_Click@elementary32@@AAGXXZ 004674f0 f   elementary32.OBJ
+ 0001:00066730       ?Command1_Click@elementary31@@AAGXXZ 00467730 f   elementary31.OBJ
+ 0001:00066920       ?Command2_Click@elementary31@@AAGXXZ 00467920 f   elementary31.OBJ
+ 0001:00066b60       ?Command3_Click@elementary31@@AAGXXZ 00467b60 f   elementary31.OBJ
+ 0001:00066da0       ?Command4_Click@elementary31@@AAGXXZ 00467da0 f   elementary31.OBJ
+ 0001:00066f10       ?Command5_Click@elementary31@@AAGXXZ 00467f10 f   elementary31.OBJ
+ 0001:00067150       ?Command6_Click@elementary31@@AAGXXZ 00468150 f   elementary31.OBJ
+ 0001:00067390       ?Command1_Click@elementary27@@AAGXXZ 00468390 f   elementary27.OBJ
+ 0001:00067580       ?Command2_Click@elementary27@@AAGXXZ 00468580 f   elementary27.OBJ
+ 0001:000677c0       ?Command3_Click@elementary27@@AAGXXZ 004687c0 f   elementary27.OBJ
+ 0001:00067a00       ?Command4_Click@elementary27@@AAGXXZ 00468a00 f   elementary27.OBJ
+ 0001:00067b70       ?Command5_Click@elementary27@@AAGXXZ 00468b70 f   elementary27.OBJ
+ 0001:00067db0       ?Command6_Click@elementary27@@AAGXXZ 00468db0 f   elementary27.OBJ
+ 0001:00067ff0       ?Command1_Click@elementary16@@AAGXXZ 00468ff0 f   elementary16.OBJ
+ 0001:000681e0       ?Command2_Click@elementary16@@AAGXXZ 004691e0 f   elementary16.OBJ
+ 0001:00068420       ?Command3_Click@elementary16@@AAGXXZ 00469420 f   elementary16.OBJ
+ 0001:00068660       ?Command4_Click@elementary16@@AAGXXZ 00469660 f   elementary16.OBJ
+ 0001:000687d0       ?Command5_Click@elementary16@@AAGXXZ 004697d0 f   elementary16.OBJ
+ 0001:00068a10       ?Command6_Click@elementary16@@AAGXXZ 00469a10 f   elementary16.OBJ
+ 0001:00068c50       ?Command1_Click@elementary28@@AAGXXZ 00469c50 f   elementary28.OBJ
+ 0001:00068e40       ?Command2_Click@elementary28@@AAGXXZ 00469e40 f   elementary28.OBJ
+ 0001:00069080       ?Command3_Click@elementary28@@AAGXXZ 0046a080 f   elementary28.OBJ
+ 0001:000692c0       ?Command4_Click@elementary28@@AAGXXZ 0046a2c0 f   elementary28.OBJ
+ 0001:00069430       ?Command5_Click@elementary28@@AAGXXZ 0046a430 f   elementary28.OBJ
+ 0001:00069670       ?Command6_Click@elementary28@@AAGXXZ 0046a670 f   elementary28.OBJ
+ 0001:000698b0       ?Command1_Click@elementary29@@AAGXXZ 0046a8b0 f   elementary29.OBJ
+ 0001:00069aa0       ?Command2_Click@elementary29@@AAGXXZ 0046aaa0 f   elementary29.OBJ
+ 0001:00069ce0       ?Command3_Click@elementary29@@AAGXXZ 0046ace0 f   elementary29.OBJ
+ 0001:00069f20       ?Command4_Click@elementary29@@AAGXXZ 0046af20 f   elementary29.OBJ
+ 0001:0006a090       ?Command5_Click@elementary29@@AAGXXZ 0046b090 f   elementary29.OBJ
+ 0001:0006a2d0       ?Command6_Click@elementary29@@AAGXXZ 0046b2d0 f   elementary29.OBJ
+ 0001:0006a510       ?Command1_Click@elementary30@@AAGXXZ 0046b510 f   elementary30.OBJ
+ 0001:0006a700       ?Command2_Click@elementary30@@AAGXXZ 0046b700 f   elementary30.OBJ
+ 0001:0006a940       ?Command3_Click@elementary30@@AAGXXZ 0046b940 f   elementary30.OBJ
+ 0001:0006ab80       ?Command4_Click@elementary30@@AAGXXZ 0046bb80 f   elementary30.OBJ
+ 0001:0006acf0       ?Command5_Click@elementary30@@AAGXXZ 0046bcf0 f   elementary30.OBJ
+ 0001:0006af30       ?Command6_Click@elementary30@@AAGXXZ 0046bf30 f   elementary30.OBJ
+ 0001:0006b170       ?Command1_Click@elementary19@@AAGXXZ 0046c170 f   elementary19.OBJ
+ 0001:0006b360       ?Command2_Click@elementary19@@AAGXXZ 0046c360 f   elementary19.OBJ
+ 0001:0006b5a0       ?Command3_Click@elementary19@@AAGXXZ 0046c5a0 f   elementary19.OBJ
+ 0001:0006b7e0       ?Command4_Click@elementary19@@AAGXXZ 0046c7e0 f   elementary19.OBJ
+ 0001:0006b950       ?Command5_Click@elementary19@@AAGXXZ 0046c950 f   elementary19.OBJ
+ 0001:0006bb90       ?Command6_Click@elementary19@@AAGXXZ 0046cb90 f   elementary19.OBJ
+ 0001:0006bdd0       ?Command1_Click@elementary25@@AAGXXZ 0046cdd0 f   elementary25.OBJ
+ 0001:0006bfc0       ?Command2_Click@elementary25@@AAGXXZ 0046cfc0 f   elementary25.OBJ
+ 0001:0006c200       ?Command3_Click@elementary25@@AAGXXZ 0046d200 f   elementary25.OBJ
+ 0001:0006c440       ?Command4_Click@elementary25@@AAGXXZ 0046d440 f   elementary25.OBJ
+ 0001:0006c5b0       ?Command5_Click@elementary25@@AAGXXZ 0046d5b0 f   elementary25.OBJ
+ 0001:0006c7f0       ?Command6_Click@elementary25@@AAGXXZ 0046d7f0 f   elementary25.OBJ
+ 0001:0006ca30       ?Command1_Click@elementary35@@AAGXXZ 0046da30 f   elementary35.OBJ
+ 0001:0006cc20       ?Command2_Click@elementary35@@AAGXXZ 0046dc20 f   elementary35.OBJ
+ 0001:0006ce60       ?Command3_Click@elementary35@@AAGXXZ 0046de60 f   elementary35.OBJ
+ 0001:0006d0a0       ?Command4_Click@elementary35@@AAGXXZ 0046e0a0 f   elementary35.OBJ
+ 0001:0006d210       ?Command5_Click@elementary35@@AAGXXZ 0046e210 f   elementary35.OBJ
+ 0001:0006d450       ?Command6_Click@elementary35@@AAGXXZ 0046e450 f   elementary35.OBJ
+ 0001:0006d690       ?Command1_Click@elementary37@@AAGXXZ 0046e690 f   elementary37.OBJ
+ 0001:0006d880       ?Command2_Click@elementary37@@AAGXXZ 0046e880 f   elementary37.OBJ
+ 0001:0006dac0       ?Command3_Click@elementary37@@AAGXXZ 0046eac0 f   elementary37.OBJ
+ 0001:0006dd00       ?Command4_Click@elementary37@@AAGXXZ 0046ed00 f   elementary37.OBJ
+ 0001:0006de70       ?Command5_Click@elementary37@@AAGXXZ 0046ee70 f   elementary37.OBJ
+ 0001:0006e0b0       ?Command6_Click@elementary37@@AAGXXZ 0046f0b0 f   elementary37.OBJ
+ 0001:0006e2f0       ?Command1_Click@support@@AAGXXZ 0046f2f0 f   support.OBJ
+ 0001:0006e650       ?Form_Load@support@@AAGXXZ 0046f650 f   support.OBJ
+ 0001:0006e8a0       ?Command1_Click@update@@AAGXXZ 0046f8a0 f   update.OBJ
+ 0001:0006eb00       ?Form_Load@update@@AAGXXZ  0046fb00 f   update.OBJ
+ 0001:0006ee20       ?Check1_Click@setting@@AAGXXZ 0046fe20 f   setting.OBJ
+ 0001:0006f060       ?Check2_Click@setting@@AAGXXZ 00470060 f   setting.OBJ
+ 0001:0006f2a0       ?Check3_Click@setting@@AAGXXZ 004702a0 f   setting.OBJ
+ 0001:0006f4e0       ?Form_Load@setting@@AAGXXZ 004704e0 f   setting.OBJ
+ 0001:0006f7c0       ?Command1_Click@wordtest@@AAGXXZ 004707c0 f   wordtest.OBJ
+ 0001:0006fa00       ?Command2_Click@wordtest@@AAGXXZ 00470a00 f   wordtest.OBJ
+ 0001:0006fc40       ?Command3_Click@wordtest@@AAGXXZ 00470c40 f   wordtest.OBJ
+ 0001:0006fe80       ?Command1_Click@sentencetest@@AAGXXZ 00470e80 f   sentencetest.OBJ
+ 0001:000700c0       ?Command2_Click@sentencetest@@AAGXXZ 004710c0 f   sentencetest.OBJ
+ 0001:00070300       ?Command3_Click@sentencetest@@AAGXXZ 00471300 f   sentencetest.OBJ
+ 0001:00070520       ?Timer1_Timer@loading@@AAGXXZ 00471520 f   loading.OBJ
+ 0001:00070670       ?Command1_Click@gameword@@AAGXXZ 00471670 f   gameword.OBJ
+ 0001:00071d50       ?Command2_Click@gameword@@AAGXXZ 00472d50 f   gameword.OBJ
+ 0001:000721b0       ?Form_Load@gameword@@AAGXXZ 004731b0 f   gameword.OBJ
+ 0001:000723e0       ?Label15_Click@gameword@@AAGXXZ 004733e0 f   gameword.OBJ
+ 0001:000723e0       ?Label6_Click@gameword@@AAGXXZ 004733e0 f   gameword.OBJ
+ 0001:000723e0       ?Label20_Click@gameword@@AAGXXZ 004733e0 f   gameword.OBJ
+ 0001:000723e0       ?Label4_Click@gameword@@AAGXXZ 004733e0 f   gameword.OBJ
+ 0001:000723e0       ?Label7_Click@addwordtest@@AAGXXZ 004733e0 f   gameword.OBJ
+ 0001:000723e0       ?Label14_Click@gameword@@AAGXXZ 004733e0 f   gameword.OBJ
+ 0001:000723f0       ?Text1_KeyDown@gameword@@AAGXXZ 004733f0 f   gameword.OBJ
+ 0001:00072480       ?Timer1_Timer@gameword@@AAGXXZ 00473480 f   gameword.OBJ
+ 0001:00072740       ?DirTextFile@Module1@@AAGXXZ 00473740 f   Module1.OBJ
+ 0001:000728a0       ?DirResultFile@Module1@@AAGXXZ 004738a0 f   Module1.OBJ
+ 0001:00072a00       ?Cmd_Add_Click@wordadd@@AAGXXZ 00473a00 f   wordadd.OBJ
+ 0001:000735b0       ?Cmd_Re_Click@wordadd@@AAGXXZ 004745b0 f   wordadd.OBJ
+ 0001:00073810       ?Cmd_Rep_Click@wordadd@@AAGXXZ 00474810 f   wordadd.OBJ
+ 0001:00073c00       ?Form_Load@wordadd@@AAGXXZ 00474c00 f   wordadd.OBJ
+ 0001:00073ca0       ?Form_Unload@wordadd@@AAGXXZ 00474ca0 f   wordadd.OBJ
+ 0001:00073d40       ?SaveAndLoadTxt@wordadd@@AAGXXZ 00474d40 f   wordadd.OBJ
+ 0001:00075620       ?Txt2_KeyDown@wordadd@@AAGXXZ 00476620 f   wordadd.OBJ
+ 0001:000756b0       ?Form_Load@result@@AAGXXZ  004766b0 f   result.OBJ
+ 0001:00075720       ?LoadTxt@result@@AAGXXZ    00476720 f   result.OBJ
+ 0001:000767b0       ?LoadTxt@addwordtest@@AAGXXZ 004777b0 f   addwordtest.OBJ
+ 0001:00076d70       ?Cmd_C_Click@addwordtest@@AAGXXZ 00477d70 f   addwordtest.OBJ
+ 0001:00077cd0       ?Cmd_RC_Click@addwordtest@@AAGXXZ 00478cd0 f   addwordtest.OBJ
+ 0001:00077e70       ?Cmd_Start_Click@addwordtest@@AAGXXZ 00478e70 f   addwordtest.OBJ
+ 0001:000780f0       ?Cmd_Stop_Click@addwordtest@@AAGXXZ 004790f0 f   addwordtest.OBJ
+ 0001:00078160       ?Command1_Click@addwordtest@@AAGXXZ 00479160 f   addwordtest.OBJ
+ 0001:000782b0       ?Form_Load@addwordtest@@AAGXXZ 004792b0 f   addwordtest.OBJ
+ 0001:000783c0       ?Text1_KeyDown@addwordtest@@AAGXXZ 004793c0 f   addwordtest.OBJ
+ 0001:00078460       ?Start@addwordtest@@AAGXXZ 00479460 f   addwordtest.OBJ
+ 0001:00078620       ?Ends@addwordtest@@AAGXXZ  00479620 f   addwordtest.OBJ
+ 0001:00078840       ?EnResult@addwordtest@@AAGXXZ 00479840 f   addwordtest.OBJ
+ 0001:00079130       ?SaveTxtResult@addwordtest@@AAGXXZ 0047a130 f   addwordtest.OBJ
+ 0001:0007aa50       VB@ETXT                    0047ba50     main1.OBJ
+ 0002:00000000       __adjust_fdiv              0047d000     VBAEXE6:natsupp.obj
+ 0002:00000008       VB@BSS                     0047d008     main1.OBJ
+ 0002:00000010       ___vba@069A1F34            0047d010     main1.OBJ
+ 0002:00000024       ___vba@069D0530            0047d024     main1.OBJ
+ 0002:00000038       ___vba@069D0518            0047d038     main1.OBJ
+ 0002:0000004c       ___vba@069A1F6C            0047d04c     main1.OBJ
+ 0002:00000060       ___vba@069D0500            0047d060     main1.OBJ
+ 0002:00000074       ___vba@069D0560            0047d074     main1.OBJ
+ 0002:00000088       ___vba@069A1F1C            0047d088     main1.OBJ
+ 0002:0000009c       ___vba@069A1F04            0047d09c     main1.OBJ
+ 0002:000000b0       ___vba@06954C3C            0047d0b0     main1.OBJ
+ 0002:000000c4       ___vba@069D0548            0047d0c4     main1.OBJ
+ 0002:000000d8       ___vba@069A1EBC            0047d0d8     main1.OBJ
+ 0002:000000ec       ___vba@069A1ED4            0047d0ec     main1.OBJ
+ 0002:00000100       ___vba@06954C54            0047d100     main1.OBJ
+ 0002:00000114       ___vba@06954C6C            0047d114     main1.OBJ
+ 0002:00000128       ___vba@06954C84            0047d128     main1.OBJ
+ 0002:0000013c       ___vba@069A1EEC            0047d13c     main1.OBJ
+ 0002:00000150       ___vba@069D0578            0047d150     main1.OBJ
+ 0002:00000164       ___vba@069D0590            0047d164     main1.OBJ
+ 0002:00000178       ___vba@069D05C0            0047d178     main1.OBJ
+ 0002:0000018c       ___vba@069D05A8            0047d18c     main1.OBJ
+ 0002:000001a0       ___vba@069D05D8            0047d1a0     main1.OBJ
+ 0002:000001b4       ___vba@06931FAC            0047d1b4     main1.OBJ
+ 0002:000001c8       ___vba@06931FC4            0047d1c8     main1.OBJ
+ 0002:000001dc       ___vba@06931FDC            0047d1dc     main1.OBJ
+ 0002:000001f0       ___vba@0693200C            0047d1f0     main1.OBJ
+ 0002:00000204       ___vba@0693209C            0047d204     main1.OBJ
+ 0002:00000218       ___vba@06932054            0047d218     main1.OBJ
+ 0002:0000022c       ___vba@06932144            0047d22c     main1.OBJ
+ 0002:00000240       ___vba@0693203C            0047d240     main1.OBJ
+ 0002:00000254       ___vba@0693206C            0047d254     main1.OBJ
+ 0002:00000268       ___vba@069A1E5C            0047d268     main1.OBJ
+ 0002:0000027c       ___vba@06932024            0047d27c     main1.OBJ
+ 0002:00000290       ___vba@06932084            0047d290     main1.OBJ
+ 0002:000002a4       ___vba@069320B4            0047d2a4     main1.OBJ
+ 0002:000002b8       ___vba@069320E4            0047d2b8     main1.OBJ
+ 0002:000002cc       ___vba@069D0608            0047d2cc     main1.OBJ
+ 0002:000002e0       ___vba@069A1E74            0047d2e0     main1.OBJ
+ 0002:000002f4       ___vba@06931FF4            0047d2f4     main1.OBJ
+ 0002:00000308       ___vba@0693212C            0047d308     main1.OBJ
+ 0002:0000031c       ___vba@0693215C            0047d31c     main1.OBJ
+ 0002:00000330       ___vba@069A1E2C            0047d330     main1.OBJ
+ 0002:00000344       ___vba@069A1E44            0047d344     main1.OBJ
+ 0002:00000358       ___vba@06932114            0047d358     main1.OBJ
+ 0002:0000036c       ___vba@069320FC            0047d36c     main1.OBJ
+ 0002:00000380       ___vba@069320CC            0047d380     main1.OBJ
+ 0002:00000394       ___vba@069D0620            0047d394     main1.OBJ
+ 0002:000003a8       ___vba@069A1E8C            0047d3a8     main1.OBJ
+ 0002:000003bc       ___vba@069D0650            0047d3bc     main1.OBJ
+ 0002:000003d0       ___vba@069A1EA4            0047d3d0     main1.OBJ
+ 0002:000003e4       ___vba@069D0668            0047d3e4     main1.OBJ
+ 0002:000003f8       ___vba@069D0680            0047d3f8     main1.OBJ
+ 0002:0000040c       ___vba@069D0638            0047d40c     main1.OBJ
+ 0002:00000420       ___vba@069D05F0            0047d420     main1.OBJ
+ 0002:00000434       ___vba@069D0698            0047d434     main1.OBJ
+ 0002:00000448       ___vba@069D06B0            0047d448     main1.OBJ
+ 0002:0000045c       ___vba@06931F7C            0047d45c     main1.OBJ
+ 0002:00000470       ___vba@06931F94            0047d470     main1.OBJ
+ 0002:00000484       ___vba@06954CCC            0047d484     main1.OBJ
+ 0002:00000498       _Module1                   0047d498     main1.OBJ
+ 0002:00001a78       ___vba@069515EC            0047ea78     main1.OBJ
+ 0002:00001b48       ___vba@0076B764            0047eb48     main1.OBJ
+ 0002:00002250       ___vba@06963844            0047f250     main1.OBJ
+ 0002:00002954       ___vba@069963FC            0047f954     main1.OBJ
+ 0002:00003060       ___vba@06981784            00480060     main1.OBJ
+ 0002:00003774       ___vba@06977444            00480774     main1.OBJ
+ 0002:00003e80       ___vba@06921434            00480e80     main1.OBJ
+ 0002:0000458c       ___vba@0691CDDC            0048158c     main1.OBJ
+ 0002:00004ca0       ___vba@063407B4            00481ca0     main1.OBJ
+ 0002:000053d8       ___vba@08C3E5E4            004823d8     main1.OBJ
+ 0002:00005af8       ___vba@0636024C            00482af8     main1.OBJ
+ 0002:00006224       ___vba@0698291C            00483224     main1.OBJ
+ 0002:00006934       ___vba@062A5064            00483934     main1.OBJ
+ 0002:00007044       ___vba@08C0D924            00484044     main1.OBJ
+ 0002:00007760       ___vba@08C0CA94            00484760     main1.OBJ
+ 0002:00007e7c       ___vba@08C081C4            00484e7c     main1.OBJ
+ 0002:00008598       ___vba@08C4448C            00485598     main1.OBJ
+ 0002:00008cb4       ___vba@08C0A62C            00485cb4     main1.OBJ
+ 0002:000093d0       ___vba@08C09EE4            004863d0     main1.OBJ
+ 0002:00009aec       ___vba@08C0979C            00486aec     main1.OBJ
+ 0002:0000a208       ___vba@08C42EB4            00487208     main1.OBJ
+ 0002:0000a924       ___vba@08C09054            00487924     main1.OBJ
+ 0002:0000b040       ___vba@08C0AD74            00488040     main1.OBJ
+ 0002:0000b75c       ___vba@08C0B4BC            0048875c     main1.OBJ
+ 0002:0000be78       ___vba@08C07334            00488e78     main1.OBJ
+ 0002:0000c594       ___vba@08C0BC04            00489594     main1.OBJ
+ 0002:0000ccb0       ___vba@08C45A64            00489cb0     main1.OBJ
+ 0002:0000d3cc       ___vba@08C42024            0048a3cc     main1.OBJ
+ 0002:0000dae8       ___vba@08C4531C            0048aae8     main1.OBJ
+ 0002:0000e204       ___vba@08C43D44            0048b204     main1.OBJ
+ 0002:0000e920       ___vba@08C4276C            0048b920     main1.OBJ
+ 0002:0000f03c       ___vba@08C435FC            0048c03c     main1.OBJ
+ 0002:0000f758       ___vba@08C44BD4            0048c758     main1.OBJ
+ 0002:0000fe74       ___vba@08C418DC            0048ce74     main1.OBJ
+ 0002:00010590       ___vba@08C0890C            0048d590     main1.OBJ
+ 0002:00010cac       ___vba@08C41194            0048dcac     main1.OBJ
+ 0002:000113c8       ___vba@08C40A4C            0048e3c8     main1.OBJ
+ 0002:00011ae4       ___vba@08C40304            0048eae4     main1.OBJ
+ 0002:00012200       ___vba@069C08EC            0048f200     main1.OBJ
+ 0002:0001291c       ___vba@069C01A4            0048f91c     main1.OBJ
+ 0002:00013038       ___vba@069BFA5C            00490038     main1.OBJ
+ 0002:00013754       ___vba@069BF314            00490754     main1.OBJ
+ 0002:00013e70       ___vba@08C0E7B4            00490e70     main1.OBJ
+ 0002:0001458c       ___vba@08C0E06C            0049158c     main1.OBJ
+ 0002:00014ca8       ___vba@08C0D1DC            00491ca8     main1.OBJ
+ 0002:000153c4       ___vba@0696A6EC            004923c4     main1.OBJ
+ 0002:00015adc       ___vba@08C0C34C            00492adc     main1.OBJ
+ 0002:000161f8       ___vba@08C07A7C            004931f8     main1.OBJ
+ 0002:00016914       ___vba@069BEBCC            00493914     main1.OBJ
+ 0002:00017030       ___vba@08C3FBBC            00494030     main1.OBJ
+ 0002:0001774c       ___vba@06294F94            0049474c     main1.OBJ
+ 0002:00017ef0       ___vba@08C3F474            00494ef0     main1.OBJ
+ 0002:0001860c       ___vba@08C3ED2C            0049560c     main1.OBJ
+ 0002:00018d28       ___vba@06972BCC            00495d28     main1.OBJ
+ 0002:00019440       ___vba@06927254            00496440     main1.OBJ
+ 0002:00019b50       ___vba@069C73FC            00496b50     main1.OBJ
+ 0002:0001a260       ___vba@00724A6C            00497260     main1.OBJ
+ 0002:0001a9f8       ___vba@0692CC54            004979f8     main1.OBJ
+ 0002:0001b104       ___vba@062D51FC            00498104     main1.OBJ
+
+ entry point at        0001:00001f24
+
+ Static symbols
+
+
+ 80 bytes saved through ICF
+

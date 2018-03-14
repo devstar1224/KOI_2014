@@ -1,0 +1,1090 @@
+ mid
+
+ Timestamp is 535256e3 (Sat Apr 19 19:58:43 2014)
+
+ Preferred load address is 00400000
+
+ Start         Length     Name                   Class
+ 0001:00000000 00000118H .idata$5                CODE
+ 0001:00000118 000010e8H .rdata                  CODE
+ 0001:00001200 000291c0H .text                   CODE
+ 0001:0002a3c0 00000004H .text$0                 CODE
+ 0001:0002a3d0 00025b50H .text$1                 CODE
+ 0001:0004ff20 00000004H .text$2                 CODE
+ 0001:0004ff24 00000014H .idata$2                CODE
+ 0001:0004ff38 00000014H .idata$3                CODE
+ 0001:0004ff4c 00000118H .idata$4                CODE
+ 0001:00050064 00000434H .idata$6                CODE
+ 0001:00050498 00000000H .edata                  CODE
+ 0002:00000000 00000004H .data                   DATA
+ 0002:00000008 00013f74H .bss                    DATA
+ 0003:00000000 00000118H .rsrc$01                DATA
+ 0003:00000120 000009bcH .rsrc$02                DATA
+
+  Address         Publics by Value              Rva+Base     Lib:Object
+
+ 0001:00000000       __imp_@__vbaVarSub         00401000     mid.OBJ
+ 0001:00000000       __imp____vbaVarSub         00401000     mid.OBJ
+ 0001:00000004       __imp___CIcos              00401004     mid.OBJ
+ 0001:00000008       __imp___adj_fptan          00401008     mid.OBJ
+ 0001:0000000c       __imp_@__vbaVarMove        0040100c     mid.OBJ
+ 0001:0000000c       __imp____vbaVarMove        0040100c     mid.OBJ
+ 0001:00000010       __imp____vbaFreeVar        00401010     mid.OBJ
+ 0001:00000010       __imp_@__vbaFreeVar        00401010     mid.OBJ
+ 0001:00000014       __imp_@__vbaStrVarMove     00401014     mid.OBJ
+ 0001:00000014       __imp____vbaStrVarMove     00401014     mid.OBJ
+ 0001:00000018       __imp_@__vbaFreeVarList    00401018     mid.OBJ
+ 0001:00000018       __imp____vbaFreeVarList    00401018     mid.OBJ
+ 0001:0000001c       __imp____vbaEnd            0040101c     mid.OBJ
+ 0001:0000001c       __imp_@__vbaEnd            0040101c     mid.OBJ
+ 0001:00000020       __imp___adj_fdiv_m64       00401020     mid.OBJ
+ 0001:00000024       __imp_@__vbaFreeObjList    00401024     mid.OBJ
+ 0001:00000024       __imp____vbaFreeObjList    00401024     mid.OBJ
+ 0001:00000028       __imp___adj_fprem1         00401028     mid.OBJ
+ 0001:0000002c       __imp_@__vbaStrCat         0040102c     mid.OBJ
+ 0001:0000002c       __imp____vbaStrCat         0040102c     mid.OBJ
+ 0001:00000030       __imp____vbaSetSystemError 00401030     mid.OBJ
+ 0001:00000030       __imp_@__vbaSetSystemError 00401030     mid.OBJ
+ 0001:00000034       __imp____vbaHresultCheckObj 00401034     mid.OBJ
+ 0001:00000034       __imp_@__vbaHresultCheckObj 00401034     mid.OBJ
+ 0001:00000038       __imp___adj_fdiv_m32       00401038     mid.OBJ
+ 0001:0000003c       __imp_@__vbaVarTstLe       0040103c     mid.OBJ
+ 0001:0000003c       __imp____vbaVarTstLe       0040103c     mid.OBJ
+ 0001:00000040       __imp____vbaLateMemSt      00401040     mid.OBJ
+ 0001:00000040       __imp_@__vbaLateMemSt      00401040     mid.OBJ
+ 0001:00000044       __imp_@__vbaOnError        00401044     mid.OBJ
+ 0001:00000044       __imp____vbaOnError        00401044     mid.OBJ
+ 0001:00000048       __imp____vbaObjSet         00401048     mid.OBJ
+ 0001:00000048       __imp_@__vbaObjSet         00401048     mid.OBJ
+ 0001:0000004c       __imp___adj_fdiv_m16i      0040104c     mid.OBJ
+ 0001:00000050       __imp____vbaObjSetAddref   00401050     mid.OBJ
+ 0001:00000050       __imp_@__vbaObjSetAddref   00401050     mid.OBJ
+ 0001:00000054       __imp___adj_fdivr_m16i     00401054     mid.OBJ
+ 0001:00000058       __imp____vbaFpR4           00401058     mid.OBJ
+ 0001:00000058       __imp_@__vbaFpR4           00401058     mid.OBJ
+ 0001:0000005c       __imp_@__vbaBoolVar        0040105c     mid.OBJ
+ 0001:0000005c       __imp____vbaBoolVar        0040105c     mid.OBJ
+ 0001:00000060       __imp____vbaBoolVarNull    00401060     mid.OBJ
+ 0001:00000060       __imp_@__vbaBoolVarNull    00401060     mid.OBJ
+ 0001:00000064       __imp_@__vbaFpR8           00401064     mid.OBJ
+ 0001:00000064       __imp____vbaFpR8           00401064     mid.OBJ
+ 0001:00000068       __imp___CIsin              00401068     mid.OBJ
+ 0001:0000006c       __imp____vbaChkstk         0040106c     mid.OBJ
+ 0001:00000074       __imp_@__vbaI2I4           00401074     mid.OBJ
+ 0001:00000074       __imp____vbaI2I4           00401074     mid.OBJ
+ 0001:0000007c       __imp___adj_fpatan         0040107c     mid.OBJ
+ 0001:00000080       __imp_@__vbaR4Var          00401080     mid.OBJ
+ 0001:00000080       __imp____vbaR4Var          00401080     mid.OBJ
+ 0001:00000088       __imp____vba@0794E738      00401088     mid.OBJ
+ 0001:00000088       __imp_@__vba@0794E738      00401088     mid.OBJ
+ 0001:0000008c       __imp___CIsqrt             0040108c     mid.OBJ
+ 0001:00000090       __imp_@__vbaVarAnd         00401090     mid.OBJ
+ 0001:00000090       __imp____vbaVarAnd         00401090     mid.OBJ
+ 0001:00000098       __imp____vbaExceptHandler  00401098     mid.OBJ
+ 0001:0000009c       __imp_@__vbaStrToUnicode   0040109c     mid.OBJ
+ 0001:0000009c       __imp____vbaStrToUnicode   0040109c     mid.OBJ
+ 0001:000000a0       __imp___adj_fprem          004010a0     mid.OBJ
+ 0001:000000a4       __imp___adj_fdivr_m64      004010a4     mid.OBJ
+ 0001:000000a8       __imp_@__vbaVarDiv         004010a8     mid.OBJ
+ 0001:000000a8       __imp____vbaVarDiv         004010a8     mid.OBJ
+ 0001:000000ac       __imp____vbaVarCmpLe       004010ac     mid.OBJ
+ 0001:000000ac       __imp_@__vbaVarCmpLe       004010ac     mid.OBJ
+ 0001:000000b0       __imp____vbaFPException    004010b0     mid.OBJ
+ 0001:000000b4       __imp____vba@0623E4E4      004010b4     mid.OBJ
+ 0001:000000b4       __imp_@__vba@0623E4E4      004010b4     mid.OBJ
+ 0001:000000b8       __imp___CIlog              004010b8     mid.OBJ
+ 0001:000000bc       __imp____vbaErrorOverflow  004010bc     mid.OBJ
+ 0001:000000bc       __imp_@__vbaErrorOverflow  004010bc     mid.OBJ
+ 0001:000000c0       __imp____vbaNew2           004010c0     mid.OBJ
+ 0001:000000c0       __imp_@__vbaNew2           004010c0     mid.OBJ
+ 0001:000000c4       __imp___adj_fdiv_m32i      004010c4     mid.OBJ
+ 0001:000000c8       __imp___adj_fdivr_m32i     004010c8     mid.OBJ
+ 0001:000000cc       __imp____vbaStrCopy        004010cc     mid.OBJ
+ 0001:000000cc       __imp_@__vbaStrCopy        004010cc     mid.OBJ
+ 0001:000000d0       __imp____vbaVarCmpLt       004010d0     mid.OBJ
+ 0001:000000d0       __imp_@__vbaVarCmpLt       004010d0     mid.OBJ
+ 0001:000000d4       __imp____vbaFreeStrList    004010d4     mid.OBJ
+ 0001:000000d4       __imp_@__vbaFreeStrList    004010d4     mid.OBJ
+ 0001:000000d8       __imp___adj_fdivr_m32      004010d8     mid.OBJ
+ 0001:000000dc       __imp___adj_fdiv_r         004010dc     mid.OBJ
+ 0001:000000e4       __imp____vbaI4Var          004010e4     mid.OBJ
+ 0001:000000e4       __imp_@__vbaI4Var          004010e4     mid.OBJ
+ 0001:000000e8       __imp_@__vbaStrToAnsi      004010e8     mid.OBJ
+ 0001:000000e8       __imp____vbaStrToAnsi      004010e8     mid.OBJ
+ 0001:000000ec       __imp____vbaFpI4           004010ec     mid.OBJ
+ 0001:000000ec       __imp_@__vbaFpI4           004010ec     mid.OBJ
+ 0001:000000f0       __imp_@__vbaLateMemCallLd  004010f0     mid.OBJ
+ 0001:000000f0       __imp____vbaLateMemCallLd  004010f0     mid.OBJ
+ 0001:000000f4       __imp___CIatan             004010f4     mid.OBJ
+ 0001:000000f8       __imp_@__vbaStrMove        004010f8     mid.OBJ
+ 0001:000000f8       __imp____vbaStrMove        004010f8     mid.OBJ
+ 0001:000000fc       __imp___allmul             004010fc     mid.OBJ
+ 0001:00000100       __imp____vbaLenVarB        00401100     mid.OBJ
+ 0001:00000100       __imp_@__vbaLenVarB        00401100     mid.OBJ
+ 0001:00000104       __imp___CItan              00401104     mid.OBJ
+ 0001:00000108       __imp___CIexp              00401108     mid.OBJ
+ 0001:0000010c       __imp_@__vbaFreeStr        0040110c     mid.OBJ
+ 0001:0000010c       __imp____vbaFreeStr        0040110c     mid.OBJ
+ 0001:00000110       __imp____vbaFreeObj        00401110     mid.OBJ
+ 0001:00000110       __imp_@__vbaFreeObj        00401110     mid.OBJ
+ 0001:00000204       __real@4@4003d000000000000000 00401204     VSKIN.OBJ
+ 0001:00000208       __real@4@40039000000000000000 00401208     VSKIN.OBJ
+ 0001:0000020c       __real@4@4002a000000000000000 0040120c     VSKIN.OBJ
+ 0001:00000210       __real@4@4002f000000000000000 00401210     VSKIN.OBJ
+ 0001:00000214       __real@4@4003a000000000000000 00401214     VSKIN.OBJ
+ 0001:00000240       __real@4@4003f000000000000000 00401240     VSKIN.OBJ
+ 0001:00000248       __real@8@4000c000000000000000 00401248     VSKIN.OBJ
+ 0001:000002f8       __real@4@00000000000000000000 004012f8     VSKIN.OBJ
+ 0001:000002fc       __real@4@40038000000000000000 004012fc     VSKIN.OBJ
+ 0001:00001200       ___vbaChkstk               00402200     mid.OBJ
+ 0001:00001200       VB@TEXT                    00402200     mid.OBJ
+ 0001:00001206       ___vbaExceptHandler        00402206     mid.OBJ
+ 0001:0000120c       ___vbaFPException          0040220c     mid.OBJ
+ 0001:00001212       __adj_fdiv_m16i            00402212     mid.OBJ
+ 0001:00001218       __adj_fdiv_m32             00402218     mid.OBJ
+ 0001:0000121e       __adj_fdiv_m32i            0040221e     mid.OBJ
+ 0001:00001224       __adj_fdiv_m64             00402224     mid.OBJ
+ 0001:0000122a       __adj_fdiv_r               0040222a     mid.OBJ
+ 0001:00001230       __adj_fdivr_m16i           00402230     mid.OBJ
+ 0001:00001236       __adj_fdivr_m32            00402236     mid.OBJ
+ 0001:0000123c       __adj_fdivr_m32i           0040223c     mid.OBJ
+ 0001:00001242       __adj_fdivr_m64            00402242     mid.OBJ
+ 0001:00001248       __adj_fpatan               00402248     mid.OBJ
+ 0001:0000124e       __adj_fprem                0040224e     mid.OBJ
+ 0001:00001254       __adj_fprem1               00402254     mid.OBJ
+ 0001:0000125a       __adj_fptan                0040225a     mid.OBJ
+ 0001:00001260       __CIatan                   00402260     mid.OBJ
+ 0001:00001266       __CIcos                    00402266     mid.OBJ
+ 0001:0000126c       __CIexp                    0040226c     mid.OBJ
+ 0001:00001272       __CIlog                    00402272     mid.OBJ
+ 0001:00001278       __CIsin                    00402278     mid.OBJ
+ 0001:0000127e       __CIsqrt                   0040227e     mid.OBJ
+ 0001:00001284       __CItan                    00402284     mid.OBJ
+ 0001:0000128a       __allmul                   0040228a     mid.OBJ
+ 0001:00001296       @__vbaEnd                  00402296     mid.OBJ
+ 0001:00001296       ___vbaEnd                  00402296     mid.OBJ
+ 0001:0000129c       ___vbaFreeVar              0040229c     mid.OBJ
+ 0001:0000129c       @__vbaFreeVar              0040229c     mid.OBJ
+ 0001:000012a2       ___vba@0794E738            004022a2     mid.OBJ
+ 0001:000012a2       @__vba@0794E738            004022a2     mid.OBJ
+ 0001:000012a8       ___vbaObjSetAddref         004022a8     mid.OBJ
+ 0001:000012a8       @__vbaObjSetAddref         004022a8     mid.OBJ
+ 0001:000012ae       ___vbaFreeObj              004022ae     mid.OBJ
+ 0001:000012ae       @__vbaFreeObj              004022ae     mid.OBJ
+ 0001:000012b4       @__vbaFreeStrList          004022b4     mid.OBJ
+ 0001:000012b4       ___vbaFreeStrList          004022b4     mid.OBJ
+ 0001:000012ba       @__vbaSetSystemError       004022ba     mid.OBJ
+ 0001:000012ba       ___vbaSetSystemError       004022ba     mid.OBJ
+ 0001:000012c0       @__vbaStrCat               004022c0     mid.OBJ
+ 0001:000012c0       ___vbaStrCat               004022c0     mid.OBJ
+ 0001:000012c6       ___vbaStrMove              004022c6     mid.OBJ
+ 0001:000012c6       @__vbaStrMove              004022c6     mid.OBJ
+ 0001:000012cc       @__vbaStrToAnsi            004022cc     mid.OBJ
+ 0001:000012cc       ___vbaStrToAnsi            004022cc     mid.OBJ
+ 0001:000012d2       ___vbaHresultCheckObj      004022d2     mid.OBJ
+ 0001:000012d2       @__vbaHresultCheckObj      004022d2     mid.OBJ
+ 0001:000012d8       @__vbaNew2                 004022d8     mid.OBJ
+ 0001:000012d8       ___vbaNew2                 004022d8     mid.OBJ
+ 0001:000012de       ___vbaBoolVar              004022de     mid.OBJ
+ 0001:000012de       @__vbaBoolVar              004022de     mid.OBJ
+ 0001:000012e4       @__vbaStrVarMove           004022e4     mid.OBJ
+ 0001:000012e4       ___vbaStrVarMove           004022e4     mid.OBJ
+ 0001:000012ea       ___vbaStrCopy              004022ea     mid.OBJ
+ 0001:000012ea       @__vbaStrCopy              004022ea     mid.OBJ
+ 0001:000012f0       @__vbaVarDiv               004022f0     mid.OBJ
+ 0001:000012f0       ___vbaVarDiv               004022f0     mid.OBJ
+ 0001:000012f6       ___vbaVarCmpLe             004022f6     mid.OBJ
+ 0001:000012f6       @__vbaVarCmpLe             004022f6     mid.OBJ
+ 0001:000012fc       ___vbaFpR4                 004022fc     mid.OBJ
+ 0001:000012fc       @__vbaFpR4                 004022fc     mid.OBJ
+ 0001:00001302       ___vbaI2I4                 00402302     mid.OBJ
+ 0001:00001302       @__vbaI2I4                 00402302     mid.OBJ
+ 0001:00001308       ___vbaFpR8                 00402308     mid.OBJ
+ 0001:00001308       @__vbaFpR8                 00402308     mid.OBJ
+ 0001:0000130e       @__vbaVarSub               0040230e     mid.OBJ
+ 0001:0000130e       ___vbaVarSub               0040230e     mid.OBJ
+ 0001:00001314       ___vbaVarTstLe             00402314     mid.OBJ
+ 0001:00001314       @__vbaVarTstLe             00402314     mid.OBJ
+ 0001:0000131a       @__vbaVarCmpLt             0040231a     mid.OBJ
+ 0001:0000131a       ___vbaVarCmpLt             0040231a     mid.OBJ
+ 0001:00001320       ___vbaVarAnd               00402320     mid.OBJ
+ 0001:00001320       @__vbaVarAnd               00402320     mid.OBJ
+ 0001:00001326       ___vbaBoolVarNull          00402326     mid.OBJ
+ 0001:00001326       @__vbaBoolVarNull          00402326     mid.OBJ
+ 0001:0000132c       ___vbaVarMove              0040232c     mid.OBJ
+ 0001:0000132c       @__vbaVarMove              0040232c     mid.OBJ
+ 0001:00001332       ___vbaErrorOverflow        00402332     mid.OBJ
+ 0001:00001332       @__vbaErrorOverflow        00402332     mid.OBJ
+ 0001:00001338       @__vbaR4Var                00402338     mid.OBJ
+ 0001:00001338       ___vbaR4Var                00402338     mid.OBJ
+ 0001:0000133e       ___vbaLateMemSt            0040233e     mid.OBJ
+ 0001:0000133e       @__vbaLateMemSt            0040233e     mid.OBJ
+ 0001:00001344       @__vbaLateMemCallLd        00402344     mid.OBJ
+ 0001:00001344       ___vbaLateMemCallLd        00402344     mid.OBJ
+ 0001:0000134a       @__vbaFreeVarList          0040234a     mid.OBJ
+ 0001:0000134a       ___vbaFreeVarList          0040234a     mid.OBJ
+ 0001:00001350       @__vbaFreeStr              00402350     mid.OBJ
+ 0001:00001350       ___vbaFreeStr              00402350     mid.OBJ
+ 0001:00001356       @__vbaStrToUnicode         00402356     mid.OBJ
+ 0001:00001356       ___vbaStrToUnicode         00402356     mid.OBJ
+ 0001:0000135c       ___vba@0623E4E4            0040235c     mid.OBJ
+ 0001:0000135c       @__vba@0623E4E4            0040235c     mid.OBJ
+ 0001:00001362       ___vbaLenVarB              00402362     mid.OBJ
+ 0001:00001362       @__vbaLenVarB              00402362     mid.OBJ
+ 0001:00001368       ___vbaI4Var                00402368     mid.OBJ
+ 0001:00001368       @__vbaI4Var                00402368     mid.OBJ
+ 0001:0000136e       ___vbaFreeObjList          0040236e     mid.OBJ
+ 0001:0000136e       @__vbaFreeObjList          0040236e     mid.OBJ
+ 0001:00001374       ___vbaFpI4                 00402374     mid.OBJ
+ 0001:00001374       @__vbaFpI4                 00402374     mid.OBJ
+ 0001:0000137a       @__vbaObjSet               0040237a     mid.OBJ
+ 0001:0000137a       ___vbaObjSet               0040237a     mid.OBJ
+ 0001:00001380       ___vbaOnError              00402380     mid.OBJ
+ 0001:00001380       @__vbaOnError              00402380     mid.OBJ
+ 0001:000013a0       ___vbaS                    004023a0     mid.OBJ
+ 0001:00002384       ___vba@06380564            00403384     mid.OBJ
+ 0001:00002774       ___vba@0622DE0C            00403774     mid.OBJ
+ 0001:00002c80       ___vba@0794DB3C            00403c80     mid.OBJ
+ 0001:0000318c       ___vba@079CD92C            0040418c     mid.OBJ
+ 0001:00003730       ___vba@079AC0EC            00404730     mid.OBJ
+ 0001:00003cd4       ___vba@079ABC9C            00404cd4     mid.OBJ
+ 0001:00004278       ___vba@063AF784            00405278     mid.OBJ
+ 0001:0000481c       ___vba@0656A74C            0040581c     mid.OBJ
+ 0001:00004dc0       ___vba@079CDD7C            00405dc0     mid.OBJ
+ 0001:00005364       ___vba@079AC53C            00406364     mid.OBJ
+ 0001:00005908       ___vba@0638AB6C            00406908     mid.OBJ
+ 0001:00005eac       ___vba@06390C0C            00406eac     mid.OBJ
+ 0001:00006450       ___vba@0639A124            00407450     mid.OBJ
+ 0001:000069f4       ___vba@06399CD4            004079f4     mid.OBJ
+ 0001:00006f98       ___vba@0656AFEC            00407f98     mid.OBJ
+ 0001:0000753c       ___vba@063B35A4            0040853c     mid.OBJ
+ 0001:00007ae0       ___vba@063823DC            00408ae0     mid.OBJ
+ 0001:00008084       ___vba@063B28B4            00409084     mid.OBJ
+ 0001:00008628       ___vba@0656AB9C            00409628     mid.OBJ
+ 0001:00008bcc       ___vba@0622D9BC            00409bcc     mid.OBJ
+ 0001:00009170       ___vba@063B2D04            0040a170     mid.OBJ
+ 0001:00009714       ___vba@0622D56C            0040a714     mid.OBJ
+ 0001:00009cb8       ___vba@063907BC            0040acb8     mid.OBJ
+ 0001:0000a25c       ___vba@079AC98C            0040b25c     mid.OBJ
+ 0001:0000a800       ___vba@0638AFBC            0040b800     mid.OBJ
+ 0001:0000ada4       ___vba@06399884            0040bda4     mid.OBJ
+ 0001:0000b348       ___vba@06397BE4            0040c348     mid.OBJ
+ 0001:0000b8ec       ___vba@079CE1CC            0040c8ec     mid.OBJ
+ 0001:0000be90       ___vba@06398484            0040ce90     mid.OBJ
+ 0001:0000c434       ___vba@06399434            0040d434     mid.OBJ
+ 0001:0000c9d8       ___vba@06381D64            0040d9d8     mid.OBJ
+ 0001:0000cf7c       ___vba@0638B40C            0040df7c     mid.OBJ
+ 0001:0000d520       ___vba@063988D4            0040e520     mid.OBJ
+ 0001:0000dac4       ___vba@0639036C            0040eac4     mid.OBJ
+ 0001:0000e068       ___vba@064B24C4            0040f068     mid.OBJ
+ 0001:0000e60c       ___vba@06398034            0040f60c     mid.OBJ
+ 0001:0000ebb0       ___vba@063B3154            0040fbb0     mid.OBJ
+ 0001:0000f154       ___vba@064B2914            00410154     mid.OBJ
+ 0001:0000f6f8       ___vba@064B2074            004106f8     mid.OBJ
+ 0001:0000fc9c       ___vba@063B0024            00410c9c     mid.OBJ
+ 0001:00010240       ___vba@063AFBD4            00411240     mid.OBJ
+ 0001:00011504       ___vba@079CD4DC            00412504     mid.OBJ
+ 0001:00012e7c       ___vba@0794E3DC            00413e7c     mid.OBJ
+ 0001:00013c18       ___vba@0794E434            00414c18     mid.OBJ
+ 0001:00013c20       ___vba@0794E440            00414c20     mid.OBJ
+ 0001:00013c28       ___vba@0794E44C            00414c28     mid.OBJ
+ 0001:00013c30       ___vba@0794E458            00414c30     mid.OBJ
+ 0001:00013c38       ___vba@0794E464            00414c38     mid.OBJ
+ 0001:00013c40       ___vba@0794E470            00414c40     mid.OBJ
+ 0001:00013c48       ___vba@0794E47C            00414c48     mid.OBJ
+ 0001:00013c50       ___vba@0794E488            00414c50     mid.OBJ
+ 0001:00013c58       ___vba@0794E494            00414c58     mid.OBJ
+ 0001:00013c60       ___vba@0794E4A0            00414c60     mid.OBJ
+ 0001:00013c68       ___vba@0794E4AC            00414c68     mid.OBJ
+ 0001:00013c70       ___vba@0794E4B8            00414c70     mid.OBJ
+ 0001:00013c78       ___vba@0794E4C4            00414c78     mid.OBJ
+ 0001:00013c80       ___vba@0794E4D0            00414c80     mid.OBJ
+ 0001:00013c88       ___vba@0794E4DC            00414c88     mid.OBJ
+ 0001:00013c90       ___vba@0794E4E8            00414c90     mid.OBJ
+ 0001:00013c98       ___vba@0794E4F4            00414c98     mid.OBJ
+ 0001:00013ca0       ___vba@0794E500            00414ca0     mid.OBJ
+ 0001:00013ca8       ___vba@0794E50C            00414ca8     mid.OBJ
+ 0001:00013cb0       ___vba@0794E518            00414cb0     mid.OBJ
+ 0001:00013cb8       ___vba@0794E524            00414cb8     mid.OBJ
+ 0001:00013cc0       ___vba@0794E530            00414cc0     mid.OBJ
+ 0001:00013cc8       ___vba@0794E53C            00414cc8     mid.OBJ
+ 0001:00013cd0       ___vba@0794E548            00414cd0     mid.OBJ
+ 0001:00013cd8       ___vba@0794E554            00414cd8     mid.OBJ
+ 0001:00013ce0       ___vba@0794E560            00414ce0     mid.OBJ
+ 0001:00013ce8       ___vba@0794E56C            00414ce8     mid.OBJ
+ 0001:00013cf0       ___vba@0794E578            00414cf0     mid.OBJ
+ 0001:00013cf8       ___vba@0794E584            00414cf8     mid.OBJ
+ 0001:00013d00       ___vba@0794E590            00414d00     mid.OBJ
+ 0001:00013d08       ___vba@0794E59C            00414d08     mid.OBJ
+ 0001:00013d10       ___vba@0794E5A8            00414d10     mid.OBJ
+ 0001:00013d18       ___vba@0794E5B4            00414d18     mid.OBJ
+ 0001:00013d20       ___vba@0794E5C0            00414d20     mid.OBJ
+ 0001:00013d28       ___vba@0794E5CC            00414d28     mid.OBJ
+ 0001:00013d34       ___vba@063809B4            00414d34     mid.OBJ
+ 0001:00013d3c       ___vba@063809C0            00414d3c     mid.OBJ
+ 0001:00013d44       ___vba@063809CC            00414d44     mid.OBJ
+ 0001:00013d4c       ___vba@063809D8            00414d4c     mid.OBJ
+ 0001:00013d54       ___vba@063809E4            00414d54     mid.OBJ
+ 0001:00013d5c       ___vba@063809F0            00414d5c     mid.OBJ
+ 0001:00013d64       ___vba@063809FC            00414d64     mid.OBJ
+ 0001:00013d6c       ___vba@06380A08            00414d6c     mid.OBJ
+ 0001:00013d78       ___vba@06380A18            00414d78     mid.OBJ
+ 0001:00013d88       ___vba@06380A2C            00414d88     mid.OBJ
+ 0001:00013d98       ___vba@06380A40            00414d98     mid.OBJ
+ 0001:00013da8       ___vba@06380A54            00414da8     mid.OBJ
+ 0001:00013db8       ___vba@06380A68            00414db8     mid.OBJ
+ 0001:00013dc8       ___vba@06380A7C            00414dc8     mid.OBJ
+ 0001:00013dd4       ___vba@06380A8C            00414dd4     mid.OBJ
+ 0001:00013de4       ___vba@06380AA0            00414de4     mid.OBJ
+ 0001:00013e20       ___vba@06380AE0            00414e20     mid.OBJ
+ 0001:00013e24       ___vba@06380AE8            00414e24     mid.OBJ
+ 0001:00013e4c       ___vba@06380B14            00414e4c     mid.OBJ
+ 0001:00013e58       ___vba@06380B24            00414e58     mid.OBJ
+ 0001:00013e68       ___vba@06380B38            00414e68     mid.OBJ
+ 0001:00013e70       ___vba@06380B44            00414e70     mid.OBJ
+ 0001:00013e78       ___vba@06380B50            00414e78     mid.OBJ
+ 0001:00013e84       ___vba@06380B60            00414e84     mid.OBJ
+ 0001:00013e94       ___vba@06380B74            00414e94     mid.OBJ
+ 0001:00013e9c       ___vba@06380B80            00414e9c     mid.OBJ
+ 0001:00013ea8       ___vba@06380B90            00414ea8     mid.OBJ
+ 0001:00013eb8       ___vba@06380BA4            00414eb8     mid.OBJ
+ 0001:00013ec8       ___vba@0630FBFC            00414ec8     mid.OBJ
+ 0001:00013ed8       ___vba@0630FC10            00414ed8     mid.OBJ
+ 0001:00013efc       ___vba@0630FC24            00414efc     mid.OBJ
+ 0001:00013f1c       ___vba@0630FC5C            00414f1c     mid.OBJ
+ 0001:00013f44       ___vba@0630FC74            00414f44     mid.OBJ
+ 0001:00013f60       ___vba@0630FCAC            00414f60     mid.OBJ
+ 0001:00013f6c       ___vba@0630FCBC            00414f6c     mid.OBJ
+ 0001:00013f7c       ___vba@0630FCD0            00414f7c     mid.OBJ
+ 0001:00013f8c       ___vba@0630FCE4            00414f8c     mid.OBJ
+ 0001:00013f9c       ___vba@0630FCF8            00414f9c     mid.OBJ
+ 0001:00013fb0       ___vba@0630FD0C            00414fb0     mid.OBJ
+ 0001:00013fb8       ___vba@0630FD18            00414fb8     mid.OBJ
+ 0001:00013fd8       ___vba@0630FD40            00414fd8     mid.OBJ
+ 0001:00013fe8       ___vba@0630FD54            00414fe8     mid.OBJ
+ 0001:00013ff8       ___vba@0630FD68            00414ff8     mid.OBJ
+ 0001:00014008       ___vba@0630FD7C            00415008     mid.OBJ
+ 0001:00014018       ___vba@0630FD90            00415018     mid.OBJ
+ 0001:00014024       ___vba@0630FDA0            00415024     mid.OBJ
+ 0001:00014034       ___vba@0630FDB0            00415034     mid.OBJ
+ 0001:0001404c       ___vba@0630FDCC            0041504c     mid.OBJ
+ 0001:00014074       ___vba@0639A884            00415074     mid.OBJ
+ 0001:00014084       ___vba@0639A898            00415084     mid.OBJ
+ 0001:00014094       ___vba@0639A8AC            00415094     mid.OBJ
+ 0001:000140a4       ___vba@0639A8C0            004150a4     mid.OBJ
+ 0001:000140b4       ___vba@0639A8D4            004150b4     mid.OBJ
+ 0001:000140c0       ___vba@0639A8E4            004150c0     mid.OBJ
+ 0001:000140cc       ___vba@0639A8F4            004150cc     mid.OBJ
+ 0001:000140d8       ___vba@0639A904            004150d8     mid.OBJ
+ 0001:000140e4       ___vba@0639A914            004150e4     mid.OBJ
+ 0001:000140f0       ___vba@0639A924            004150f0     mid.OBJ
+ 0001:000140fc       ___vba@0639A934            004150fc     mid.OBJ
+ 0001:00014108       ___vba@0639A944            00415108     mid.OBJ
+ 0001:00014114       ___vba@0639A954            00415114     mid.OBJ
+ 0001:00014120       ___vba@0639A964            00415120     mid.OBJ
+ 0001:0001412c       ___vba@0639A974            0041512c     mid.OBJ
+ 0001:00014138       ___vba@0639A984            00415138     mid.OBJ
+ 0001:00014144       ___vba@0639A994            00415144     mid.OBJ
+ 0001:00014150       ___vba@0639A9A4            00415150     mid.OBJ
+ 0001:0001415c       ___vba@0639A9B4            0041515c     mid.OBJ
+ 0001:00014168       ___vba@0639A9C4            00415168     mid.OBJ
+ 0001:00014174       ___vba@0639A9D4            00415174     mid.OBJ
+ 0001:00014180       ___vba@0639A9E4            00415180     mid.OBJ
+ 0001:0001418c       ___vba@0639A9F4            0041518c     mid.OBJ
+ 0001:00014198       ___vba@0639AA04            00415198     mid.OBJ
+ 0001:000141a4       ___vba@0639AA14            004151a4     mid.OBJ
+ 0001:000141b0       ___vba@0639AA24            004151b0     mid.OBJ
+ 0001:000141bc       ___vba@0639AA34            004151bc     mid.OBJ
+ 0001:000141c8       ___vba@0639AA44            004151c8     mid.OBJ
+ 0001:000141d4       ___vba@0639AA54            004151d4     mid.OBJ
+ 0001:000141e0       ___vba@0639AA64            004151e0     mid.OBJ
+ 0001:000141ec       ___vba@0639AA74            004151ec     mid.OBJ
+ 0001:000141f8       ___vba@0794E604            004151f8     mid.OBJ
+ 0001:00014204       ___vba@0794E614            00415204     mid.OBJ
+ 0001:00014210       ___vba@0794E624            00415210     mid.OBJ
+ 0001:0001421c       ___vba@0794E634            0041521c     mid.OBJ
+ 0001:00014228       ___vba@0794E644            00415228     mid.OBJ
+ 0001:00014234       ___vba@0794E654            00415234     mid.OBJ
+ 0001:00014240       ___vba@0794E664            00415240     mid.OBJ
+ 0001:0001424c       ___vba@0794E674            0041524c     mid.OBJ
+ 0001:00014258       ___vba@0794E684            00415258     mid.OBJ
+ 0001:00014264       ___vba@0794E694            00415264     mid.OBJ
+ 0001:00014270       ___vba@0794E6A4            00415270     mid.OBJ
+ 0001:0001427c       ___vba@0794E6EC            0041527c     mid.OBJ
+ 0001:0001428c       ___vba@0794E770            0041528c     mid.OBJ
+ 0001:000142a8       ___vba@0794E7CC            004152a8     mid.OBJ
+ 0001:000142b8       ___vba@0794E7E0            004152b8     mid.OBJ
+ 0001:000142c8       ___vba@0794E7F4            004152c8     mid.OBJ
+ 0001:000142d4       ___vba@0639B15C            004152d4     mid.OBJ
+ 0001:000142e8       ___vba@0639B1AC            004152e8     mid.OBJ
+ 0001:000142fc       ___vba@0639B1FC            004152fc     mid.OBJ
+ 0001:00014308       ___vba@0639B244            00415308     mid.OBJ
+ 0001:00014318       ___vba@0639B290            00415318     mid.OBJ
+ 0001:00014328       ___vba@0639B2DC            00415328     mid.OBJ
+ 0001:00014340       ___vba@0639B2F8            00415340     mid.OBJ
+ 0001:00014354       ___vba@0639B30C            00415354     mid.OBJ
+ 0001:00014364       ___vba@0621F73C            00415364     mid.OBJ
+ 0001:00014370       ___vba@0621F784            00415370     mid.OBJ
+ 0001:00014380       ___vba@0621F798            00415380     mid.OBJ
+ 0001:00014390       ___vba@0621F7AC            00415390     mid.OBJ
+ 0001:000143a0       ___vba@0621F7C0            004153a0     mid.OBJ
+ 0001:000143b0       ___vba@0621F7D4            004153b0     mid.OBJ
+ 0001:000143c0       ___vba@0621F7E8            004153c0     mid.OBJ
+ 0001:000143d0       ___vba@0621F7FC            004153d0     mid.OBJ
+ 0001:000143dc       ___vba@0621F80C            004153dc     mid.OBJ
+ 0001:000143ec       ___vba@0621F820            004153ec     mid.OBJ
+ 0001:000143f8       ___vba@0621F830            004153f8     mid.OBJ
+ 0001:00014404       ___vba@0621F840            00415404     mid.OBJ
+ 0001:00014410       ___vba@0621F850            00415410     mid.OBJ
+ 0001:00014420       ___vba@0621F860            00415420     mid.OBJ
+ 0001:00014430       ___vba@0621F874            00415430     mid.OBJ
+ 0001:00014458       ___vba@0621F88C            00415458     mid.OBJ
+ 0001:00014478       ___vba@0621F8C4            00415478     mid.OBJ
+ 0001:0001448c       ___vba@0621F8DC            0041548c     mid.OBJ
+ 0001:000144b4       ___vba@0621F92C            004154b4     mid.OBJ
+ 0001:000144d4       ___vba@0621F964            004154d4     mid.OBJ
+ 0001:000144e0       ___vba@0621F974            004154e0     mid.OBJ
+ 0001:00014510       ___vba@0621F994            00415510     mid.OBJ
+ 0001:00014530       ___vba@0621F9CC            00415530     mid.OBJ
+ 0001:00014540       ___vba@0621F9E0            00415540     mid.OBJ
+ 0001:00014564       ___vba@0621F9F4            00415564     mid.OBJ
+ 0001:00014584       ___vba@0621FA2C            00415584     mid.OBJ
+ 0001:000145a8       ___vba@0621FA40            004155a8     mid.OBJ
+ 0001:000145c8       ___vba@0621FA78            004155c8     mid.OBJ
+ 0001:000145e8       ___vba@0621FA88            004155e8     mid.OBJ
+ 0001:00014608       ___vba@0621FAC0            00415608     mid.OBJ
+ 0001:00014630       ___vba@0621FAD8            00415630     mid.OBJ
+ 0001:00014650       ___vba@0621FB10            00415650     mid.OBJ
+ 0001:00014674       ___vba@0621FB54            00415674     mid.OBJ
+ 0001:00014694       ___vba@0621FB8C            00415694     mid.OBJ
+ 0001:000146b8       ___vba@0621FBA0            004156b8     mid.OBJ
+ 0001:000146d8       ___vba@0621FBD8            004156d8     mid.OBJ
+ 0001:00014700       ___vba@0621FBF0            00415700     mid.OBJ
+ 0001:00014720       ___vba@0621FC28            00415720     mid.OBJ
+ 0001:00014748       ___vba@0621FC40            00415748     mid.OBJ
+ 0001:00014764       ___vba@0621FC78            00415764     mid.OBJ
+ 0001:00014770       ___vba@0621FC88            00415770     mid.OBJ
+ 0001:0001477c       ___vba@0621FC98            0041577c     mid.OBJ
+ 0001:00014784       ___vba@0621FCA4            00415784     mid.OBJ
+ 0001:0001478c       ___vba@0621FCB0            0041578c     mid.OBJ
+ 0001:0001479c       ___vba@0621FCC4            0041579c     mid.OBJ
+ 0001:000147ac       ___vba@0621FCD8            004157ac     mid.OBJ
+ 0001:000147b8       ___vba@0621FCE8            004157b8     mid.OBJ
+ 0001:000147c4       ___vba@0621FCF8            004157c4     mid.OBJ
+ 0001:000147cc       ___vba@0621FD04            004157cc     mid.OBJ
+ 0001:000147dc       ___vba@0621FD18            004157dc     mid.OBJ
+ 0001:000147e8       ___vba@0621FD28            004157e8     mid.OBJ
+ 0001:00014800       ___vba@0622042C            00415800     mid.OBJ
+ 0001:00014810       ___vba@06220478            00415810     mid.OBJ
+ 0001:00014820       ___vba@062204C4            00415820     mid.OBJ
+ 0001:0001482c       ___vba@0622050C            0041582c     mid.OBJ
+ 0001:0001483c       ___vba@06220558            0041583c     mid.OBJ
+ 0001:00014848       ___vba@062205A0            00415848     mid.OBJ
+ 0001:00014854       ___vba@0623E094            00415854     mid.OBJ
+ 0001:00014860       ___vba@0623E0DC            00415860     mid.OBJ
+ 0001:00014870       ___vba@0623E128            00415870     mid.OBJ
+ 0001:00014880       ___vba@0623E174            00415880     mid.OBJ
+ 0001:0001488c       ___vba@0623E1BC            0041588c     mid.OBJ
+ 0001:000148a0       ___vba@0623E20C            004158a0     mid.OBJ
+ 0001:000148b0       ___vba@0623E284            004158b0     mid.OBJ
+ 0001:000148c4       ___vba@0623E2D4            004158c4     mid.OBJ
+ 0001:000148d0       ___vba@0623E31C            004158d0     mid.OBJ
+ 0001:000148e0       ___vba@0623E368            004158e0     mid.OBJ
+ 0001:000148f4       ___vba@0623E3B8            004158f4     mid.OBJ
+ 0001:00014908       ___vba@0623E408            00415908     mid.OBJ
+ 0001:00014918       ___vba@0623E454            00415918     mid.OBJ
+ 0001:0001492c       ___vba@0623E46C            0041592c     mid.OBJ
+ 0001:00014940       ___vba@0623E51C            00415940     mid.OBJ
+ 0001:00014950       ___vba@0623E568            00415950     mid.OBJ
+ 0001:0001495c       ___vba@0623E5B0            0041595c     mid.OBJ
+ 0001:00014970       ___vba@0623E600            00415970     mid.OBJ
+ 0001:0001497c       ___vba@0623E648            0041597c     mid.OBJ
+ 0001:00014988       ___vba@0623E690            00415988     mid.OBJ
+ 0001:00014998       ___vba@0623E70C            00415998     mid.OBJ
+ 0001:000149a8       ___vba@0623E720            004159a8     mid.OBJ
+ 0001:000149b8       ___vba@0623E734            004159b8     mid.OBJ
+ 0001:000149c8       ___vba@0623E748            004159c8     mid.OBJ
+ 0001:000149d8       ___vba@0623E75C            004159d8     mid.OBJ
+ 0001:000149e8       ___vba@0623E770            004159e8     mid.OBJ
+ 0001:000149f8       ___vba@0623E784            004159f8     mid.OBJ
+ 0001:00014a08       ___vba@0623E798            00415a08     mid.OBJ
+ 0001:00014a18       ___vba@0623E7AC            00415a18     mid.OBJ
+ 0001:00014a28       ___vba@0623E7C0            00415a28     mid.OBJ
+ 0001:00014a38       ___vba@0623E7D4            00415a38     mid.OBJ
+ 0001:00014a48       ___vba@0623E7E8            00415a48     mid.OBJ
+ 0001:00014a58       ___vba@0623E7FC            00415a58     mid.OBJ
+ 0001:00014a68       ___vba@0623E810            00415a68     mid.OBJ
+ 0001:00014a78       ___vba@0623E824            00415a78     mid.OBJ
+ 0001:00014a88       ___vba@0623E838            00415a88     mid.OBJ
+ 0001:00014a98       ___vba@0623E84C            00415a98     mid.OBJ
+ 0001:00014aa8       ___vba@0623E860            00415aa8     mid.OBJ
+ 0001:00014ab8       ___vba@0623E874            00415ab8     mid.OBJ
+ 0001:00014ac8       ___vba@0623E888            00415ac8     mid.OBJ
+ 0001:00014ad8       ___vba@0623E89C            00415ad8     mid.OBJ
+ 0001:00014ae8       ___vba@0623E8B0            00415ae8     mid.OBJ
+ 0001:00014af8       ___vba@0623E8FC            00415af8     mid.OBJ
+ 0001:00014b08       ___vba@0623E910            00415b08     mid.OBJ
+ 0001:00014b18       ___vba@0623E924            00415b18     mid.OBJ
+ 0001:00014b28       ___vba@0623E938            00415b28     mid.OBJ
+ 0001:00014b38       ___vba@0623E94C            00415b38     mid.OBJ
+ 0001:00014b48       ___vba@0623E960            00415b48     mid.OBJ
+ 0001:00014b58       ___vba@0623E974            00415b58     mid.OBJ
+ 0001:00014b68       ___vba@0623E988            00415b68     mid.OBJ
+ 0001:00014b78       ___vba@0623E99C            00415b78     mid.OBJ
+ 0001:00014b88       ___vba@0623E9B0            00415b88     mid.OBJ
+ 0001:00014b98       ___vba@0623E9C4            00415b98     mid.OBJ
+ 0001:00014ba8       ___vba@0623E9D8            00415ba8     mid.OBJ
+ 0001:00014bb8       ___vba@0623E9EC            00415bb8     mid.OBJ
+ 0001:00014bc8       ___vba@0623EA00            00415bc8     mid.OBJ
+ 0001:00014bd8       ___vba@0623EA14            00415bd8     mid.OBJ
+ 0001:00014be8       ___vba@0623EA28            00415be8     mid.OBJ
+ 0001:00014bf8       ___vba@0623EA3C            00415bf8     mid.OBJ
+ 0001:00014c08       ___vba@0623EA50            00415c08     mid.OBJ
+ 0001:00014c18       ___vba@0623EA64            00415c18     mid.OBJ
+ 0001:00014c28       ___vba@0623EA78            00415c28     mid.OBJ
+ 0001:00014c38       ___vba@0623EA8C            00415c38     mid.OBJ
+ 0001:00014c48       ___vba@0623EAA0            00415c48     mid.OBJ
+ 0001:00014c58       ___vba@0623EAB4            00415c58     mid.OBJ
+ 0001:00014c68       ___vba@0623EAC8            00415c68     mid.OBJ
+ 0001:00014c78       ___vba@0623EADC            00415c78     mid.OBJ
+ 0001:00014c88       ___vba@0623EB24            00415c88     mid.OBJ
+ 0001:00014c98       ___vba@0623EB38            00415c98     mid.OBJ
+ 0001:00014ca8       ___vba@0623EB4C            00415ca8     mid.OBJ
+ 0001:00014cb8       ___vba@0623EB60            00415cb8     mid.OBJ
+ 0001:00014cc8       ___vba@0623EB74            00415cc8     mid.OBJ
+ 0001:00014cd8       ___vba@0623EB88            00415cd8     mid.OBJ
+ 0001:00014ce8       ___vba@0623EB9C            00415ce8     mid.OBJ
+ 0001:00014cf8       ___vba@0623EBB0            00415cf8     mid.OBJ
+ 0001:00014d08       ___vba@0623EBC4            00415d08     mid.OBJ
+ 0001:00014d18       ___vba@0623EBD8            00415d18     mid.OBJ
+ 0001:00014d28       ___vba@0623EBEC            00415d28     mid.OBJ
+ 0001:00014d38       ___vba@0623EC00            00415d38     mid.OBJ
+ 0001:00014d48       ___vba@0623EC14            00415d48     mid.OBJ
+ 0001:00014d58       ___vba@0623EC28            00415d58     mid.OBJ
+ 0001:00014d68       ___vba@0623EC3C            00415d68     mid.OBJ
+ 0001:00014d78       ___vba@0623EC50            00415d78     mid.OBJ
+ 0001:00014d88       ___vba@0623EC64            00415d88     mid.OBJ
+ 0001:00014d98       ___vba@0623EC78            00415d98     mid.OBJ
+ 0001:00014da8       ___vba@0623EC8C            00415da8     mid.OBJ
+ 0001:00014db8       ___vba@0623ECA0            00415db8     mid.OBJ
+ 0001:00014dc8       ___vba@0623ECB4            00415dc8     mid.OBJ
+ 0001:00014dd8       ___vba@0623ECC8            00415dd8     mid.OBJ
+ 0001:00014de8       ___vba@0623ECDC            00415de8     mid.OBJ
+ 0001:00014df8       ___vba@0623ECF0            00415df8     mid.OBJ
+ 0001:00014e08       ___vba@0623ED04            00415e08     mid.OBJ
+ 0001:00014e18       ___vba@06382A54            00415e18     mid.OBJ
+ 0001:00014e28       ___vba@06382A68            00415e28     mid.OBJ
+ 0001:00014e38       ___vba@06382A7C            00415e38     mid.OBJ
+ 0001:00014e48       ___vba@06382A90            00415e48     mid.OBJ
+ 0001:00014e58       ___vba@06382AA4            00415e58     mid.OBJ
+ 0001:00014e68       ___vba@06382AB8            00415e68     mid.OBJ
+ 0001:00014e78       ___vba@06382ACC            00415e78     mid.OBJ
+ 0001:00014e88       ___vba@06382AE0            00415e88     mid.OBJ
+ 0001:00014e98       ___vba@06382AF4            00415e98     mid.OBJ
+ 0001:00014ea8       ___vba@06382B08            00415ea8     mid.OBJ
+ 0001:00014eb8       ___vba@06382B1C            00415eb8     mid.OBJ
+ 0001:00014ec8       ___vba@06382B30            00415ec8     mid.OBJ
+ 0001:00014ed8       ___vba@06382B44            00415ed8     mid.OBJ
+ 0001:00014ee8       ___vba@06382B58            00415ee8     mid.OBJ
+ 0001:00014ef8       ___vba@06382B6C            00415ef8     mid.OBJ
+ 0001:00014f08       ___vba@06382B80            00415f08     mid.OBJ
+ 0001:00014f18       ___vba@06382B94            00415f18     mid.OBJ
+ 0001:00014f28       ___vba@06382BA8            00415f28     mid.OBJ
+ 0001:00014f38       ___vba@06382BBC            00415f38     mid.OBJ
+ 0001:00014f48       ___vba@06382BD0            00415f48     mid.OBJ
+ 0001:00014f58       ___vba@06382BE4            00415f58     mid.OBJ
+ 0001:00014f68       ___vba@06382BF8            00415f68     mid.OBJ
+ 0001:00014f78       ___vba@06382C0C            00415f78     mid.OBJ
+ 0001:00014f88       ___vba@06382C20            00415f88     mid.OBJ
+ 0001:00014f98       ___vba@06382C34            00415f98     mid.OBJ
+ 0001:00014fa8       ___vba@079A9C9C            00415fa8     mid.OBJ
+ 0001:00014fb8       ___vba@079A9CB0            00415fb8     mid.OBJ
+ 0001:00014fc8       ___vba@079A9CC4            00415fc8     mid.OBJ
+ 0001:00014fd8       ___vba@079A9CD8            00415fd8     mid.OBJ
+ 0001:00014fe8       ___vba@079A9CEC            00415fe8     mid.OBJ
+ 0001:00014ff8       ___vba@079A9D00            00415ff8     mid.OBJ
+ 0001:00015008       ___vba@079A9D14            00416008     mid.OBJ
+ 0001:00015018       ___vba@079A9D28            00416018     mid.OBJ
+ 0001:00015028       ___vba@079A9D3C            00416028     mid.OBJ
+ 0001:00015038       ___vba@079A9D50            00416038     mid.OBJ
+ 0001:00015048       ___vba@079A9D64            00416048     mid.OBJ
+ 0001:00015058       ___vba@079A9D78            00416058     mid.OBJ
+ 0001:00015068       ___vba@079A9D8C            00416068     mid.OBJ
+ 0001:00015078       ___vba@079A9DA0            00416078     mid.OBJ
+ 0001:00015088       ___vba@079A9DB4            00416088     mid.OBJ
+ 0001:00015098       ___vba@079A9DC8            00416098     mid.OBJ
+ 0001:000150a8       ___vba@079A9DDC            004160a8     mid.OBJ
+ 0001:000150b8       ___vba@079A9DF0            004160b8     mid.OBJ
+ 0001:000150c8       ___vba@079A9E04            004160c8     mid.OBJ
+ 0001:000150d8       ___vba@079A9E18            004160d8     mid.OBJ
+ 0001:000150e8       ___vba@079A9E2C            004160e8     mid.OBJ
+ 0001:000150f8       ___vba@079A9E40            004160f8     mid.OBJ
+ 0001:00015108       ___vba@079A9E54            00416108     mid.OBJ
+ 0001:00015118       ___vba@079A9E68            00416118     mid.OBJ
+ 0001:00015128       ___vba@079A9E7C            00416128     mid.OBJ
+ 0001:00015138       ___vba@079A9EC4            00416138     mid.OBJ
+ 0001:00015148       ___vba@079A9ED8            00416148     mid.OBJ
+ 0001:00015158       ___vba@079A9EEC            00416158     mid.OBJ
+ 0001:00015168       ___vba@079A9F00            00416168     mid.OBJ
+ 0001:00015178       ___vba@079A9F14            00416178     mid.OBJ
+ 0001:00015188       ___vba@079A9F28            00416188     mid.OBJ
+ 0001:00015198       ___vba@079A9F3C            00416198     mid.OBJ
+ 0001:000151a8       ___vba@079A9F50            004161a8     mid.OBJ
+ 0001:000151b8       ___vba@079A9F64            004161b8     mid.OBJ
+ 0001:000151c8       ___vba@079A9F78            004161c8     mid.OBJ
+ 0001:000151d8       ___vba@079A9F8C            004161d8     mid.OBJ
+ 0001:000151e8       ___vba@079A9FA0            004161e8     mid.OBJ
+ 0001:000151f8       ___vba@079A9FB4            004161f8     mid.OBJ
+ 0001:00015208       ___vba@079A9FC8            00416208     mid.OBJ
+ 0001:00015218       ___vba@079A9FDC            00416218     mid.OBJ
+ 0001:00015228       ___vba@079A9FF0            00416228     mid.OBJ
+ 0001:00015238       ___vba@079AA004            00416238     mid.OBJ
+ 0001:00015248       ___vba@079AA018            00416248     mid.OBJ
+ 0001:00015258       ___vba@079AA02C            00416258     mid.OBJ
+ 0001:00015268       ___vba@079AA040            00416268     mid.OBJ
+ 0001:00015278       ___vba@079AA054            00416278     mid.OBJ
+ 0001:00015288       ___vba@079AA068            00416288     mid.OBJ
+ 0001:00015298       ___vba@079AA07C            00416298     mid.OBJ
+ 0001:000152a8       ___vba@079AA090            004162a8     mid.OBJ
+ 0001:000152b8       ___vba@079AA0A4            004162b8     mid.OBJ
+ 0001:000152c8       ___vba@079AA0EC            004162c8     mid.OBJ
+ 0001:000152d8       ___vba@079AA100            004162d8     mid.OBJ
+ 0001:000152e8       ___vba@079AA114            004162e8     mid.OBJ
+ 0001:000152f8       ___vba@079AA128            004162f8     mid.OBJ
+ 0001:0001530c       ___vba@079AA13C            0041630c     mid.OBJ
+ 0001:0001533c       ___vba@079AA170            0041633c     mid.OBJ
+ 0001:00015364       ___vba@079AA19C            00416364     mid.OBJ
+ 0001:00015394       ___vba@079AA1D0            00416394     mid.OBJ
+ 0001:000153c4       ___vba@079AA204            004163c4     mid.OBJ
+ 0001:000153f4       ___vba@079AA238            004163f4     mid.OBJ
+ 0001:00015424       ___vba@079AA26C            00416424     mid.OBJ
+ 0001:00015454       ___vba@079AA2A0            00416454     mid.OBJ
+ 0001:00015488       ___vba@079AA314            00416488     mid.OBJ
+ 0001:000154bc       ___vba@079AA34C            004164bc     mid.OBJ
+ 0001:000154e8       ___vba@079AA37C            004164e8     mid.OBJ
+ 0001:00015514       ___vba@079AA3AC            00416514     mid.OBJ
+ 0001:00015540       ___vba@079AA3DC            00416540     mid.OBJ
+ 0001:00015568       ___vba@079AA408            00416568     mid.OBJ
+ 0001:000155a4       ___vba@079AA448            004165a4     mid.OBJ
+ 0001:000155d0       ___vba@079AA478            004165d0     mid.OBJ
+ 0001:000155fc       ___vba@079AA4A8            004165fc     mid.OBJ
+ 0001:00015628       ___vba@079AA4D8            00416628     mid.OBJ
+ 0001:00015658       ___vba@079AA53C            00416658     mid.OBJ
+ 0001:0001568c       ___vba@079AA574            0041668c     mid.OBJ
+ 0001:000156b4       ___vba@079AA5A0            004166b4     mid.OBJ
+ 0001:000156dc       ___vba@079AA5CC            004166dc     mid.OBJ
+ 0001:0001570c       ___vba@079AA600            0041670c     mid.OBJ
+ 0001:0001573c       ___vba@079AA634            0041673c     mid.OBJ
+ 0001:00015764       ___vba@079AA660            00416764     mid.OBJ
+ 0001:0001578c       ___vba@079AA68C            0041678c     mid.OBJ
+ 0001:000157bc       ___vba@079AA6C0            004167bc     mid.OBJ
+ 0001:000157ec       ___vba@079AA6F4            004167ec     mid.OBJ
+ 0001:00015814       ___vba@079AA98C            00416814     mid.OBJ
+ 0001:00015844       ___vba@079AA9C0            00416844     mid.OBJ
+ 0001:00015874       ___vba@079AA9F4            00416874     mid.OBJ
+ 0001:000158a4       ___vba@079AAA28            004168a4     mid.OBJ
+ 0001:000158d8       ___vba@079AAA60            004168d8     mid.OBJ
+ 0001:00015900       ___vba@079AAA8C            00416900     mid.OBJ
+ 0001:00015928       ___vba@079AAAB8            00416928     mid.OBJ
+ 0001:00015954       ___vba@079AAAE8            00416954     mid.OBJ
+ 0001:0001597c       ___vba@079AAB14            0041697c     mid.OBJ
+ 0001:000159a4       ___vba@079AAB40            004169a4     mid.OBJ
+ 0001:000159d4       ___vba@079AA764            004169d4     mid.OBJ
+ 0001:0002967c       ___vba@064B26EC            0042a67c     mid.OBJ
+ 0001:000296bc       ___vba@063B2F2C            0042a6bc     mid.OBJ
+ 0001:000296fc       ___vba@0638B1E4            0042a6fc     mid.OBJ
+ 0001:0002973c       ___vba@079CDB54            0042a73c     mid.OBJ
+ 0001:0002977c       ___vba@0656B214            0042a77c     mid.OBJ
+ 0001:000297bc       ___vba@0656A524            0042a7bc     mid.OBJ
+ 0001:000297fc       ___vba@0656ADC4            0042a7fc     mid.OBJ
+ 0001:0002983c       ___vba@063909E4            0042a83c     mid.OBJ
+ 0001:0002987c       ___vba@06397E0C            0042a87c     mid.OBJ
+ 0001:000298bc       ___vba@0622E034            0042a8bc     mid.OBJ
+ 0001:000298fc       ___vba@06382604            0042a8fc     mid.OBJ
+ 0001:0002993c       ___vba@063986AC            0042a93c     mid.OBJ
+ 0001:0002997c       ___vba@064B229C            0042a97c     mid.OBJ
+ 0001:000299bc       ___vba@0622D344            0042a9bc     mid.OBJ
+ 0001:000299fc       ___vba@06390594            0042a9fc     mid.OBJ
+ 0001:00029a3c       ___vba@064B2B3C            0042aa3c     mid.OBJ
+ 0001:00029a7c       ___vba@0639825C            0042aa7c     mid.OBJ
+ 0001:00029abc       ___vba@063B337C            0042aabc     mid.OBJ
+ 0001:00029afc       ___vba@064B1E4C            0042aafc     mid.OBJ
+ 0001:00029b3c       ___vba@063AFDFC            0042ab3c     mid.OBJ
+ 0001:00029b7c       ___vba@0622D794            0042ab7c     mid.OBJ
+ 0001:00029bbc       ___vba@063821B4            0042abbc     mid.OBJ
+ 0001:00029bfc       ___vba@079CDFA4            0042abfc     mid.OBJ
+ 0001:00029c3c       ___vba@0622DBE4            0042ac3c     mid.OBJ
+ 0001:00029c7c       ___vba@0794D914            0042ac7c     mid.OBJ
+ 0001:00029cbc       ___vba@063AF9AC            0042acbc     mid.OBJ
+ 0001:00029cfc       ___vba@0638AD94            0042acfc     mid.OBJ
+ 0001:00029d3c       ___vba@0638B634            0042ad3c     mid.OBJ
+ 0001:00029d7c       ___vba@0639965C            0042ad7c     mid.OBJ
+ 0001:00029dbc       ___vba@06390144            0042adbc     mid.OBJ
+ 0001:00029dfc       ___vba@06399AAC            0042adfc     mid.OBJ
+ 0001:00029e3c       ___vba@0638A944            0042ae3c     mid.OBJ
+ 0001:00029e7c       ___vba@079AC764            0042ae7c     mid.OBJ
+ 0001:00029ebc       ___vba@06390E34            0042aebc     mid.OBJ
+ 0001:00029efc       ___vba@063B2ADC            0042aefc     mid.OBJ
+ 0001:00029f3c       ___vba@063AF55C            0042af3c     mid.OBJ
+ 0001:00029f7c       ___vba@06399EFC            0042af7c     mid.OBJ
+ 0001:00029fbc       ___vba@0638078C            0042afbc     mid.OBJ
+ 0001:00029ffc       ___vba@079CD704            0042affc     mid.OBJ
+ 0001:0002a03c       ___vba@0656A974            0042b03c     mid.OBJ
+ 0001:0002a07c       ___vba@079AC314            0042b07c     mid.OBJ
+ 0001:0002a0bc       ___vba@079ABEC4            0042b0bc     mid.OBJ
+ 0001:0002a164       ___vba@0794E1B4            0042b164     mid.OBJ
+ 0001:0002a18c       ___vba@0794E1E0            0042b18c     mid.OBJ
+ 0001:0002a198       ___vba@0794E1F0            0042b198     mid.OBJ
+ 0001:0002a1a4       ___vba@0794E200            0042b1a4     mid.OBJ
+ 0001:0002a1b0       ___vba@0794E210            0042b1b0     mid.OBJ
+ 0001:0002a1bc       ___vba@0794E220            0042b1bc     mid.OBJ
+ 0001:0002a1c8       ___vba@0794E230            0042b1c8     mid.OBJ
+ 0001:0002a1d4       ___vba@0794E240            0042b1d4     mid.OBJ
+ 0001:0002a1d8       ___vba@0794E248            0042b1d8     mid.OBJ
+ 0001:0002a3c0       VB@BTXT                    0042b3c0     mid.OBJ
+ 0001:0002a3d0       ?Command2_Click@mid1@@AAGXXZ 0042b3d0 f   mid1.OBJ
+ 0001:0002a610       ?Command3_Click@mid1@@AAGXXZ 0042b610 f   mid1.OBJ
+ 0001:0002a850       ?Command4_Click@mid1@@AAGXXZ 0042b850 f   mid1.OBJ
+ 0001:0002a9c0       ?Command6_Click@mid1@@AAGXXZ 0042b9c0 f   mid1.OBJ
+ 0001:0002ac00       ?drawForm@VSKIN@@AAGXXZ    0042bc00 f   VSKIN.OBJ
+ 0001:0002cb60       ?UserControl_DblClick@VSKIN@@AAGXXZ 0042db60 f   VSKIN.OBJ
+ 0001:0002d310       ?drawButtons@VSKIN@@AAGXXZ 0042e310 f   VSKIN.OBJ
+ 0001:0002ef40       ?UserControl_Initialize@VSKIN@@AAGXXZ 0042ff40 f   VSKIN.OBJ
+ 0001:0002efd0       ?UserControl_MouseDown@VSKIN@@AAGXXZ 0042ffd0 f   VSKIN.OBJ
+ 0001:0002f540       ?UserControl_MouseMove@VSKIN@@AAGXXZ 00430540 f   VSKIN.OBJ
+ 0001:00030190       ?UserControl_MouseUp@VSKIN@@AAGXXZ 00431190 f   VSKIN.OBJ
+ 0001:000309e0       ?UserControl_Paint@VSKIN@@AAGXXZ 004319e0 f   VSKIN.OBJ
+ 0001:00030a70       ?UserControl_Resize@VSKIN@@AAGXXZ 00431a70 f   VSKIN.OBJ
+ 0001:00030b00       ?UserControl_ReadProperties@VSKIN@@AAGXXZ 00431b00 f   VSKIN.OBJ
+ 0001:00030cb0       ?UserControl_WriteProperties@VSKIN@@AAGXXZ 00431cb0 f   VSKIN.OBJ
+ 0001:00030df0       ?Caption__Get@VSKIN@@AAGXXZ 00431df0 f   VSKIN.OBJ
+ 0001:00030e80       ?Caption__Let@VSKIN@@AAGXXZ 00431e80 f   VSKIN.OBJ
+ 0001:00030f10       ?Resize__Get@VSKIN@@AAGXXZ 00431f10 f   VSKIN.OBJ
+ 0001:00030f80       ?Resize__Let@VSKIN@@AAGXXZ 00431f80 f   VSKIN.OBJ
+ 0001:00031050       ?Command1_Click@midQ@@AAGXXZ 00432050 f   midQ.OBJ
+ 0001:00031290       ?Command10_Click@midQ@@AAGXXZ 00432290 f   midQ.OBJ
+ 0001:000314d0       ?Command11_Click@midQ@@AAGXXZ 004324d0 f   midQ.OBJ
+ 0001:00031710       ?Command12_Click@midQ@@AAGXXZ 00432710 f   midQ.OBJ
+ 0001:00031950       ?Command13_Click@midQ@@AAGXXZ 00432950 f   midQ.OBJ
+ 0001:00031b90       ?Command14_Click@midQ@@AAGXXZ 00432b90 f   midQ.OBJ
+ 0001:00031dd0       ?Command15_Click@midQ@@AAGXXZ 00432dd0 f   midQ.OBJ
+ 0001:00032010       ?Command16_Click@midQ@@AAGXXZ 00433010 f   midQ.OBJ
+ 0001:00032250       ?Command17_Click@midQ@@AAGXXZ 00433250 f   midQ.OBJ
+ 0001:00032490       ?Command18_Click@midQ@@AAGXXZ 00433490 f   midQ.OBJ
+ 0001:000326d0       ?Command19_Click@midQ@@AAGXXZ 004336d0 f   midQ.OBJ
+ 0001:00032910       ?Command2_Click@midQ@@AAGXXZ 00433910 f   midQ.OBJ
+ 0001:00032b50       ?Command20_Click@midQ@@AAGXXZ 00433b50 f   midQ.OBJ
+ 0001:00032d90       ?Command21_Click@midQ@@AAGXXZ 00433d90 f   midQ.OBJ
+ 0001:00032fd0       ?Command22_Click@midQ@@AAGXXZ 00433fd0 f   midQ.OBJ
+ 0001:00033210       ?Command23_Click@midQ@@AAGXXZ 00434210 f   midQ.OBJ
+ 0001:00033450       ?Command24_Click@midQ@@AAGXXZ 00434450 f   midQ.OBJ
+ 0001:00033690       ?Command25_Click@midQ@@AAGXXZ 00434690 f   midQ.OBJ
+ 0001:000338d0       ?Command26_Click@midQ@@AAGXXZ 004348d0 f   midQ.OBJ
+ 0001:00033b10       ?Command27_Click@midQ@@AAGXXZ 00434b10 f   midQ.OBJ
+ 0001:00033d50       ?Command28_Click@midQ@@AAGXXZ 00434d50 f   midQ.OBJ
+ 0001:00033f90       ?Command29_Click@midQ@@AAGXXZ 00434f90 f   midQ.OBJ
+ 0001:000341d0       ?Command3_Click@midQ@@AAGXXZ 004351d0 f   midQ.OBJ
+ 0001:00034410       ?Command30_Click@midQ@@AAGXXZ 00435410 f   midQ.OBJ
+ 0001:00034650       ?Command31_Click@midQ@@AAGXXZ 00435650 f   midQ.OBJ
+ 0001:00034890       ?Command32_Click@midQ@@AAGXXZ 00435890 f   midQ.OBJ
+ 0001:00034ad0       ?Command33_Click@midQ@@AAGXXZ 00435ad0 f   midQ.OBJ
+ 0001:00034d10       ?Command34_Click@midQ@@AAGXXZ 00435d10 f   midQ.OBJ
+ 0001:00034f50       ?Command35_Click@midQ@@AAGXXZ 00435f50 f   midQ.OBJ
+ 0001:00035190       ?Command36_Click@midQ@@AAGXXZ 00436190 f   midQ.OBJ
+ 0001:000353d0       ?Command37_Click@midQ@@AAGXXZ 004363d0 f   midQ.OBJ
+ 0001:00035610       ?Command38_Click@midQ@@AAGXXZ 00436610 f   midQ.OBJ
+ 0001:00035850       ?Command39_Click@midQ@@AAGXXZ 00436850 f   midQ.OBJ
+ 0001:00035a90       ?Command4_Click@midQ@@AAGXXZ 00436a90 f   midQ.OBJ
+ 0001:00035cd0       ?Command40_Click@midQ@@AAGXXZ 00436cd0 f   midQ.OBJ
+ 0001:00035f10       ?Command5_Click@midQ@@AAGXXZ 00436f10 f   midQ.OBJ
+ 0001:00036150       ?Command6_Click@midQ@@AAGXXZ 00437150 f   midQ.OBJ
+ 0001:00036390       ?Command7_Click@midQ@@AAGXXZ 00437390 f   midQ.OBJ
+ 0001:000365d0       ?Command8_Click@midQ@@AAGXXZ 004375d0 f   midQ.OBJ
+ 0001:00036810       ?Command9_Click@midQ@@AAGXXZ 00437810 f   midQ.OBJ
+ 0001:00036a50       ?Command2_Click@mid2@@AAGXXZ 00437a50 f   mid2.OBJ
+ 0001:00036c90       ?Command3_Click@mid2@@AAGXXZ 00437c90 f   mid2.OBJ
+ 0001:00036ed0       ?Command4_Click@mid2@@AAGXXZ 00437ed0 f   mid2.OBJ
+ 0001:00037040       ?Command6_Click@mid2@@AAGXXZ 00438040 f   mid2.OBJ
+ 0001:00037280       ?Command5_Click@mid2@@AAGXXZ 00438280 f   mid2.OBJ
+ 0001:000374c0       ?Command2_Click@mid29@@AAGXXZ 004384c0 f   mid29.OBJ
+ 0001:00037700       ?Command3_Click@mid29@@AAGXXZ 00438700 f   mid29.OBJ
+ 0001:00037940       ?Command4_Click@mid29@@AAGXXZ 00438940 f   mid29.OBJ
+ 0001:00037ab0       ?Command6_Click@mid29@@AAGXXZ 00438ab0 f   mid29.OBJ
+ 0001:00037cf0       ?Command5_Click@mid29@@AAGXXZ 00438cf0 f   mid29.OBJ
+ 0001:00037f30       ?Command2_Click@mid22@@AAGXXZ 00438f30 f   mid22.OBJ
+ 0001:00038170       ?Command3_Click@mid22@@AAGXXZ 00439170 f   mid22.OBJ
+ 0001:000383b0       ?Command4_Click@mid22@@AAGXXZ 004393b0 f   mid22.OBJ
+ 0001:00038520       ?Command6_Click@mid22@@AAGXXZ 00439520 f   mid22.OBJ
+ 0001:00038760       ?Command5_Click@mid22@@AAGXXZ 00439760 f   mid22.OBJ
+ 0001:000389a0       ?Command2_Click@mid36@@AAGXXZ 004399a0 f   mid36.OBJ
+ 0001:00038be0       ?Command3_Click@mid36@@AAGXXZ 00439be0 f   mid36.OBJ
+ 0001:00038e20       ?Command4_Click@mid36@@AAGXXZ 00439e20 f   mid36.OBJ
+ 0001:00038f90       ?Command6_Click@mid36@@AAGXXZ 00439f90 f   mid36.OBJ
+ 0001:000391d0       ?Command5_Click@mid36@@AAGXXZ 0043a1d0 f   mid36.OBJ
+ 0001:00039410       ?Command2_Click@mid6@@AAGXXZ 0043a410 f   mid6.OBJ
+ 0001:00039650       ?Command3_Click@mid6@@AAGXXZ 0043a650 f   mid6.OBJ
+ 0001:00039890       ?Command4_Click@mid6@@AAGXXZ 0043a890 f   mid6.OBJ
+ 0001:00039a00       ?Command6_Click@mid6@@AAGXXZ 0043aa00 f   mid6.OBJ
+ 0001:00039c40       ?Command5_Click@mid6@@AAGXXZ 0043ac40 f   mid6.OBJ
+ 0001:00039e80       ?Command2_Click@mid14@@AAGXXZ 0043ae80 f   mid14.OBJ
+ 0001:0003a0c0       ?Command3_Click@mid14@@AAGXXZ 0043b0c0 f   mid14.OBJ
+ 0001:0003a300       ?Command4_Click@mid14@@AAGXXZ 0043b300 f   mid14.OBJ
+ 0001:0003a470       ?Command6_Click@mid14@@AAGXXZ 0043b470 f   mid14.OBJ
+ 0001:0003a6b0       ?Command5_Click@mid14@@AAGXXZ 0043b6b0 f   mid14.OBJ
+ 0001:0003a8f0       ?Command2_Click@mid10@@AAGXXZ 0043b8f0 f   mid10.OBJ
+ 0001:0003ab30       ?Command3_Click@mid10@@AAGXXZ 0043bb30 f   mid10.OBJ
+ 0001:0003ad70       ?Command4_Click@mid10@@AAGXXZ 0043bd70 f   mid10.OBJ
+ 0001:0003aee0       ?Command6_Click@mid10@@AAGXXZ 0043bee0 f   mid10.OBJ
+ 0001:0003b120       ?Command5_Click@mid10@@AAGXXZ 0043c120 f   mid10.OBJ
+ 0001:0003b360       ?Command2_Click@mid11@@AAGXXZ 0043c360 f   mid11.OBJ
+ 0001:0003b5a0       ?Command3_Click@mid11@@AAGXXZ 0043c5a0 f   mid11.OBJ
+ 0001:0003b7e0       ?Command4_Click@mid11@@AAGXXZ 0043c7e0 f   mid11.OBJ
+ 0001:0003b950       ?Command6_Click@mid11@@AAGXXZ 0043c950 f   mid11.OBJ
+ 0001:0003bb90       ?Command5_Click@mid11@@AAGXXZ 0043cb90 f   mid11.OBJ
+ 0001:0003bdd0       ?Command2_Click@mid13@@AAGXXZ 0043cdd0 f   mid13.OBJ
+ 0001:0003c010       ?Command3_Click@mid13@@AAGXXZ 0043d010 f   mid13.OBJ
+ 0001:0003c250       ?Command4_Click@mid13@@AAGXXZ 0043d250 f   mid13.OBJ
+ 0001:0003c3c0       ?Command6_Click@mid13@@AAGXXZ 0043d3c0 f   mid13.OBJ
+ 0001:0003c600       ?Command5_Click@mid13@@AAGXXZ 0043d600 f   mid13.OBJ
+ 0001:0003c840       ?Command2_Click@mid20@@AAGXXZ 0043d840 f   mid20.OBJ
+ 0001:0003ca80       ?Command3_Click@mid20@@AAGXXZ 0043da80 f   mid20.OBJ
+ 0001:0003ccc0       ?Command4_Click@mid20@@AAGXXZ 0043dcc0 f   mid20.OBJ
+ 0001:0003ce30       ?Command6_Click@mid20@@AAGXXZ 0043de30 f   mid20.OBJ
+ 0001:0003d070       ?Command5_Click@mid20@@AAGXXZ 0043e070 f   mid20.OBJ
+ 0001:0003d2b0       ?Command2_Click@mid25@@AAGXXZ 0043e2b0 f   mid25.OBJ
+ 0001:0003d4f0       ?Command3_Click@mid25@@AAGXXZ 0043e4f0 f   mid25.OBJ
+ 0001:0003d730       ?Command4_Click@mid25@@AAGXXZ 0043e730 f   mid25.OBJ
+ 0001:0003d8a0       ?Command6_Click@mid25@@AAGXXZ 0043e8a0 f   mid25.OBJ
+ 0001:0003dae0       ?Command5_Click@mid25@@AAGXXZ 0043eae0 f   mid25.OBJ
+ 0001:0003dd20       ?Command2_Click@mid28@@AAGXXZ 0043ed20 f   mid28.OBJ
+ 0001:0003df60       ?Command3_Click@mid28@@AAGXXZ 0043ef60 f   mid28.OBJ
+ 0001:0003e1a0       ?Command4_Click@mid28@@AAGXXZ 0043f1a0 f   mid28.OBJ
+ 0001:0003e310       ?Command6_Click@mid28@@AAGXXZ 0043f310 f   mid28.OBJ
+ 0001:0003e550       ?Command5_Click@mid28@@AAGXXZ 0043f550 f   mid28.OBJ
+ 0001:0003e790       ?Command2_Click@mid24@@AAGXXZ 0043f790 f   mid24.OBJ
+ 0001:0003e9d0       ?Command3_Click@mid24@@AAGXXZ 0043f9d0 f   mid24.OBJ
+ 0001:0003ec10       ?Command4_Click@mid24@@AAGXXZ 0043fc10 f   mid24.OBJ
+ 0001:0003ed80       ?Command6_Click@mid24@@AAGXXZ 0043fd80 f   mid24.OBJ
+ 0001:0003efc0       ?Command5_Click@mid24@@AAGXXZ 0043ffc0 f   mid24.OBJ
+ 0001:0003f200       ?Command2_Click@mid17@@AAGXXZ 00440200 f   mid17.OBJ
+ 0001:0003f440       ?Command3_Click@mid17@@AAGXXZ 00440440 f   mid17.OBJ
+ 0001:0003f680       ?Command4_Click@mid17@@AAGXXZ 00440680 f   mid17.OBJ
+ 0001:0003f7f0       ?Command6_Click@mid17@@AAGXXZ 004407f0 f   mid17.OBJ
+ 0001:0003fa30       ?Command5_Click@mid17@@AAGXXZ 00440a30 f   mid17.OBJ
+ 0001:0003fc70       ?Command2_Click@mid27@@AAGXXZ 00440c70 f   mid27.OBJ
+ 0001:0003feb0       ?Command3_Click@mid27@@AAGXXZ 00440eb0 f   mid27.OBJ
+ 0001:000400f0       ?Command4_Click@mid27@@AAGXXZ 004410f0 f   mid27.OBJ
+ 0001:00040260       ?Command6_Click@mid27@@AAGXXZ 00441260 f   mid27.OBJ
+ 0001:000404a0       ?Command5_Click@mid27@@AAGXXZ 004414a0 f   mid27.OBJ
+ 0001:000406e0       ?Command2_Click@mid33@@AAGXXZ 004416e0 f   mid33.OBJ
+ 0001:00040920       ?Command3_Click@mid33@@AAGXXZ 00441920 f   mid33.OBJ
+ 0001:00040b60       ?Command4_Click@mid33@@AAGXXZ 00441b60 f   mid33.OBJ
+ 0001:00040cd0       ?Command6_Click@mid33@@AAGXXZ 00441cd0 f   mid33.OBJ
+ 0001:00040f10       ?Command5_Click@mid33@@AAGXXZ 00441f10 f   mid33.OBJ
+ 0001:00041150       ?Command2_Click@mid16@@AAGXXZ 00442150 f   mid16.OBJ
+ 0001:00041390       ?Command3_Click@mid16@@AAGXXZ 00442390 f   mid16.OBJ
+ 0001:000415d0       ?Command4_Click@mid16@@AAGXXZ 004425d0 f   mid16.OBJ
+ 0001:00041740       ?Command6_Click@mid16@@AAGXXZ 00442740 f   mid16.OBJ
+ 0001:00041980       ?Command5_Click@mid16@@AAGXXZ 00442980 f   mid16.OBJ
+ 0001:00041bc0       ?Command2_Click@mid26@@AAGXXZ 00442bc0 f   mid26.OBJ
+ 0001:00041e00       ?Command3_Click@mid26@@AAGXXZ 00442e00 f   mid26.OBJ
+ 0001:00042040       ?Command4_Click@mid26@@AAGXXZ 00443040 f   mid26.OBJ
+ 0001:000421b0       ?Command6_Click@mid26@@AAGXXZ 004431b0 f   mid26.OBJ
+ 0001:000423f0       ?Command5_Click@mid26@@AAGXXZ 004433f0 f   mid26.OBJ
+ 0001:00042630       ?Command2_Click@mid31@@AAGXXZ 00443630 f   mid31.OBJ
+ 0001:00042870       ?Command3_Click@mid31@@AAGXXZ 00443870 f   mid31.OBJ
+ 0001:00042ab0       ?Command4_Click@mid31@@AAGXXZ 00443ab0 f   mid31.OBJ
+ 0001:00042c20       ?Command6_Click@mid31@@AAGXXZ 00443c20 f   mid31.OBJ
+ 0001:00042e60       ?Command5_Click@mid31@@AAGXXZ 00443e60 f   mid31.OBJ
+ 0001:000430a0       ?Command2_Click@mid32@@AAGXXZ 004440a0 f   mid32.OBJ
+ 0001:000432e0       ?Command3_Click@mid32@@AAGXXZ 004442e0 f   mid32.OBJ
+ 0001:00043520       ?Command4_Click@mid32@@AAGXXZ 00444520 f   mid32.OBJ
+ 0001:00043690       ?Command6_Click@mid32@@AAGXXZ 00444690 f   mid32.OBJ
+ 0001:000438d0       ?Command5_Click@mid32@@AAGXXZ 004448d0 f   mid32.OBJ
+ 0001:00043b10       ?Command2_Click@mid38@@AAGXXZ 00444b10 f   mid38.OBJ
+ 0001:00043d50       ?Command3_Click@mid38@@AAGXXZ 00444d50 f   mid38.OBJ
+ 0001:00043f90       ?Command4_Click@mid38@@AAGXXZ 00444f90 f   mid38.OBJ
+ 0001:00044100       ?Command6_Click@mid38@@AAGXXZ 00445100 f   mid38.OBJ
+ 0001:00044340       ?Command5_Click@mid38@@AAGXXZ 00445340 f   mid38.OBJ
+ 0001:00044580       ?Command2_Click@mid30@@AAGXXZ 00445580 f   mid30.OBJ
+ 0001:000447c0       ?Command3_Click@mid30@@AAGXXZ 004457c0 f   mid30.OBJ
+ 0001:00044a00       ?Command4_Click@mid30@@AAGXXZ 00445a00 f   mid30.OBJ
+ 0001:00044b70       ?Command6_Click@mid30@@AAGXXZ 00445b70 f   mid30.OBJ
+ 0001:00044db0       ?Command5_Click@mid30@@AAGXXZ 00445db0 f   mid30.OBJ
+ 0001:00044ff0       ?Command2_Click@mid35@@AAGXXZ 00445ff0 f   mid35.OBJ
+ 0001:00045230       ?Command3_Click@mid35@@AAGXXZ 00446230 f   mid35.OBJ
+ 0001:00045470       ?Command4_Click@mid35@@AAGXXZ 00446470 f   mid35.OBJ
+ 0001:000455e0       ?Command6_Click@mid35@@AAGXXZ 004465e0 f   mid35.OBJ
+ 0001:00045820       ?Command5_Click@mid35@@AAGXXZ 00446820 f   mid35.OBJ
+ 0001:00045a60       ?Command2_Click@mid5@@AAGXXZ 00446a60 f   mid5.OBJ
+ 0001:00045ca0       ?Command3_Click@mid5@@AAGXXZ 00446ca0 f   mid5.OBJ
+ 0001:00045ee0       ?Command4_Click@mid5@@AAGXXZ 00446ee0 f   mid5.OBJ
+ 0001:00046050       ?Command6_Click@mid5@@AAGXXZ 00447050 f   mid5.OBJ
+ 0001:00046290       ?Command5_Click@mid5@@AAGXXZ 00447290 f   mid5.OBJ
+ 0001:000464d0       ?Command2_Click@mid34@@AAGXXZ 004474d0 f   mid34.OBJ
+ 0001:00046710       ?Command3_Click@mid34@@AAGXXZ 00447710 f   mid34.OBJ
+ 0001:00046950       ?Command4_Click@mid34@@AAGXXZ 00447950 f   mid34.OBJ
+ 0001:00046ac0       ?Command6_Click@mid34@@AAGXXZ 00447ac0 f   mid34.OBJ
+ 0001:00046d00       ?Command5_Click@mid34@@AAGXXZ 00447d00 f   mid34.OBJ
+ 0001:00046f40       ?Command2_Click@mid39@@AAGXXZ 00447f40 f   mid39.OBJ
+ 0001:00047180       ?Command3_Click@mid39@@AAGXXZ 00448180 f   mid39.OBJ
+ 0001:000473c0       ?Command4_Click@mid39@@AAGXXZ 004483c0 f   mid39.OBJ
+ 0001:00047530       ?Command6_Click@mid39@@AAGXXZ 00448530 f   mid39.OBJ
+ 0001:00047770       ?Command5_Click@mid39@@AAGXXZ 00448770 f   mid39.OBJ
+ 0001:000479b0       ?Command2_Click@mid37@@AAGXXZ 004489b0 f   mid37.OBJ
+ 0001:00047bf0       ?Command3_Click@mid37@@AAGXXZ 00448bf0 f   mid37.OBJ
+ 0001:00047e30       ?Command4_Click@mid37@@AAGXXZ 00448e30 f   mid37.OBJ
+ 0001:00047fa0       ?Command6_Click@mid37@@AAGXXZ 00448fa0 f   mid37.OBJ
+ 0001:000481e0       ?Command5_Click@mid37@@AAGXXZ 004491e0 f   mid37.OBJ
+ 0001:00048420       ?Command2_Click@mid19@@AAGXXZ 00449420 f   mid19.OBJ
+ 0001:00048660       ?Command3_Click@mid19@@AAGXXZ 00449660 f   mid19.OBJ
+ 0001:000488a0       ?Command4_Click@mid19@@AAGXXZ 004498a0 f   mid19.OBJ
+ 0001:00048a10       ?Command6_Click@mid19@@AAGXXZ 00449a10 f   mid19.OBJ
+ 0001:00048c50       ?Command5_Click@mid19@@AAGXXZ 00449c50 f   mid19.OBJ
+ 0001:00048e90       ?Command2_Click@mid18@@AAGXXZ 00449e90 f   mid18.OBJ
+ 0001:000490d0       ?Command3_Click@mid18@@AAGXXZ 0044a0d0 f   mid18.OBJ
+ 0001:00049310       ?Command4_Click@mid18@@AAGXXZ 0044a310 f   mid18.OBJ
+ 0001:00049480       ?Command6_Click@mid18@@AAGXXZ 0044a480 f   mid18.OBJ
+ 0001:000496c0       ?Command5_Click@mid18@@AAGXXZ 0044a6c0 f   mid18.OBJ
+ 0001:00049900       ?Command3_Click@mid40@@AAGXXZ 0044a900 f   mid40.OBJ
+ 0001:00049b40       ?Command4_Click@mid40@@AAGXXZ 0044ab40 f   mid40.OBJ
+ 0001:00049cb0       ?Command6_Click@mid40@@AAGXXZ 0044acb0 f   mid40.OBJ
+ 0001:00049ef0       ?Command5_Click@mid40@@AAGXXZ 0044aef0 f   mid40.OBJ
+ 0001:0004a130       ?Command2_Click@mid23@@AAGXXZ 0044b130 f   mid23.OBJ
+ 0001:0004a370       ?Command3_Click@mid23@@AAGXXZ 0044b370 f   mid23.OBJ
+ 0001:0004a5b0       ?Command4_Click@mid23@@AAGXXZ 0044b5b0 f   mid23.OBJ
+ 0001:0004a720       ?Command6_Click@mid23@@AAGXXZ 0044b720 f   mid23.OBJ
+ 0001:0004a960       ?Command5_Click@mid23@@AAGXXZ 0044b960 f   mid23.OBJ
+ 0001:0004aba0       ?Command2_Click@mid21@@AAGXXZ 0044bba0 f   mid21.OBJ
+ 0001:0004ade0       ?Command3_Click@mid21@@AAGXXZ 0044bde0 f   mid21.OBJ
+ 0001:0004b020       ?Command4_Click@mid21@@AAGXXZ 0044c020 f   mid21.OBJ
+ 0001:0004b190       ?Command6_Click@mid21@@AAGXXZ 0044c190 f   mid21.OBJ
+ 0001:0004b3d0       ?Command5_Click@mid21@@AAGXXZ 0044c3d0 f   mid21.OBJ
+ 0001:0004b610       ?Command2_Click@mid15@@AAGXXZ 0044c610 f   mid15.OBJ
+ 0001:0004b850       ?Command3_Click@mid15@@AAGXXZ 0044c850 f   mid15.OBJ
+ 0001:0004ba90       ?Command4_Click@mid15@@AAGXXZ 0044ca90 f   mid15.OBJ
+ 0001:0004bc00       ?Command6_Click@mid15@@AAGXXZ 0044cc00 f   mid15.OBJ
+ 0001:0004be40       ?Command5_Click@mid15@@AAGXXZ 0044ce40 f   mid15.OBJ
+ 0001:0004c080       ?Command2_Click@mid8@@AAGXXZ 0044d080 f   mid8.OBJ
+ 0001:0004c2c0       ?Command3_Click@mid8@@AAGXXZ 0044d2c0 f   mid8.OBJ
+ 0001:0004c500       ?Command4_Click@mid8@@AAGXXZ 0044d500 f   mid8.OBJ
+ 0001:0004c670       ?Command6_Click@mid8@@AAGXXZ 0044d670 f   mid8.OBJ
+ 0001:0004c8b0       ?Command5_Click@mid8@@AAGXXZ 0044d8b0 f   mid8.OBJ
+ 0001:0004caf0       ?Command2_Click@mid12@@AAGXXZ 0044daf0 f   mid12.OBJ
+ 0001:0004cd30       ?Command3_Click@mid12@@AAGXXZ 0044dd30 f   mid12.OBJ
+ 0001:0004cf70       ?Command4_Click@mid12@@AAGXXZ 0044df70 f   mid12.OBJ
+ 0001:0004d0e0       ?Command6_Click@mid12@@AAGXXZ 0044e0e0 f   mid12.OBJ
+ 0001:0004d320       ?Command5_Click@mid12@@AAGXXZ 0044e320 f   mid12.OBJ
+ 0001:0004d560       ?Command2_Click@mid7@@AAGXXZ 0044e560 f   mid7.OBJ
+ 0001:0004d7a0       ?Command3_Click@mid7@@AAGXXZ 0044e7a0 f   mid7.OBJ
+ 0001:0004d9e0       ?Command4_Click@mid7@@AAGXXZ 0044e9e0 f   mid7.OBJ
+ 0001:0004db50       ?Command6_Click@mid7@@AAGXXZ 0044eb50 f   mid7.OBJ
+ 0001:0004dd90       ?Command5_Click@mid7@@AAGXXZ 0044ed90 f   mid7.OBJ
+ 0001:0004dfd0       ?Command2_Click@mid9@@AAGXXZ 0044efd0 f   mid9.OBJ
+ 0001:0004e210       ?Command3_Click@mid9@@AAGXXZ 0044f210 f   mid9.OBJ
+ 0001:0004e450       ?Command4_Click@mid9@@AAGXXZ 0044f450 f   mid9.OBJ
+ 0001:0004e5c0       ?Command6_Click@mid9@@AAGXXZ 0044f5c0 f   mid9.OBJ
+ 0001:0004e800       ?Command5_Click@mid9@@AAGXXZ 0044f800 f   mid9.OBJ
+ 0001:0004ea40       ?Command2_Click@mid3@@AAGXXZ 0044fa40 f   mid3.OBJ
+ 0001:0004ec80       ?Command3_Click@mid3@@AAGXXZ 0044fc80 f   mid3.OBJ
+ 0001:0004eec0       ?Command4_Click@mid3@@AAGXXZ 0044fec0 f   mid3.OBJ
+ 0001:0004f030       ?Command6_Click@mid3@@AAGXXZ 00450030 f   mid3.OBJ
+ 0001:0004f270       ?Command5_Click@mid3@@AAGXXZ 00450270 f   mid3.OBJ
+ 0001:0004f4b0       ?Command2_Click@mid4@@AAGXXZ 004504b0 f   mid4.OBJ
+ 0001:0004f6f0       ?Command3_Click@mid4@@AAGXXZ 004506f0 f   mid4.OBJ
+ 0001:0004f930       ?Command4_Click@mid4@@AAGXXZ 00450930 f   mid4.OBJ
+ 0001:0004faa0       ?Command6_Click@mid4@@AAGXXZ 00450aa0 f   mid4.OBJ
+ 0001:0004fce0       ?Command5_Click@mid4@@AAGXXZ 00450ce0 f   mid4.OBJ
+ 0001:0004ff20       VB@ETXT                    00450f20     mid.OBJ
+ 0002:00000000       __adjust_fdiv              00452000     VBAEXE6:natsupp.obj
+ 0002:00000008       VB@BSS                     00452008     mid.OBJ
+ 0002:00000010       ___vba@0794DDB0            00452010     mid.OBJ
+ 0002:00000024       ___vba@0794DDE0            00452024     mid.OBJ
+ 0002:00000038       ___vba@0794DDC8            00452038     mid.OBJ
+ 0002:0000004c       ___vba@0794DD98            0045204c     mid.OBJ
+ 0002:00000060       ___vba@0794DE70            00452060     mid.OBJ
+ 0002:00000074       ___vba@0794DE88            00452074     mid.OBJ
+ 0002:00000088       ___vba@063AF4EC            00452088     mid.OBJ
+ 0002:0000009c       ___vba@0794DEA0            0045209c     mid.OBJ
+ 0002:000000b0       ___vba@0794DE58            004520b0     mid.OBJ
+ 0002:000000c4       ___vba@063AF4BC            004520c4     mid.OBJ
+ 0002:000000d8       ___vba@063AF33C            004520d8     mid.OBJ
+ 0002:000000ec       ___vba@0794DF18            004520ec     mid.OBJ
+ 0002:00000100       ___vba@063AF45C            00452100     mid.OBJ
+ 0002:00000114       ___vba@063AF444            00452114     mid.OBJ
+ 0002:00000128       ___vba@0794DEB8            00452128     mid.OBJ
+ 0002:0000013c       ___vba@063AF4A4            0045213c     mid.OBJ
+ 0002:00000150       ___vba@0794DE10            00452150     mid.OBJ
+ 0002:00000164       ___vba@063AF48C            00452164     mid.OBJ
+ 0002:00000178       ___vba@0794DF00            00452178     mid.OBJ
+ 0002:0000018c       ___vba@0794DED0            0045218c     mid.OBJ
+ 0002:000001a0       ___vba@063AF354            004521a0     mid.OBJ
+ 0002:000001b4       ___vba@0794DF30            004521b4     mid.OBJ
+ 0002:000001c8       ___vba@0794DEE8            004521c8     mid.OBJ
+ 0002:000001dc       ___vba@0794DDF8            004521dc     mid.OBJ
+ 0002:000001f0       ___vba@06381F94            004521f0     mid.OBJ
+ 0002:00000204       ___vba@063AF3B4            00452204     mid.OBJ
+ 0002:00000218       ___vba@063AF36C            00452218     mid.OBJ
+ 0002:0000022c       ___vba@063AF384            0045222c     mid.OBJ
+ 0002:00000240       ___vba@0794DF48            00452240     mid.OBJ
+ 0002:00000254       ___vba@063AF3FC            00452254     mid.OBJ
+ 0002:00000268       ___vba@063AF3CC            00452268     mid.OBJ
+ 0002:0000027c       ___vba@0794DE28            0045227c     mid.OBJ
+ 0002:00000290       ___vba@063AF42C            00452290     mid.OBJ
+ 0002:000002a4       ___vba@063AF39C            004522a4     mid.OBJ
+ 0002:000002b8       ___vba@063AF414            004522b8     mid.OBJ
+ 0002:000002cc       ___vba@06381FAC            004522cc     mid.OBJ
+ 0002:000002e0       ___vba@063AF474            004522e0     mid.OBJ
+ 0002:000002f4       ___vba@063AF3E4            004522f4     mid.OBJ
+ 0002:00000308       ___vba@0794DE40            00452308     mid.OBJ
+ 0002:0000031c       ___vba@063AF504            0045231c     mid.OBJ
+ 0002:00000330       ___vba@063AF4D4            00452330     mid.OBJ
+ 0002:00000344       ___vba@063AF51C            00452344     mid.OBJ
+ 0002:00001394       ___vba@0794E7C0            00453394     mid.OBJ
+ 0002:00001440       ___vba@0621644C            00453440     mid.OBJ
+ 0002:00001b58       ___vba@0635ADF4            00453b58     mid.OBJ
+ 0002:00002270       ___vba@0652DB74            00454270     mid.OBJ
+ 0002:00002988       ___vba@0652CCE4            00454988     mid.OBJ
+ 0002:000030a0       ___vba@079C0894            004550a0     mid.OBJ
+ 0002:000037b8       ___vba@0652D42C            004557b8     mid.OBJ
+ 0002:00003ed0       ___vba@079C1E6C            00455ed0     mid.OBJ
+ 0002:000045e8       ___vba@063E058C            004565e8     mid.OBJ
+ 0002:00004d00       ___vba@063E141C            00456d00     mid.OBJ
+ 0002:00005418       ___vba@06216B94            00457418     mid.OBJ
+ 0002:00005b2c       ___vba@063AE1C4            00457b2c     mid.OBJ
+ 0002:00006244       ___vba@063AE90C            00458244     mid.OBJ
+ 0002:0000695c       ___vba@0628E1A4            0045895c     mid.OBJ
+ 0002:00007074       ___vba@06215D04            00459074     mid.OBJ
+ 0002:0000778c       ___vba@079AF274            0045978c     mid.OBJ
+ 0002:00007ea4       ___vba@062172DC            00459ea4     mid.OBJ
+ 0002:000085bc       ___vba@0628D314            0045a5bc     mid.OBJ
+ 0002:00008cd4       ___vba@0635B53C            0045acd4     mid.OBJ
+ 0002:000093ec       ___vba@0628E8EC            0045b3ec     mid.OBJ
+ 0002:00009b04       ___vba@079AE3E4            0045bb04     mid.OBJ
+ 0002:0000a21c       ___vba@079ADC9C            0045c21c     mid.OBJ
+ 0002:0000a934       ___vba@063DE3AC            0045c934     mid.OBJ
+ 0002:0000b04c       ___vba@063AD334            0045d04c     mid.OBJ
+ 0002:0000b764       ___vba@079AEB2C            0045d764     mid.OBJ
+ 0002:0000be7c       ___vba@063DEAF4            0045de7c     mid.OBJ
+ 0002:0000c594       ___vba@063ADA7C            0045e594     mid.OBJ
+ 0002:0000ccac       ___vba@063DD51C            0045ecac     mid.OBJ
+ 0002:0000d3c4       ___vba@06359F64            0045f3c4     mid.OBJ
+ 0002:0000dadc       ___vba@063DDC64            0045fadc     mid.OBJ
+ 0002:0000e1f4       ___vba@063DFE44            004601f4     mid.OBJ
+ 0002:0000e90c       ___vba@079C0FDC            0046090c     mid.OBJ
+ 0002:0000f024       ___vba@079C014C            00461024     mid.OBJ
+ 0002:0000f73c       ___vba@079BFA04            0046173c     mid.OBJ
+ 0002:0000fe54       ___vba@079C1724            00461e54     mid.OBJ
+ 0002:0001056c       ___vba@0652C59C            0046256c     mid.OBJ
+ 0002:00010c84       ___vba@0628DA5C            00462c84     mid.OBJ
+ 0002:0001139c       ___vba@063E0CD4            0046339c     mid.OBJ
+ 0002:00011ab4       ___vba@0635A6AC            00463ab4     mid.OBJ
+ 0002:000121cc       ___vba@079BF2BC            004641cc     mid.OBJ
+ 0002:000128e4       ___vba@062DE0FC            004648e4     mid.OBJ
+ 0002:00013088       ___vba@079BEB74            00465088     mid.OBJ
+ 0002:0001379c       ___vba@06237CE4            0046579c     mid.OBJ
+
+ entry point at        0001:000013a0
+
+ Static symbols
+

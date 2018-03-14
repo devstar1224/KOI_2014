@@ -1,0 +1,733 @@
+ high
+
+ Timestamp is 535278de (Sat Apr 19 22:23:42 2014)
+
+ Preferred load address is 00400000
+
+ Start         Length     Name                   Class
+ 0001:00000000 00000118H .idata$5                CODE
+ 0001:00000118 00000908H .rdata                  CODE
+ 0001:00000a20 0001a450H .text                   CODE
+ 0001:0001ae70 00000004H .text$0                 CODE
+ 0001:0001ae80 000150e0H .text$1                 CODE
+ 0001:0002ff60 00000004H .text$2                 CODE
+ 0001:0002ff64 00000014H .idata$2                CODE
+ 0001:0002ff78 00000014H .idata$3                CODE
+ 0001:0002ff8c 00000118H .idata$4                CODE
+ 0001:000300a4 00000434H .idata$6                CODE
+ 0001:000304d8 00000000H .edata                  CODE
+ 0002:00000000 00000004H .data                   DATA
+ 0002:00000008 0000a1a0H .bss                    DATA
+ 0003:00000000 00000118H .rsrc$01                DATA
+ 0003:00000120 000009c8H .rsrc$02                DATA
+
+  Address         Publics by Value              Rva+Base     Lib:Object
+
+ 0001:00000000       __imp____vbaVarSub         00401000     high.OBJ
+ 0001:00000000       __imp_@__vbaVarSub         00401000     high.OBJ
+ 0001:00000004       __imp___CIcos              00401004     high.OBJ
+ 0001:00000008       __imp___adj_fptan          00401008     high.OBJ
+ 0001:0000000c       __imp____vbaVarMove        0040100c     high.OBJ
+ 0001:0000000c       __imp_@__vbaVarMove        0040100c     high.OBJ
+ 0001:00000010       __imp_@__vbaFreeVar        00401010     high.OBJ
+ 0001:00000010       __imp____vbaFreeVar        00401010     high.OBJ
+ 0001:00000014       __imp____vbaStrVarMove     00401014     high.OBJ
+ 0001:00000014       __imp_@__vbaStrVarMove     00401014     high.OBJ
+ 0001:00000018       __imp____vbaFreeVarList    00401018     high.OBJ
+ 0001:00000018       __imp_@__vbaFreeVarList    00401018     high.OBJ
+ 0001:0000001c       __imp_@__vbaEnd            0040101c     high.OBJ
+ 0001:0000001c       __imp____vbaEnd            0040101c     high.OBJ
+ 0001:00000020       __imp___adj_fdiv_m64       00401020     high.OBJ
+ 0001:00000024       __imp_@__vbaFreeObjList    00401024     high.OBJ
+ 0001:00000024       __imp____vbaFreeObjList    00401024     high.OBJ
+ 0001:00000028       __imp___adj_fprem1         00401028     high.OBJ
+ 0001:0000002c       __imp____vbaStrCat         0040102c     high.OBJ
+ 0001:0000002c       __imp_@__vbaStrCat         0040102c     high.OBJ
+ 0001:00000030       __imp_@__vbaSetSystemError 00401030     high.OBJ
+ 0001:00000030       __imp____vbaSetSystemError 00401030     high.OBJ
+ 0001:00000034       __imp____vbaHresultCheckObj 00401034     high.OBJ
+ 0001:00000034       __imp_@__vbaHresultCheckObj 00401034     high.OBJ
+ 0001:00000038       __imp___adj_fdiv_m32       00401038     high.OBJ
+ 0001:0000003c       __imp_@__vbaVarTstLe       0040103c     high.OBJ
+ 0001:0000003c       __imp____vbaVarTstLe       0040103c     high.OBJ
+ 0001:00000040       __imp____vbaLateMemSt      00401040     high.OBJ
+ 0001:00000040       __imp_@__vbaLateMemSt      00401040     high.OBJ
+ 0001:00000044       __imp____vbaOnError        00401044     high.OBJ
+ 0001:00000044       __imp_@__vbaOnError        00401044     high.OBJ
+ 0001:00000048       __imp____vbaObjSet         00401048     high.OBJ
+ 0001:00000048       __imp_@__vbaObjSet         00401048     high.OBJ
+ 0001:0000004c       __imp___adj_fdiv_m16i      0040104c     high.OBJ
+ 0001:00000050       __imp____vbaObjSetAddref   00401050     high.OBJ
+ 0001:00000050       __imp_@__vbaObjSetAddref   00401050     high.OBJ
+ 0001:00000054       __imp___adj_fdivr_m16i     00401054     high.OBJ
+ 0001:00000058       __imp_@__vbaFpR4           00401058     high.OBJ
+ 0001:00000058       __imp____vbaFpR4           00401058     high.OBJ
+ 0001:0000005c       __imp____vbaBoolVar        0040105c     high.OBJ
+ 0001:0000005c       __imp_@__vbaBoolVar        0040105c     high.OBJ
+ 0001:00000060       __imp____vbaBoolVarNull    00401060     high.OBJ
+ 0001:00000060       __imp_@__vbaBoolVarNull    00401060     high.OBJ
+ 0001:00000064       __imp____vbaFpR8           00401064     high.OBJ
+ 0001:00000064       __imp_@__vbaFpR8           00401064     high.OBJ
+ 0001:00000068       __imp___CIsin              00401068     high.OBJ
+ 0001:0000006c       __imp____vbaChkstk         0040106c     high.OBJ
+ 0001:00000074       __imp____vbaI2I4           00401074     high.OBJ
+ 0001:00000074       __imp_@__vbaI2I4           00401074     high.OBJ
+ 0001:0000007c       __imp___adj_fpatan         0040107c     high.OBJ
+ 0001:00000080       __imp_@__vbaR4Var          00401080     high.OBJ
+ 0001:00000080       __imp____vbaR4Var          00401080     high.OBJ
+ 0001:00000088       __imp____vba@06E29BD8      00401088     high.OBJ
+ 0001:00000088       __imp_@__vba@06E29BD8      00401088     high.OBJ
+ 0001:0000008c       __imp___CIsqrt             0040108c     high.OBJ
+ 0001:00000090       __imp_@__vbaVarAnd         00401090     high.OBJ
+ 0001:00000090       __imp____vbaVarAnd         00401090     high.OBJ
+ 0001:00000098       __imp____vbaExceptHandler  00401098     high.OBJ
+ 0001:0000009c       __imp_@__vbaStrToUnicode   0040109c     high.OBJ
+ 0001:0000009c       __imp____vbaStrToUnicode   0040109c     high.OBJ
+ 0001:000000a0       __imp___adj_fprem          004010a0     high.OBJ
+ 0001:000000a4       __imp___adj_fdivr_m64      004010a4     high.OBJ
+ 0001:000000a8       __imp____vbaVarDiv         004010a8     high.OBJ
+ 0001:000000a8       __imp_@__vbaVarDiv         004010a8     high.OBJ
+ 0001:000000ac       __imp____vbaVarCmpLe       004010ac     high.OBJ
+ 0001:000000ac       __imp_@__vbaVarCmpLe       004010ac     high.OBJ
+ 0001:000000b0       __imp____vbaFPException    004010b0     high.OBJ
+ 0001:000000b4       __imp_@__vba@06DCF85C      004010b4     high.OBJ
+ 0001:000000b4       __imp____vba@06DCF85C      004010b4     high.OBJ
+ 0001:000000b8       __imp___CIlog              004010b8     high.OBJ
+ 0001:000000bc       __imp____vbaErrorOverflow  004010bc     high.OBJ
+ 0001:000000bc       __imp_@__vbaErrorOverflow  004010bc     high.OBJ
+ 0001:000000c0       __imp____vbaNew2           004010c0     high.OBJ
+ 0001:000000c0       __imp_@__vbaNew2           004010c0     high.OBJ
+ 0001:000000c4       __imp___adj_fdiv_m32i      004010c4     high.OBJ
+ 0001:000000c8       __imp___adj_fdivr_m32i     004010c8     high.OBJ
+ 0001:000000cc       __imp____vbaStrCopy        004010cc     high.OBJ
+ 0001:000000cc       __imp_@__vbaStrCopy        004010cc     high.OBJ
+ 0001:000000d0       __imp____vbaVarCmpLt       004010d0     high.OBJ
+ 0001:000000d0       __imp_@__vbaVarCmpLt       004010d0     high.OBJ
+ 0001:000000d4       __imp____vbaFreeStrList    004010d4     high.OBJ
+ 0001:000000d4       __imp_@__vbaFreeStrList    004010d4     high.OBJ
+ 0001:000000d8       __imp___adj_fdivr_m32      004010d8     high.OBJ
+ 0001:000000dc       __imp___adj_fdiv_r         004010dc     high.OBJ
+ 0001:000000e4       __imp_@__vbaI4Var          004010e4     high.OBJ
+ 0001:000000e4       __imp____vbaI4Var          004010e4     high.OBJ
+ 0001:000000e8       __imp_@__vbaStrToAnsi      004010e8     high.OBJ
+ 0001:000000e8       __imp____vbaStrToAnsi      004010e8     high.OBJ
+ 0001:000000ec       __imp____vbaFpI4           004010ec     high.OBJ
+ 0001:000000ec       __imp_@__vbaFpI4           004010ec     high.OBJ
+ 0001:000000f0       __imp____vbaLateMemCallLd  004010f0     high.OBJ
+ 0001:000000f0       __imp_@__vbaLateMemCallLd  004010f0     high.OBJ
+ 0001:000000f4       __imp___CIatan             004010f4     high.OBJ
+ 0001:000000f8       __imp_@__vbaStrMove        004010f8     high.OBJ
+ 0001:000000f8       __imp____vbaStrMove        004010f8     high.OBJ
+ 0001:000000fc       __imp___allmul             004010fc     high.OBJ
+ 0001:00000100       __imp_@__vbaLenVarB        00401100     high.OBJ
+ 0001:00000100       __imp____vbaLenVarB        00401100     high.OBJ
+ 0001:00000104       __imp___CItan              00401104     high.OBJ
+ 0001:00000108       __imp___CIexp              00401108     high.OBJ
+ 0001:0000010c       __imp_@__vbaFreeStr        0040110c     high.OBJ
+ 0001:0000010c       __imp____vbaFreeStr        0040110c     high.OBJ
+ 0001:00000110       __imp_@__vbaFreeObj        00401110     high.OBJ
+ 0001:00000110       __imp____vbaFreeObj        00401110     high.OBJ
+ 0001:00000204       __real@4@4003d000000000000000 00401204     VSKIN.OBJ
+ 0001:00000208       __real@4@40039000000000000000 00401208     VSKIN.OBJ
+ 0001:0000020c       __real@4@4002a000000000000000 0040120c     VSKIN.OBJ
+ 0001:00000210       __real@4@4002f000000000000000 00401210     VSKIN.OBJ
+ 0001:00000214       __real@4@4003a000000000000000 00401214     VSKIN.OBJ
+ 0001:00000240       __real@4@4003f000000000000000 00401240     VSKIN.OBJ
+ 0001:00000248       __real@8@4000c000000000000000 00401248     VSKIN.OBJ
+ 0001:000002f8       __real@4@00000000000000000000 004012f8     VSKIN.OBJ
+ 0001:000002fc       __real@4@40038000000000000000 004012fc     VSKIN.OBJ
+ 0001:00000a20       VB@TEXT                    00401a20     high.OBJ
+ 0001:00000a20       ___vbaChkstk               00401a20     high.OBJ
+ 0001:00000a26       ___vbaExceptHandler        00401a26     high.OBJ
+ 0001:00000a2c       ___vbaFPException          00401a2c     high.OBJ
+ 0001:00000a32       __adj_fdiv_m16i            00401a32     high.OBJ
+ 0001:00000a38       __adj_fdiv_m32             00401a38     high.OBJ
+ 0001:00000a3e       __adj_fdiv_m32i            00401a3e     high.OBJ
+ 0001:00000a44       __adj_fdiv_m64             00401a44     high.OBJ
+ 0001:00000a4a       __adj_fdiv_r               00401a4a     high.OBJ
+ 0001:00000a50       __adj_fdivr_m16i           00401a50     high.OBJ
+ 0001:00000a56       __adj_fdivr_m32            00401a56     high.OBJ
+ 0001:00000a5c       __adj_fdivr_m32i           00401a5c     high.OBJ
+ 0001:00000a62       __adj_fdivr_m64            00401a62     high.OBJ
+ 0001:00000a68       __adj_fpatan               00401a68     high.OBJ
+ 0001:00000a6e       __adj_fprem                00401a6e     high.OBJ
+ 0001:00000a74       __adj_fprem1               00401a74     high.OBJ
+ 0001:00000a7a       __adj_fptan                00401a7a     high.OBJ
+ 0001:00000a80       __CIatan                   00401a80     high.OBJ
+ 0001:00000a86       __CIcos                    00401a86     high.OBJ
+ 0001:00000a8c       __CIexp                    00401a8c     high.OBJ
+ 0001:00000a92       __CIlog                    00401a92     high.OBJ
+ 0001:00000a98       __CIsin                    00401a98     high.OBJ
+ 0001:00000a9e       __CIsqrt                   00401a9e     high.OBJ
+ 0001:00000aa4       __CItan                    00401aa4     high.OBJ
+ 0001:00000aaa       __allmul                   00401aaa     high.OBJ
+ 0001:00000ab6       @__vbaEnd                  00401ab6     high.OBJ
+ 0001:00000ab6       ___vbaEnd                  00401ab6     high.OBJ
+ 0001:00000abc       ___vbaFreeVar              00401abc     high.OBJ
+ 0001:00000abc       @__vbaFreeVar              00401abc     high.OBJ
+ 0001:00000ac2       @__vba@06E29BD8            00401ac2     high.OBJ
+ 0001:00000ac2       ___vba@06E29BD8            00401ac2     high.OBJ
+ 0001:00000ac8       ___vbaObjSetAddref         00401ac8     high.OBJ
+ 0001:00000ac8       @__vbaObjSetAddref         00401ac8     high.OBJ
+ 0001:00000ace       ___vbaFreeObj              00401ace     high.OBJ
+ 0001:00000ace       @__vbaFreeObj              00401ace     high.OBJ
+ 0001:00000ad4       @__vbaFreeStrList          00401ad4     high.OBJ
+ 0001:00000ad4       ___vbaFreeStrList          00401ad4     high.OBJ
+ 0001:00000ada       ___vbaSetSystemError       00401ada     high.OBJ
+ 0001:00000ada       @__vbaSetSystemError       00401ada     high.OBJ
+ 0001:00000ae0       ___vbaStrCat               00401ae0     high.OBJ
+ 0001:00000ae0       @__vbaStrCat               00401ae0     high.OBJ
+ 0001:00000ae6       ___vbaStrMove              00401ae6     high.OBJ
+ 0001:00000ae6       @__vbaStrMove              00401ae6     high.OBJ
+ 0001:00000aec       @__vbaStrToAnsi            00401aec     high.OBJ
+ 0001:00000aec       ___vbaStrToAnsi            00401aec     high.OBJ
+ 0001:00000af2       @__vbaHresultCheckObj      00401af2     high.OBJ
+ 0001:00000af2       ___vbaHresultCheckObj      00401af2     high.OBJ
+ 0001:00000af8       @__vbaNew2                 00401af8     high.OBJ
+ 0001:00000af8       ___vbaNew2                 00401af8     high.OBJ
+ 0001:00000afe       @__vbaBoolVar              00401afe     high.OBJ
+ 0001:00000afe       ___vbaBoolVar              00401afe     high.OBJ
+ 0001:00000b04       @__vbaStrVarMove           00401b04     high.OBJ
+ 0001:00000b04       ___vbaStrVarMove           00401b04     high.OBJ
+ 0001:00000b0a       ___vbaStrCopy              00401b0a     high.OBJ
+ 0001:00000b0a       @__vbaStrCopy              00401b0a     high.OBJ
+ 0001:00000b10       @__vbaVarDiv               00401b10     high.OBJ
+ 0001:00000b10       ___vbaVarDiv               00401b10     high.OBJ
+ 0001:00000b16       @__vbaVarCmpLe             00401b16     high.OBJ
+ 0001:00000b16       ___vbaVarCmpLe             00401b16     high.OBJ
+ 0001:00000b1c       ___vbaFpR4                 00401b1c     high.OBJ
+ 0001:00000b1c       @__vbaFpR4                 00401b1c     high.OBJ
+ 0001:00000b22       @__vbaI2I4                 00401b22     high.OBJ
+ 0001:00000b22       ___vbaI2I4                 00401b22     high.OBJ
+ 0001:00000b28       ___vbaFpR8                 00401b28     high.OBJ
+ 0001:00000b28       @__vbaFpR8                 00401b28     high.OBJ
+ 0001:00000b2e       @__vbaVarSub               00401b2e     high.OBJ
+ 0001:00000b2e       ___vbaVarSub               00401b2e     high.OBJ
+ 0001:00000b34       ___vbaVarTstLe             00401b34     high.OBJ
+ 0001:00000b34       @__vbaVarTstLe             00401b34     high.OBJ
+ 0001:00000b3a       ___vbaVarCmpLt             00401b3a     high.OBJ
+ 0001:00000b3a       @__vbaVarCmpLt             00401b3a     high.OBJ
+ 0001:00000b40       ___vbaVarAnd               00401b40     high.OBJ
+ 0001:00000b40       @__vbaVarAnd               00401b40     high.OBJ
+ 0001:00000b46       ___vbaBoolVarNull          00401b46     high.OBJ
+ 0001:00000b46       @__vbaBoolVarNull          00401b46     high.OBJ
+ 0001:00000b4c       ___vbaVarMove              00401b4c     high.OBJ
+ 0001:00000b4c       @__vbaVarMove              00401b4c     high.OBJ
+ 0001:00000b52       ___vbaErrorOverflow        00401b52     high.OBJ
+ 0001:00000b52       @__vbaErrorOverflow        00401b52     high.OBJ
+ 0001:00000b58       ___vbaR4Var                00401b58     high.OBJ
+ 0001:00000b58       @__vbaR4Var                00401b58     high.OBJ
+ 0001:00000b5e       ___vbaLateMemSt            00401b5e     high.OBJ
+ 0001:00000b5e       @__vbaLateMemSt            00401b5e     high.OBJ
+ 0001:00000b64       @__vbaLateMemCallLd        00401b64     high.OBJ
+ 0001:00000b64       ___vbaLateMemCallLd        00401b64     high.OBJ
+ 0001:00000b6a       ___vbaFreeVarList          00401b6a     high.OBJ
+ 0001:00000b6a       @__vbaFreeVarList          00401b6a     high.OBJ
+ 0001:00000b70       ___vbaFreeStr              00401b70     high.OBJ
+ 0001:00000b70       @__vbaFreeStr              00401b70     high.OBJ
+ 0001:00000b76       ___vbaStrToUnicode         00401b76     high.OBJ
+ 0001:00000b76       @__vbaStrToUnicode         00401b76     high.OBJ
+ 0001:00000b7c       @__vba@06DCF85C            00401b7c     high.OBJ
+ 0001:00000b7c       ___vba@06DCF85C            00401b7c     high.OBJ
+ 0001:00000b82       @__vbaLenVarB              00401b82     high.OBJ
+ 0001:00000b82       ___vbaLenVarB              00401b82     high.OBJ
+ 0001:00000b88       @__vbaI4Var                00401b88     high.OBJ
+ 0001:00000b88       ___vbaI4Var                00401b88     high.OBJ
+ 0001:00000b8e       ___vbaFreeObjList          00401b8e     high.OBJ
+ 0001:00000b8e       @__vbaFreeObjList          00401b8e     high.OBJ
+ 0001:00000b94       ___vbaFpI4                 00401b94     high.OBJ
+ 0001:00000b94       @__vbaFpI4                 00401b94     high.OBJ
+ 0001:00000b9a       @__vbaObjSet               00401b9a     high.OBJ
+ 0001:00000b9a       ___vbaObjSet               00401b9a     high.OBJ
+ 0001:00000ba0       @__vbaOnError              00401ba0     high.OBJ
+ 0001:00000ba0       ___vbaOnError              00401ba0     high.OBJ
+ 0001:00000bc0       ___vbaS                    00401bc0     high.OBJ
+ 0001:00001bac       ___vba@06D841D4            00402bac     high.OBJ
+ 0001:00001f9c       ___vba@06E19E94            00402f9c     high.OBJ
+ 0001:000024a8       ___vba@06CA2E9C            004034a8     high.OBJ
+ 0001:000029b4       ___vba@06E1A2E4            004039b4     high.OBJ
+ 0001:00002f58       ___vba@06DEE0AC            00403f58     high.OBJ
+ 0001:000034fc       ___vba@06E1A734            004044fc     high.OBJ
+ 0001:00003aa0       ___vba@06E17FAC            00404aa0     high.OBJ
+ 0001:00004044       ___vba@06E183FC            00405044     high.OBJ
+ 0001:000045e8       ___vba@06CA32EC            004055e8     high.OBJ
+ 0001:00004b8c       ___vba@06D1DFE4            00405b8c     high.OBJ
+ 0001:00005130       ___vba@06CA2A4C            00406130     high.OBJ
+ 0001:000056d4       ___vba@06E1AB84            004066d4     high.OBJ
+ 0001:00005c78       ___vba@06CA25FC            00406c78     high.OBJ
+ 0001:0000621c       ___vba@06E2826C            0040721c     high.OBJ
+ 0001:000067c0       ___vba@06DEDC5C            004077c0     high.OBJ
+ 0001:00006d64       ___vba@06E27E1C            00407d64     high.OBJ
+ 0001:00007308       ___vba@06DED80C            00408308     high.OBJ
+ 0001:000078ac       ___vba@06E1884C            004088ac     high.OBJ
+ 0001:00007e50       ___vba@06E286BC            00408e50     high.OBJ
+ 0001:000083f4       ___vba@06E279CC            004093f4     high.OBJ
+ 0001:00009028       ___vba@06D1E434            0040a028     high.OBJ
+ 0001:00009d68       ___vba@06D83FAC            0040ad68     high.OBJ
+ 0001:0000a474       ___vba@06D84004            0040b474     high.OBJ
+ 0001:0000a47c       ___vba@06D84010            0040b47c     high.OBJ
+ 0001:0000a484       ___vba@06D8401C            0040b484     high.OBJ
+ 0001:0000a48c       ___vba@06D84028            0040b48c     high.OBJ
+ 0001:0000a494       ___vba@06D84034            0040b494     high.OBJ
+ 0001:0000a49c       ___vba@06D84040            0040b49c     high.OBJ
+ 0001:0000a4a4       ___vba@06D8404C            0040b4a4     high.OBJ
+ 0001:0000a4ac       ___vba@06D84058            0040b4ac     high.OBJ
+ 0001:0000a4b4       ___vba@06D84064            0040b4b4     high.OBJ
+ 0001:0000a4bc       ___vba@06D84070            0040b4bc     high.OBJ
+ 0001:0000a4c4       ___vba@06D8407C            0040b4c4     high.OBJ
+ 0001:0000a4cc       ___vba@06D84088            0040b4cc     high.OBJ
+ 0001:0000a4d4       ___vba@06D84094            0040b4d4     high.OBJ
+ 0001:0000a4dc       ___vba@06D840A0            0040b4dc     high.OBJ
+ 0001:0000a4e4       ___vba@06D840AC            0040b4e4     high.OBJ
+ 0001:0000a4ec       ___vba@06D840B8            0040b4ec     high.OBJ
+ 0001:0000a4f4       ___vba@06D840C4            0040b4f4     high.OBJ
+ 0001:0000a4fc       ___vba@06D840D0            0040b4fc     high.OBJ
+ 0001:0000a504       ___vba@06D840DC            0040b504     high.OBJ
+ 0001:0000a50c       ___vba@06D840E8            0040b50c     high.OBJ
+ 0001:0000a514       ___vba@06D840F4            0040b514     high.OBJ
+ 0001:0000a51c       ___vba@06D84100            0040b51c     high.OBJ
+ 0001:0000a528       ___vba@06D84110            0040b528     high.OBJ
+ 0001:0000a538       ___vba@06D84124            0040b538     high.OBJ
+ 0001:0000a548       ___vba@06D84138            0040b548     high.OBJ
+ 0001:0000a558       ___vba@06D8414C            0040b558     high.OBJ
+ 0001:0000a568       ___vba@06D84160            0040b568     high.OBJ
+ 0001:0000a578       ___vba@06D84174            0040b578     high.OBJ
+ 0001:0000a580       ___vba@06D84180            0040b580     high.OBJ
+ 0001:0000a590       ___vba@06D84194            0040b590     high.OBJ
+ 0001:0000a5a4       ___vba@06D7DF1C            0040b5a4     high.OBJ
+ 0001:0000a5e0       ___vba@06D7DF5C            0040b5e0     high.OBJ
+ 0001:0000a5e4       ___vba@06D7DF64            0040b5e4     high.OBJ
+ 0001:0000a60c       ___vba@06D7DF90            0040b60c     high.OBJ
+ 0001:0000a61c       ___vba@06D7DFA4            0040b61c     high.OBJ
+ 0001:0000a624       ___vba@06D7DFB0            0040b624     high.OBJ
+ 0001:0000a634       ___vba@06D7DFC4            0040b634     high.OBJ
+ 0001:0000a63c       ___vba@06D7DFD0            0040b63c     high.OBJ
+ 0001:0000a64c       ___vba@06D7DFE4            0040b64c     high.OBJ
+ 0001:0000a658       ___vba@06D7DFF4            0040b658     high.OBJ
+ 0001:0000a664       ___vba@06D7E004            0040b664     high.OBJ
+ 0001:0000a670       ___vba@06D7E014            0040b670     high.OBJ
+ 0001:0000a67c       ___vba@06D7E024            0040b67c     high.OBJ
+ 0001:0000a688       ___vba@06D7E030            0040b688     high.OBJ
+ 0001:0000a698       ___vba@06D7E044            0040b698     high.OBJ
+ 0001:0000a6bc       ___vba@06D7E058            0040b6bc     high.OBJ
+ 0001:0000a6dc       ___vba@06D7E090            0040b6dc     high.OBJ
+ 0001:0000a704       ___vba@06D7E0A8            0040b704     high.OBJ
+ 0001:0000a720       ___vba@06D7E0E0            0040b720     high.OBJ
+ 0001:0000a72c       ___vba@06D7E0F0            0040b72c     high.OBJ
+ 0001:0000a73c       ___vba@06D7E104            0040b73c     high.OBJ
+ 0001:0000a750       ___vba@06E29694            0040b750     high.OBJ
+ 0001:0000a764       ___vba@06E296A8            0040b764     high.OBJ
+ 0001:0000a76c       ___vba@06E296B4            0040b76c     high.OBJ
+ 0001:0000a78c       ___vba@06E296DC            0040b78c     high.OBJ
+ 0001:0000a79c       ___vba@06E296F0            0040b79c     high.OBJ
+ 0001:0000a7ac       ___vba@06E29704            0040b7ac     high.OBJ
+ 0001:0000a7bc       ___vba@06E29718            0040b7bc     high.OBJ
+ 0001:0000a7cc       ___vba@06E2972C            0040b7cc     high.OBJ
+ 0001:0000a7d8       ___vba@06E2973C            0040b7d8     high.OBJ
+ 0001:0000a7e8       ___vba@06E2974C            0040b7e8     high.OBJ
+ 0001:0000a800       ___vba@06E29768            0040b800     high.OBJ
+ 0001:0000a828       ___vba@06E29798            0040b828     high.OBJ
+ 0001:0000a838       ___vba@06E297AC            0040b838     high.OBJ
+ 0001:0000a848       ___vba@06E297C0            0040b848     high.OBJ
+ 0001:0000a858       ___vba@06E297D4            0040b858     high.OBJ
+ 0001:0000a868       ___vba@06E297E8            0040b868     high.OBJ
+ 0001:0000a874       ___vba@06E297F8            0040b874     high.OBJ
+ 0001:0000a880       ___vba@06E29808            0040b880     high.OBJ
+ 0001:0000a88c       ___vba@06E29818            0040b88c     high.OBJ
+ 0001:0000a898       ___vba@06E29828            0040b898     high.OBJ
+ 0001:0000a8a4       ___vba@06E29838            0040b8a4     high.OBJ
+ 0001:0000a8b0       ___vba@06E29848            0040b8b0     high.OBJ
+ 0001:0000a8bc       ___vba@06E29858            0040b8bc     high.OBJ
+ 0001:0000a8c8       ___vba@06E29868            0040b8c8     high.OBJ
+ 0001:0000a8d4       ___vba@06E29878            0040b8d4     high.OBJ
+ 0001:0000a8e0       ___vba@06E29AE4            0040b8e0     high.OBJ
+ 0001:0000a8ec       ___vba@06E29AF4            0040b8ec     high.OBJ
+ 0001:0000a8f8       ___vba@06E29B04            0040b8f8     high.OBJ
+ 0001:0000a904       ___vba@06E29B14            0040b904     high.OBJ
+ 0001:0000a910       ___vba@06E29B24            0040b910     high.OBJ
+ 0001:0000a91c       ___vba@06E29B34            0040b91c     high.OBJ
+ 0001:0000a928       ___vba@06E29B44            0040b928     high.OBJ
+ 0001:0000a934       ___vba@06E29B8C            0040b934     high.OBJ
+ 0001:0000a944       ___vba@06E29C10            0040b944     high.OBJ
+ 0001:0000a960       ___vba@06E29C6C            0040b960     high.OBJ
+ 0001:0000a970       ___vba@06E29CB8            0040b970     high.OBJ
+ 0001:0000a984       ___vba@06E29CD0            0040b984     high.OBJ
+ 0001:0000a994       ___vba@06174C44            0040b994     high.OBJ
+ 0001:0000a9a8       ___vba@06174C94            0040b9a8     high.OBJ
+ 0001:0000a9b4       ___vba@06174CDC            0040b9b4     high.OBJ
+ 0001:0000a9c4       ___vba@06174D28            0040b9c4     high.OBJ
+ 0001:0000a9d4       ___vba@06174D74            0040b9d4     high.OBJ
+ 0001:0000a9ec       ___vba@06174DC8            0040b9ec     high.OBJ
+ 0001:0000a9f8       ___vba@06174DD8            0040b9f8     high.OBJ
+ 0001:0000aa0c       ___vba@06174DF0            0040ba0c     high.OBJ
+ 0001:0000aa1c       ___vba@06174E6C            0040ba1c     high.OBJ
+ 0001:0000aa2c       ___vba@06174E80            0040ba2c     high.OBJ
+ 0001:0000aa3c       ___vba@06174E94            0040ba3c     high.OBJ
+ 0001:0000aa4c       ___vba@06174EA8            0040ba4c     high.OBJ
+ 0001:0000aa5c       ___vba@06174EBC            0040ba5c     high.OBJ
+ 0001:0000aa6c       ___vba@06174ED0            0040ba6c     high.OBJ
+ 0001:0000aa7c       ___vba@06174EE4            0040ba7c     high.OBJ
+ 0001:0000aa88       ___vba@06174EF4            0040ba88     high.OBJ
+ 0001:0000aa94       ___vba@06174F04            0040ba94     high.OBJ
+ 0001:0000aaa4       ___vba@06174F18            0040baa4     high.OBJ
+ 0001:0000aab0       ___vba@06174F28            0040bab0     high.OBJ
+ 0001:0000aabc       ___vba@06174F38            0040babc     high.OBJ
+ 0001:0000aacc       ___vba@06174F48            0040bacc     high.OBJ
+ 0001:0000aadc       ___vba@06174F5C            0040badc     high.OBJ
+ 0001:0000ab04       ___vba@06174F74            0040bb04     high.OBJ
+ 0001:0000ab24       ___vba@06174FAC            0040bb24     high.OBJ
+ 0001:0000ab4c       ___vba@06174FC4            0040bb4c     high.OBJ
+ 0001:0000ab6c       ___vba@06174FFC            0040bb6c     high.OBJ
+ 0001:0000ab78       ___vba@0617500C            0040bb78     high.OBJ
+ 0001:0000aba8       ___vba@0617505C            0040bba8     high.OBJ
+ 0001:0000abc8       ___vba@06175094            0040bbc8     high.OBJ
+ 0001:0000abd8       ___vba@061750A8            0040bbd8     high.OBJ
+ 0001:0000abfc       ___vba@061750BC            0040bbfc     high.OBJ
+ 0001:0000ac1c       ___vba@061750F4            0040bc1c     high.OBJ
+ 0001:0000ac40       ___vba@06175108            0040bc40     high.OBJ
+ 0001:0000ac60       ___vba@06175140            0040bc60     high.OBJ
+ 0001:0000ac80       ___vba@06175150            0040bc80     high.OBJ
+ 0001:0000aca0       ___vba@06175188            0040bca0     high.OBJ
+ 0001:0000acc8       ___vba@061751A0            0040bcc8     high.OBJ
+ 0001:0000ace8       ___vba@061751D8            0040bce8     high.OBJ
+ 0001:0000ad0c       ___vba@061751EC            0040bd0c     high.OBJ
+ 0001:0000ad2c       ___vba@06175224            0040bd2c     high.OBJ
+ 0001:0000ad38       ___vba@06175238            0040bd38     high.OBJ
+ 0001:0000ad44       ___vba@06175248            0040bd44     high.OBJ
+ 0001:0000ad6c       ___vba@06175284            0040bd6c     high.OBJ
+ 0001:0000ad8c       ___vba@061752BC            0040bd8c     high.OBJ
+ 0001:0000adb4       ___vba@061752D4            0040bdb4     high.OBJ
+ 0001:0000add4       ___vba@0617530C            0040bdd4     high.OBJ
+ 0001:0000adfc       ___vba@06175324            0040bdfc     high.OBJ
+ 0001:0000ae18       ___vba@0617535C            0040be18     high.OBJ
+ 0001:0000ae24       ___vba@0617536C            0040be24     high.OBJ
+ 0001:0000ae30       ___vba@0617537C            0040be30     high.OBJ
+ 0001:0000ae38       ___vba@06175388            0040be38     high.OBJ
+ 0001:0000ae40       ___vba@06175394            0040be40     high.OBJ
+ 0001:0000ae50       ___vba@061753A8            0040be50     high.OBJ
+ 0001:0000ae60       ___vba@061753BC            0040be60     high.OBJ
+ 0001:0000ae6c       ___vba@061753CC            0040be6c     high.OBJ
+ 0001:0000ae78       ___vba@061753DC            0040be78     high.OBJ
+ 0001:0000ae80       ___vba@061753E8            0040be80     high.OBJ
+ 0001:0000ae90       ___vba@061753FC            0040be90     high.OBJ
+ 0001:0000ae9c       ___vba@0617540C            0040be9c     high.OBJ
+ 0001:0000aeb8       ___vba@06175428            0040beb8     high.OBJ
+ 0001:0000aec8       ___vba@06175440            0040bec8     high.OBJ
+ 0001:0000aedc       ___vba@06175454            0040bedc     high.OBJ
+ 0001:0000aeec       ___vba@0617546C            0040beec     high.OBJ
+ 0001:0000af00       ___vba@06175934            0040bf00     high.OBJ
+ 0001:0000af10       ___vba@06175980            0040bf10     high.OBJ
+ 0001:0000af20       ___vba@061759CC            0040bf20     high.OBJ
+ 0001:0000af2c       ___vba@06175A14            0040bf2c     high.OBJ
+ 0001:0000af3c       ___vba@06175A60            0040bf3c     high.OBJ
+ 0001:0000af48       ___vba@06175AA8            0040bf48     high.OBJ
+ 0001:0000af54       ___vba@06DCF40C            0040bf54     high.OBJ
+ 0001:0000af60       ___vba@06DCF454            0040bf60     high.OBJ
+ 0001:0000af70       ___vba@06DCF4A0            0040bf70     high.OBJ
+ 0001:0000af80       ___vba@06DCF4EC            0040bf80     high.OBJ
+ 0001:0000af8c       ___vba@06DCF534            0040bf8c     high.OBJ
+ 0001:0000afa0       ___vba@06DCF584            0040bfa0     high.OBJ
+ 0001:0000afb0       ___vba@06DCF634            0040bfb0     high.OBJ
+ 0001:0000afbc       ___vba@06DCF67C            0040bfbc     high.OBJ
+ 0001:0000afcc       ___vba@06DCF6C8            0040bfcc     high.OBJ
+ 0001:0000afe0       ___vba@06DCF718            0040bfe0     high.OBJ
+ 0001:0000aff4       ___vba@06DCF768            0040bff4     high.OBJ
+ 0001:0000b004       ___vba@06DCF7B4            0040c004     high.OBJ
+ 0001:0000b018       ___vba@06DCF7CC            0040c018     high.OBJ
+ 0001:0000b028       ___vba@06DCF7E0            0040c028     high.OBJ
+ 0001:0000b038       ___vba@06DCF894            0040c038     high.OBJ
+ 0001:0000b048       ___vba@06DCF8E0            0040c048     high.OBJ
+ 0001:0000b054       ___vba@06DCF928            0040c054     high.OBJ
+ 0001:0000b068       ___vba@06DCF978            0040c068     high.OBJ
+ 0001:0000b074       ___vba@06DCF9C0            0040c074     high.OBJ
+ 0001:0000b080       ___vba@06DCFA08            0040c080     high.OBJ
+ 0001:0000b090       ___vba@06DCFA84            0040c090     high.OBJ
+ 0001:0000b0a0       ___vba@06DCFA98            0040c0a0     high.OBJ
+ 0001:0000b0b0       ___vba@06DCFAAC            0040c0b0     high.OBJ
+ 0001:0000b0c0       ___vba@06DCFAC0            0040c0c0     high.OBJ
+ 0001:0000b0d0       ___vba@06DCFAD4            0040c0d0     high.OBJ
+ 0001:0000b0e0       ___vba@06DCFAE8            0040c0e0     high.OBJ
+ 0001:0000b0f0       ___vba@06DCFAFC            0040c0f0     high.OBJ
+ 0001:0000b100       ___vba@06DCFB10            0040c100     high.OBJ
+ 0001:0000b114       ___vba@06DCFB24            0040c114     high.OBJ
+ 0001:0000b144       ___vba@06DCFB5C            0040c144     high.OBJ
+ 0001:0000b154       ___vba@06DCFB70            0040c154     high.OBJ
+ 0001:0000b164       ___vba@06DCFB84            0040c164     high.OBJ
+ 0001:0000b174       ___vba@06DCFB98            0040c174     high.OBJ
+ 0001:0000b184       ___vba@06DCFBAC            0040c184     high.OBJ
+ 0001:0000b194       ___vba@06DCFBC0            0040c194     high.OBJ
+ 0001:0000b1a4       ___vba@06DCFBD4            0040c1a4     high.OBJ
+ 0001:0000b1b4       ___vba@06DCFBE8            0040c1b4     high.OBJ
+ 0001:0000b1c8       ___vba@06DCFBFC            0040c1c8     high.OBJ
+ 0001:0000b1f0       ___vba@06DCFC2C            0040c1f0     high.OBJ
+ 0001:0000b200       ___vba@06DCFC74            0040c200     high.OBJ
+ 0001:0000b210       ___vba@06DCFC88            0040c210     high.OBJ
+ 0001:0000b224       ___vba@06DCFC9C            0040c224     high.OBJ
+ 0001:0000b250       ___vba@06DCFCD0            0040c250     high.OBJ
+ 0001:0000b260       ___vba@06DCFCE4            0040c260     high.OBJ
+ 0001:0000b270       ___vba@06DCFCF8            0040c270     high.OBJ
+ 0001:0000b280       ___vba@06DCFD0C            0040c280     high.OBJ
+ 0001:0000b290       ___vba@06DCFD20            0040c290     high.OBJ
+ 0001:0000b2a0       ___vba@06DCFD34            0040c2a0     high.OBJ
+ 0001:0000b2b0       ___vba@06DCFD48            0040c2b0     high.OBJ
+ 0001:0000b2c0       ___vba@06DCFD5C            0040c2c0     high.OBJ
+ 0001:0000b2d0       ___vba@06DCFD70            0040c2d0     high.OBJ
+ 0001:0000b2e0       ___vba@06DCFD84            0040c2e0     high.OBJ
+ 0001:0000b2f0       ___vba@06DCFD98            0040c2f0     high.OBJ
+ 0001:0000b300       ___vba@06DCFDAC            0040c300     high.OBJ
+ 0001:0000b314       ___vba@06DCFDC0            0040c314     high.OBJ
+ 0001:0000b340       ___vba@06DCFDF4            0040c340     high.OBJ
+ 0001:0000b350       ___vba@06DCFE08            0040c350     high.OBJ
+ 0001:0000b360       ___vba@06DCFE1C            0040c360     high.OBJ
+ 0001:0000b370       ___vba@06DCFE30            0040c370     high.OBJ
+ 0001:0000b384       ___vba@06DCFE44            0040c384     high.OBJ
+ 0001:0000b3b0       ___vba@06D7DCF4            0040c3b0     high.OBJ
+ 0001:0000b3dc       ___vba@06D7DD28            0040c3dc     high.OBJ
+ 0001:0000b3ec       ___vba@06D7DD3C            0040c3ec     high.OBJ
+ 0001:0000b3fc       ___vba@06D7DD50            0040c3fc     high.OBJ
+ 0001:0000b40c       ___vba@06D7DD64            0040c40c     high.OBJ
+ 0001:0000b41c       ___vba@06D7DD78            0040c41c     high.OBJ
+ 0001:0000b42c       ___vba@06D7DD8C            0040c42c     high.OBJ
+ 0001:0000b43c       ___vba@06D7DDA0            0040c43c     high.OBJ
+ 0001:0000b44c       ___vba@06D7DDB4            0040c44c     high.OBJ
+ 0001:0000b460       ___vba@06D7DDC8            0040c460     high.OBJ
+ 0001:0000b488       ___vba@06D7DDF8            0040c488     high.OBJ
+ 0001:0000b498       ___vba@06D7DE0C            0040c498     high.OBJ
+ 0001:0000b4a8       ___vba@06D7DE20            0040c4a8     high.OBJ
+ 0001:0000b4b8       ___vba@06D7DE34            0040c4b8     high.OBJ
+ 0001:0000b4cc       ___vba@06D7DE48            0040c4cc     high.OBJ
+ 0001:0000b4f4       ___vba@06D7DE78            0040c4f4     high.OBJ
+ 0001:0000b504       ___vba@06D7DE8C            0040c504     high.OBJ
+ 0001:0000b514       ___vba@06D7DEA0            0040c514     high.OBJ
+ 0001:0000b524       ___vba@06D7DEB4            0040c524     high.OBJ
+ 0001:0000b534       ___vba@06D7DEC8            0040c534     high.OBJ
+ 0001:0000b544       ___vba@06D7DEDC            0040c544     high.OBJ
+ 0001:0000b558       ___vba@06DCFE9C            0040c558     high.OBJ
+ 0001:0000b568       ___vba@06DCFEB0            0040c568     high.OBJ
+ 0001:0000b57c       ___vba@06DCFEC4            0040c57c     high.OBJ
+ 0001:0000b5a4       ___vba@06DCFEF4            0040c5a4     high.OBJ
+ 0001:0000b5b4       ___vba@06DCFF08            0040c5b4     high.OBJ
+ 0001:0000b5c4       ___vba@06DCFF1C            0040c5c4     high.OBJ
+ 0001:0000b5d4       ___vba@06DCFF30            0040c5d4     high.OBJ
+ 0001:0000b5e8       ___vba@06DCFF44            0040c5e8     high.OBJ
+ 0001:0000b61c       ___vba@06DCFF80            0040c61c     high.OBJ
+ 0001:0000b62c       ___vba@06DCFF94            0040c62c     high.OBJ
+ 0001:0000b63c       ___vba@06DCFFA8            0040c63c     high.OBJ
+ 0001:0000b64c       ___vba@06DCFFBC            0040c64c     high.OBJ
+ 0001:0000b660       ___vba@06DCFFD0            0040c660     high.OBJ
+ 0001:0000b690       ___vba@06DD0004            0040c690     high.OBJ
+ 0001:0000b6bc       ___vba@06DD0034            0040c6bc     high.OBJ
+ 0001:0000b6e8       ___vba@06DD0064            0040c6e8     high.OBJ
+ 0001:0000b71c       ___vba@06DC71A4            0040c71c     high.OBJ
+ 0001:0000b74c       ___vba@06DC71D8            0040c74c     high.OBJ
+ 0001:0000b778       ___vba@06DC7208            0040c778     high.OBJ
+ 0001:0000b7a8       ___vba@06DC723C            0040c7a8     high.OBJ
+ 0001:0001a714       ___vba@06E18A74            0041b714     high.OBJ
+ 0001:0001a754       ___vba@06DEDA34            0041b754     high.OBJ
+ 0001:0001a794       ___vba@06E28044            0041b794     high.OBJ
+ 0001:0001a7d4       ___vba@06E181D4            0041b7d4     high.OBJ
+ 0001:0001a814       ___vba@06E27BF4            0041b814     high.OBJ
+ 0001:0001a854       ___vba@06E17D84            0041b854     high.OBJ
+ 0001:0001a894       ___vba@06D1DDBC            0041b894     high.OBJ
+ 0001:0001a8d4       ___vba@06CA2C74            0041b8d4     high.OBJ
+ 0001:0001a914       ___vba@06CA30C4            0041b914     high.OBJ
+ 0001:0001a954       ___vba@06CA2824            0041b954     high.OBJ
+ 0001:0001a994       ___vba@06E1A0BC            0041b994     high.OBJ
+ 0001:0001a9d4       ___vba@06DEDE84            0041b9d4     high.OBJ
+ 0001:0001aa14       ___vba@06D1E884            0041ba14     high.OBJ
+ 0001:0001aa54       ___vba@06E1A95C            0041ba54     high.OBJ
+ 0001:0001aa94       ___vba@06E28494            0041ba94     high.OBJ
+ 0001:0001aad4       ___vba@06DED5E4            0041bad4     high.OBJ
+ 0001:0001ab14       ___vba@06D1E20C            0041bb14     high.OBJ
+ 0001:0001ab54       ___vba@06E18624            0041bb54     high.OBJ
+ 0001:0001ab94       ___vba@06DEE2D4            0041bb94     high.OBJ
+ 0001:0001abd4       ___vba@06E1A50C            0041bbd4     high.OBJ
+ 0001:0001ac14       ___vba@06D834E4            0041bc14     high.OBJ
+ 0001:0001ad64       ___vba@06D8370C            0041bd64     high.OBJ
+ 0001:0001ad8c       ___vba@06D83738            0041bd8c     high.OBJ
+ 0001:0001ad98       ___vba@06D83748            0041bd98     high.OBJ
+ 0001:0001ada4       ___vba@06D83758            0041bda4     high.OBJ
+ 0001:0001adb0       ___vba@06D83768            0041bdb0     high.OBJ
+ 0001:0001adbc       ___vba@06D83778            0041bdbc     high.OBJ
+ 0001:0001adc8       ___vba@06D83788            0041bdc8     high.OBJ
+ 0001:0001add4       ___vba@06D83798            0041bdd4     high.OBJ
+ 0001:0001add8       ___vba@06D837A0            0041bdd8     high.OBJ
+ 0001:0001ae70       VB@BTXT                    0041be70     high.OBJ
+ 0001:0001ae80       ?Command2_Click@high1@@AAGXXZ 0041be80 f   high1.OBJ
+ 0001:0001b0c0       ?Command3_Click@high1@@AAGXXZ 0041c0c0 f   high1.OBJ
+ 0001:0001b300       ?Command4_Click@high1@@AAGXXZ 0041c300 f   high1.OBJ
+ 0001:0001b470       ?Command6_Click@high1@@AAGXXZ 0041c470 f   high1.OBJ
+ 0001:0001b6b0       ?drawForm@VSKIN@@AAGXXZ    0041c6b0 f   VSKIN.OBJ
+ 0001:0001d610       ?UserControl_DblClick@VSKIN@@AAGXXZ 0041e610 f   VSKIN.OBJ
+ 0001:0001ddc0       ?drawButtons@VSKIN@@AAGXXZ 0041edc0 f   VSKIN.OBJ
+ 0001:0001f9f0       ?UserControl_Initialize@VSKIN@@AAGXXZ 004209f0 f   VSKIN.OBJ
+ 0001:0001fa80       ?UserControl_MouseDown@VSKIN@@AAGXXZ 00420a80 f   VSKIN.OBJ
+ 0001:0001fff0       ?UserControl_MouseMove@VSKIN@@AAGXXZ 00420ff0 f   VSKIN.OBJ
+ 0001:00020c40       ?UserControl_MouseUp@VSKIN@@AAGXXZ 00421c40 f   VSKIN.OBJ
+ 0001:00021490       ?UserControl_Paint@VSKIN@@AAGXXZ 00422490 f   VSKIN.OBJ
+ 0001:00021520       ?UserControl_Resize@VSKIN@@AAGXXZ 00422520 f   VSKIN.OBJ
+ 0001:000215b0       ?UserControl_ReadProperties@VSKIN@@AAGXXZ 004225b0 f   VSKIN.OBJ
+ 0001:00021760       ?UserControl_WriteProperties@VSKIN@@AAGXXZ 00422760 f   VSKIN.OBJ
+ 0001:000218a0       ?Caption__Get@VSKIN@@AAGXXZ 004228a0 f   VSKIN.OBJ
+ 0001:00021930       ?Caption__Let@VSKIN@@AAGXXZ 00422930 f   VSKIN.OBJ
+ 0001:000219c0       ?Resize__Get@VSKIN@@AAGXXZ 004229c0 f   VSKIN.OBJ
+ 0001:00021a30       ?Resize__Let@VSKIN@@AAGXXZ 00422a30 f   VSKIN.OBJ
+ 0001:00021b00       ?Command2_Click@high16@@AAGXXZ 00422b00 f   high16.OBJ
+ 0001:00021d40       ?Command3_Click@high16@@AAGXXZ 00422d40 f   high16.OBJ
+ 0001:00021f80       ?Command4_Click@high16@@AAGXXZ 00422f80 f   high16.OBJ
+ 0001:000220f0       ?Command6_Click@high16@@AAGXXZ 004230f0 f   high16.OBJ
+ 0001:00022330       ?Command5_Click@high16@@AAGXXZ 00423330 f   high16.OBJ
+ 0001:00022570       ?Command2_Click@high2@@AAGXXZ 00423570 f   high2.OBJ
+ 0001:000227b0       ?Command3_Click@high2@@AAGXXZ 004237b0 f   high2.OBJ
+ 0001:000229f0       ?Command4_Click@high2@@AAGXXZ 004239f0 f   high2.OBJ
+ 0001:00022b60       ?Command5_Click@high2@@AAGXXZ 00423b60 f   high2.OBJ
+ 0001:00022da0       ?Command6_Click@high2@@AAGXXZ 00423da0 f   high2.OBJ
+ 0001:00022fe0       ?Command2_Click@high8@@AAGXXZ 00423fe0 f   high8.OBJ
+ 0001:00023220       ?Command3_Click@high8@@AAGXXZ 00424220 f   high8.OBJ
+ 0001:00023460       ?Command4_Click@high8@@AAGXXZ 00424460 f   high8.OBJ
+ 0001:000235d0       ?Command6_Click@high8@@AAGXXZ 004245d0 f   high8.OBJ
+ 0001:00023810       ?Command5_Click@high8@@AAGXXZ 00424810 f   high8.OBJ
+ 0001:00023a50       ?Command2_Click@high12@@AAGXXZ 00424a50 f   high12.OBJ
+ 0001:00023c90       ?Command3_Click@high12@@AAGXXZ 00424c90 f   high12.OBJ
+ 0001:00023ed0       ?Command4_Click@high12@@AAGXXZ 00424ed0 f   high12.OBJ
+ 0001:00024040       ?Command6_Click@high12@@AAGXXZ 00425040 f   high12.OBJ
+ 0001:00024280       ?Command5_Click@high12@@AAGXXZ 00425280 f   high12.OBJ
+ 0001:000244c0       ?Command2_Click@high11@@AAGXXZ 004254c0 f   high11.OBJ
+ 0001:00024700       ?Command3_Click@high11@@AAGXXZ 00425700 f   high11.OBJ
+ 0001:00024940       ?Command4_Click@high11@@AAGXXZ 00425940 f   high11.OBJ
+ 0001:00024ab0       ?Command6_Click@high11@@AAGXXZ 00425ab0 f   high11.OBJ
+ 0001:00024cf0       ?Command5_Click@high11@@AAGXXZ 00425cf0 f   high11.OBJ
+ 0001:00024f30       ?Command2_Click@high17@@AAGXXZ 00425f30 f   highQ.OBJ
+ 0001:00025170       ?Command3_Click@high17@@AAGXXZ 00426170 f   highQ.OBJ
+ 0001:000253b0       ?Command4_Click@high17@@AAGXXZ 004263b0 f   highQ.OBJ
+ 0001:00025520       ?Command6_Click@high17@@AAGXXZ 00426520 f   highQ.OBJ
+ 0001:00025760       ?Command5_Click@high17@@AAGXXZ 00426760 f   highQ.OBJ
+ 0001:000259a0       ?Command2_Click@high18@@AAGXXZ 004269a0 f   high18.OBJ
+ 0001:00025be0       ?Command3_Click@high18@@AAGXXZ 00426be0 f   high18.OBJ
+ 0001:00025e20       ?Command4_Click@high18@@AAGXXZ 00426e20 f   high18.OBJ
+ 0001:00025f90       ?Command6_Click@high18@@AAGXXZ 00426f90 f   high18.OBJ
+ 0001:000261d0       ?Command5_Click@high18@@AAGXXZ 004271d0 f   high18.OBJ
+ 0001:00026410       ?Command2_Click@high6@@AAGXXZ 00427410 f   high6.OBJ
+ 0001:00026650       ?Command3_Click@high6@@AAGXXZ 00427650 f   high6.OBJ
+ 0001:00026890       ?Command4_Click@high6@@AAGXXZ 00427890 f   high6.OBJ
+ 0001:00026a00       ?Command6_Click@high6@@AAGXXZ 00427a00 f   high6.OBJ
+ 0001:00026c40       ?Command5_Click@high6@@AAGXXZ 00427c40 f   high6.OBJ
+ 0001:00026e80       ?Command5_Click@high19@@AAGXXZ 00427e80 f   high19.OBJ
+ 0001:000270c0       ?Command3_Click@high19@@AAGXXZ 004280c0 f   high19.OBJ
+ 0001:00027300       ?Command4_Click@high19@@AAGXXZ 00428300 f   high19.OBJ
+ 0001:00027470       ?Command6_Click@high19@@AAGXXZ 00428470 f   high19.OBJ
+ 0001:000276b0       ?Command2_Click@high4@@AAGXXZ 004286b0 f   high4.OBJ
+ 0001:000278f0       ?Command3_Click@high4@@AAGXXZ 004288f0 f   high4.OBJ
+ 0001:00027b30       ?Command4_Click@high4@@AAGXXZ 00428b30 f   high4.OBJ
+ 0001:00027ca0       ?Command6_Click@high4@@AAGXXZ 00428ca0 f   high4.OBJ
+ 0001:00027ee0       ?Command5_Click@high4@@AAGXXZ 00428ee0 f   high4.OBJ
+ 0001:00028120       ?Command2_Click@high13@@AAGXXZ 00429120 f   high13.OBJ
+ 0001:00028360       ?Command3_Click@high13@@AAGXXZ 00429360 f   high13.OBJ
+ 0001:000285a0       ?Command4_Click@high13@@AAGXXZ 004295a0 f   high13.OBJ
+ 0001:00028710       ?Command6_Click@high13@@AAGXXZ 00429710 f   high13.OBJ
+ 0001:00028950       ?Command5_Click@high13@@AAGXXZ 00429950 f   high13.OBJ
+ 0001:00028b90       ?Command2_Click@high15@@AAGXXZ 00429b90 f   high15.OBJ
+ 0001:00028dd0       ?Command3_Click@high15@@AAGXXZ 00429dd0 f   high15.OBJ
+ 0001:00029010       ?Command4_Click@high15@@AAGXXZ 0042a010 f   high15.OBJ
+ 0001:00029180       ?Command6_Click@high15@@AAGXXZ 0042a180 f   high15.OBJ
+ 0001:000293c0       ?Command5_Click@high15@@AAGXXZ 0042a3c0 f   high15.OBJ
+ 0001:00029600       ?Command2_Click@high10@@AAGXXZ 0042a600 f   high10.OBJ
+ 0001:00029840       ?Command3_Click@high10@@AAGXXZ 0042a840 f   high10.OBJ
+ 0001:00029a80       ?Command4_Click@high10@@AAGXXZ 0042aa80 f   high10.OBJ
+ 0001:00029bf0       ?Command6_Click@high10@@AAGXXZ 0042abf0 f   high10.OBJ
+ 0001:00029e30       ?Command5_Click@high10@@AAGXXZ 0042ae30 f   high10.OBJ
+ 0001:0002a070       ?Command2_Click@high14@@AAGXXZ 0042b070 f   high14.OBJ
+ 0001:0002a2b0       ?Command3_Click@high14@@AAGXXZ 0042b2b0 f   high14.OBJ
+ 0001:0002a4f0       ?Command4_Click@high14@@AAGXXZ 0042b4f0 f   high14.OBJ
+ 0001:0002a660       ?Command6_Click@high14@@AAGXXZ 0042b660 f   high14.OBJ
+ 0001:0002a8a0       ?Command5_Click@high14@@AAGXXZ 0042b8a0 f   high14.OBJ
+ 0001:0002aae0       ?Command2_Click@high7@@AAGXXZ 0042bae0 f   high7.OBJ
+ 0001:0002ad20       ?Command3_Click@high7@@AAGXXZ 0042bd20 f   high7.OBJ
+ 0001:0002af60       ?Command4_Click@high7@@AAGXXZ 0042bf60 f   high7.OBJ
+ 0001:0002b0d0       ?Command6_Click@high7@@AAGXXZ 0042c0d0 f   high7.OBJ
+ 0001:0002b310       ?Command5_Click@high7@@AAGXXZ 0042c310 f   high7.OBJ
+ 0001:0002b550       ?Command2_Click@high9@@AAGXXZ 0042c550 f   high9.OBJ
+ 0001:0002b790       ?Command3_Click@high9@@AAGXXZ 0042c790 f   high9.OBJ
+ 0001:0002b9d0       ?Command4_Click@high9@@AAGXXZ 0042c9d0 f   high9.OBJ
+ 0001:0002bb40       ?Command6_Click@high9@@AAGXXZ 0042cb40 f   high9.OBJ
+ 0001:0002bd80       ?Command5_Click@high9@@AAGXXZ 0042cd80 f   high9.OBJ
+ 0001:0002bfc0       ?Command2_Click@high5@@AAGXXZ 0042cfc0 f   high5.OBJ
+ 0001:0002c200       ?Command3_Click@high5@@AAGXXZ 0042d200 f   high5.OBJ
+ 0001:0002c440       ?Command4_Click@high5@@AAGXXZ 0042d440 f   high5.OBJ
+ 0001:0002c5b0       ?Command6_Click@high5@@AAGXXZ 0042d5b0 f   high5.OBJ
+ 0001:0002c7f0       ?Command5_Click@high5@@AAGXXZ 0042d7f0 f   high5.OBJ
+ 0001:0002ca30       ?Command2_Click@high3@@AAGXXZ 0042da30 f   high3.OBJ
+ 0001:0002cc70       ?Command3_Click@high3@@AAGXXZ 0042dc70 f   high3.OBJ
+ 0001:0002ceb0       ?Command4_Click@high3@@AAGXXZ 0042deb0 f   high3.OBJ
+ 0001:0002d020       ?Command6_Click@high3@@AAGXXZ 0042e020 f   high3.OBJ
+ 0001:0002d260       ?Command5_Click@high3@@AAGXXZ 0042e260 f   high3.OBJ
+ 0001:0002d4a0       ?Command1_Click@highQ@@AAGXXZ 0042e4a0 f   highQ1.OBJ
+ 0001:0002d6e0       ?Command10_Click@highQ@@AAGXXZ 0042e6e0 f   highQ1.OBJ
+ 0001:0002d920       ?Command11_Click@highQ@@AAGXXZ 0042e920 f   highQ1.OBJ
+ 0001:0002db60       ?Command12_Click@highQ@@AAGXXZ 0042eb60 f   highQ1.OBJ
+ 0001:0002dda0       ?Command13_Click@highQ@@AAGXXZ 0042eda0 f   highQ1.OBJ
+ 0001:0002dfe0       ?Command14_Click@highQ@@AAGXXZ 0042efe0 f   highQ1.OBJ
+ 0001:0002e220       ?Command15_Click@highQ@@AAGXXZ 0042f220 f   highQ1.OBJ
+ 0001:0002e460       ?Command16_Click@highQ@@AAGXXZ 0042f460 f   highQ1.OBJ
+ 0001:0002e6a0       ?Command17_Click@highQ@@AAGXXZ 0042f6a0 f   highQ1.OBJ
+ 0001:0002e8e0       ?Command18_Click@highQ@@AAGXXZ 0042f8e0 f   highQ1.OBJ
+ 0001:0002eb20       ?Command19_Click@highQ@@AAGXXZ 0042fb20 f   highQ1.OBJ
+ 0001:0002ed60       ?Command2_Click@highQ@@AAGXXZ 0042fd60 f   highQ1.OBJ
+ 0001:0002efa0       ?Command3_Click@highQ@@AAGXXZ 0042ffa0 f   highQ1.OBJ
+ 0001:0002f1e0       ?Command4_Click@highQ@@AAGXXZ 004301e0 f   highQ1.OBJ
+ 0001:0002f420       ?Command5_Click@highQ@@AAGXXZ 00430420 f   highQ1.OBJ
+ 0001:0002f660       ?Command6_Click@highQ@@AAGXXZ 00430660 f   highQ1.OBJ
+ 0001:0002f8a0       ?Command7_Click@highQ@@AAGXXZ 004308a0 f   highQ1.OBJ
+ 0001:0002fae0       ?Command8_Click@highQ@@AAGXXZ 00430ae0 f   highQ1.OBJ
+ 0001:0002fd20       ?Command9_Click@highQ@@AAGXXZ 00430d20 f   highQ1.OBJ
+ 0001:0002ff60       VB@ETXT                    00430f60     high.OBJ
+ 0002:00000000       __adjust_fdiv              00432000     VBAEXE6:natsupp.obj
+ 0002:00000008       VB@BSS                     00432008     high.OBJ
+ 0002:00000010       ___vba@06D83B90            00432010     high.OBJ
+ 0002:00000024       ___vba@06D83BC0            00432024     high.OBJ
+ 0002:00000038       ___vba@06D1E664            00432038     high.OBJ
+ 0002:0000004c       ___vba@06D83B78            0043204c     high.OBJ
+ 0002:00000060       ___vba@06D83BA8            00432060     high.OBJ
+ 0002:00000074       ___vba@06D83C20            00432074     high.OBJ
+ 0002:00000088       ___vba@06D83CB0            00432088     high.OBJ
+ 0002:0000009c       ___vba@06D83D40            0043209c     high.OBJ
+ 0002:000000b0       ___vba@06D83BD8            004320b0     high.OBJ
+ 0002:000000c4       ___vba@06D83D10            004320c4     high.OBJ
+ 0002:000000d8       ___vba@06D83CF8            004320d8     high.OBJ
+ 0002:000000ec       ___vba@06D83BF0            004320ec     high.OBJ
+ 0002:00000100       ___vba@06D83C98            00432100     high.OBJ
+ 0002:00000114       ___vba@06D83C08            00432114     high.OBJ
+ 0002:00000128       ___vba@06D83CC8            00432128     high.OBJ
+ 0002:0000013c       ___vba@06D83C38            0043213c     high.OBJ
+ 0002:00000150       ___vba@06D83C68            00432150     high.OBJ
+ 0002:00000164       ___vba@06D83C50            00432164     high.OBJ
+ 0002:00000178       ___vba@06D83D28            00432178     high.OBJ
+ 0002:0000018c       ___vba@06D83C80            0043218c     high.OBJ
+ 0002:000001a0       ___vba@06D83CE0            004321a0     high.OBJ
+ 0002:00000b0c       ___vba@06E29C60            00432b0c     high.OBJ
+ 0002:00000bb8       ___vba@06DE1F1C            00432bb8     high.OBJ
+ 0002:00001308       ___vba@06C9A254            00433308     high.OBJ
+ 0002:00001a20       ___vba@06DC11A4            00433a20     high.OBJ
+ 0002:00002138       ___vba@06C9B0E4            00434138     high.OBJ
+ 0002:00002850       ___vba@06DBB16C            00434850     high.OBJ
+ 0002:00002f68       ___vba@06DC2034            00434f68     high.OBJ
+ 0002:00003680       ___vba@06DBCE8C            00435680     high.OBJ
+ 0002:00003d98       ___vba@06C99B0C            00435d98     high.OBJ
+ 0002:000044b0       ___vba@06DBBFFC            004364b0     high.OBJ
+ 0002:00004bc8       ___vba@06DC18EC            00436bc8     high.OBJ
+ 0002:000052e0       ___vba@06DBDD1C            004372e0     high.OBJ
+ 0002:000059f4       ___vba@06DBE464            004379f4     high.OBJ
+ 0002:0000610c       ___vba@06DBD5D4            0043810c     high.OBJ
+ 0002:00006824       ___vba@06C993C4            00438824     high.OBJ
+ 0002:00006f3c       ___vba@06DBC744            00438f3c     high.OBJ
+ 0002:00007654       ___vba@06DBB8B4            00439654     high.OBJ
+ 0002:00007d6c       ___vba@06C9A99C            00439d6c     high.OBJ
+ 0002:00008484       ___vba@06C98534            0043a484     high.OBJ
+ 0002:00008b9c       ___vba@06C98C7C            0043ab9c     high.OBJ
+ 0002:000092b4       ___vba@06C97DEC            0043b2b4     high.OBJ
+ 0002:000099c8       ___vba@06D1320C            0043b9c8     high.OBJ
+
+ entry point at        0001:00000bc0
+
+ Static symbols
+
